@@ -172,6 +172,15 @@ fn main() {
         tag_lookup.insert(tagmap.id, tagmap.contents);
     }
     println!("all tags {tag_lookup:?}");
+    let _ = std::fs::write(
+        "tag_dump.json",
+        serde_json::to_string(
+            &tag_lookup.iter()
+            .map(
+                |x|(x.0.to_string(),x.1.clone())
+            ).collect::<HashMap<String,Vec<Identifier>>>()
+        ).unwrap()
+    );
     let mut items: Vec<Identifier> = Vec::new();
     for recipe in &recipes {
         let filtered: Vec<Identifier> = recipe
@@ -381,10 +390,10 @@ fn main() {
     println!("please manually give {missing_values:?} EMC values");
 
     let mut output_map = serde_json::Map::new();
-    for key in emc_map.iter().filter(|x| og_missing.contains(x.0)) {
+    for key in emc_map {//.iter().filter(|x| og_missing.contains(x.0)) {
         output_map.insert(
             key.0.to_string(),
-            Value::Number(Number::from(*key.1 as usize)),
+            Value::Number(Number::from(key.1 as usize)),
         );
     }
     let _ = std::fs::write(

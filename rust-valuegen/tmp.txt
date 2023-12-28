@@ -1,11 +1,11 @@
-all tags {emi:/tag/item/minecraft/logs: [minecraft:dark_oak_log, minecraft:dark_oak_wood, minecraft:stripped_dark_oak_log, minecraft:stripped_dark_oak_wood, minecraft:oak_log, minecraft:oak_wood, minecraft:stripped_oak_log, minecraft:stripped_oak_wood, minecraft:acacia_log, minecraft:acacia_wood, minecraft:stripped_acacia_log, minecraft:stripped_acacia_wood, minecraft:birch_log, minecraft:birch_wood, minecraft:stripped_birch_log, minecraft:stripped_birch_wood, minecraft:jungle_log, minecraft:jungle_wood, minecraft:stripped_jungle_log, minecraft:stripped_jungle_wood, minecraft:spruce_log, minecraft:spruce_wood, minecraft:stripped_spruce_log, minecraft:stripped_spruce_wood, minecraft:mangrove_log, minecraft:mangrove_wood, minecraft:stripped_mangrove_log, minecraft:stripped_mangrove_wood, minecraft:cherry_log, minecraft:cherry_wood, minecraft:stripped_cherry_log, minecraft:stripped_cherry_wood, minecraft:crimson_stem, minecraft:stripped_crimson_stem, minecraft:crimson_hyphae, minecraft:stripped_crimson_hyphae, minecraft:warped_stem, minecraft:stripped_warped_stem, minecraft:warped_hyphae, minecraft:stripped_warped_hyphae], emi:/tag/item/minecraft/logs_that_burn: [minecraft:dark_oak_log, minecraft:dark_oak_wood, minecraft:stripped_dark_oak_log, minecraft:stripped_dark_oak_wood, minecraft:oak_log, minecraft:oak_wood, minecraft:stripped_oak_log, minecraft:stripped_oak_wood, minecraft:acacia_log, minecraft:acacia_wood, minecraft:stripped_acacia_log, minecraft:stripped_acacia_wood, minecraft:birch_log, minecraft:birch_wood, minecraft:stripped_birch_log, minecraft:stripped_birch_wood, minecraft:jungle_log, minecraft:jungle_wood, minecraft:stripped_jungle_log, minecraft:stripped_jungle_wood, minecraft:spruce_log, minecraft:spruce_wood, minecraft:stripped_spruce_log, minecraft:stripped_spruce_wood, minecraft:mangrove_log, minecraft:mangrove_wood, minecraft:stripped_mangrove_log, minecraft:stripped_mangrove_wood, minecraft:cherry_log, minecraft:cherry_wood, minecraft:stripped_cherry_log, minecraft:stripped_cherry_wood], emi:/tag/item/c/red_sandstone_slabs: [minecraft:red_sandstone_slab, minecraft:cut_red_sandstone_slab, minecraft:smooth_red_sandstone_slab], emi:/tag/item/minecraft/arrows: [minecraft:arrow, minecraft:tipped_arrow, minecraft:spectral_arrow], emi:/tag/item/minecraft/gold_ores: [minecraft:gold_ore, minecraft:nether_gold_ore, minecraft:deepslate_gold_ore], emi:/tag/item/minecraft/stone_tool_materials: [minecraft:cobblestone, minecraft:blackstone, minecraft:cobbled_deepslate], emi:/tag/item/minecraft/creeper_drop_music_discs: [minecraft:music_disc_13, minecraft:music_disc_cat, minecraft:music_disc_blocks, minecraft:music_disc_chirp, minecraft:music_disc_far, minecraft:music_disc_mall, minecraft:music_disc_mellohi, minecraft:music_disc_stal, minecraft:music_disc_strad, minecraft:music_disc_ward, minecraft:music_disc_11, minecraft:music_disc_wait], emi:/tag/item/c/sandstone_slabs: [minecraft:sandstone_slab, minecraft:cut_sandstone_slab, minecraft:smooth_sandstone_slab, minecraft:red_sandstone_slab, minecraft:cut_red_sandstone_slab, minecraft:smooth_red_sandstone_slab], emi:/tag/item/minecraft/diamond_ores: [minecraft:diamond_ore, minecraft:deepslate_diamond_ore], emi:/tag/item/minecraft/saplings: [minecraft:oak_sapling, minecraft:spruce_sapling, minecraft:birch_sapling, minecraft:jungle_sapling, minecraft:acacia_sapling, minecraft:dark_oak_sapling, minecraft:azalea, minecraft:flowering_azalea, minecraft:mangrove_propagule, minecraft:cherry_sapling], emi:/tag/item/minecraft/leaves: [minecraft:jungle_leaves, minecraft:oak_leaves, minecraft:spruce_leaves, minecraft:dark_oak_leaves, minecraft:acacia_leaves, minecraft:birch_leaves, minecraft:azalea_leaves, minecraft:flowering_azalea_leaves, minecraft:mangrove_leaves, minecraft:cherry_leaves], emi:/tag/item/c/glass_blocks: [minecraft:glass, minecraft:gray_stained_glass, minecraft:black_stained_glass, minecraft:orange_stained_glass, minecraft:blue_stained_glass, minecraft:brown_stained_glass, minecraft:cyan_stained_glass, minecraft:green_stained_glass, minecraft:light_blue_stained_glass, minecraft:light_gray_stained_glass, minecraft:lime_stained_glass, minecraft:magenta_stained_glass, minecraft:pink_stained_glass, minecraft:purple_stained_glass, minecraft:red_stained_glass, minecraft:tinted_glass, minecraft:white_stained_glass, minecraft:yellow_stained_glass], emi:/tag/item/c/potions: [minecraft:lingering_potion, minecraft:splash_potion, minecraft:potion], emi:/tag/item/c/villager_job_sites: [minecraft:barrel, minecraft:blast_furnace, minecraft:brewing_stand, minecraft:cartography_table, minecraft:cauldron, minecraft:composter, minecraft:fletching_table, minecraft:grindstone, minecraft:lectern, minecraft:loom, minecraft:smithing_table, minecraft:smoker, minecraft:stonecutter], emi:/tag/item/minecraft/bamboo_blocks: [minecraft:bamboo_block, minecraft:stripped_bamboo_block], emi:/tag/item/minecraft/jungle_logs: [minecraft:jungle_log, minecraft:jungle_wood, minecraft:stripped_jungle_log, minecraft:stripped_jungle_wood], emi:/tag/item/minecraft/piglin_food: [minecraft:porkchop, minecraft:cooked_porkchop], emi:/tag/item/minecraft/slabs: [minecraft:oak_slab, minecraft:spruce_slab, minecraft:birch_slab, minecraft:jungle_slab, minecraft:acacia_slab, minecraft:dark_oak_slab, minecraft:crimson_slab, minecraft:warped_slab, minecraft:mangrove_slab, minecraft:bamboo_slab, minecraft:cherry_slab, minecraft:bamboo_mosaic_slab, minecraft:stone_slab, minecraft:smooth_stone_slab, minecraft:stone_brick_slab, minecraft:sandstone_slab, minecraft:purpur_slab, minecraft:quartz_slab, minecraft:red_sandstone_slab, minecraft:brick_slab, minecraft:cobblestone_slab, minecraft:nether_brick_slab, minecraft:petrified_oak_slab, minecraft:prismarine_slab, minecraft:prismarine_brick_slab, minecraft:dark_prismarine_slab, minecraft:polished_granite_slab, minecraft:smooth_red_sandstone_slab, minecraft:mossy_stone_brick_slab, minecraft:polished_diorite_slab, minecraft:mossy_cobblestone_slab, minecraft:end_stone_brick_slab, minecraft:smooth_sandstone_slab, minecraft:smooth_quartz_slab, minecraft:granite_slab, minecraft:andesite_slab, minecraft:red_nether_brick_slab, minecraft:polished_andesite_slab, minecraft:diorite_slab, minecraft:cut_sandstone_slab, minecraft:cut_red_sandstone_slab, minecraft:blackstone_slab, minecraft:polished_blackstone_brick_slab, minecraft:polished_blackstone_slab, minecraft:cobbled_deepslate_slab, minecraft:polished_deepslate_slab, minecraft:deepslate_tile_slab, minecraft:deepslate_brick_slab, minecraft:waxed_weathered_cut_copper_slab, minecraft:waxed_exposed_cut_copper_slab, minecraft:waxed_cut_copper_slab, minecraft:oxidized_cut_copper_slab, minecraft:weathered_cut_copper_slab, minecraft:exposed_cut_copper_slab, minecraft:cut_copper_slab, minecraft:waxed_oxidized_cut_copper_slab, minecraft:mud_brick_slab], emi:/tag/item/minecraft/terracotta: [minecraft:terracotta, minecraft:white_terracotta, minecraft:orange_terracotta, minecraft:magenta_terracotta, minecraft:light_blue_terracotta, minecraft:yellow_terracotta, minecraft:lime_terracotta, minecraft:pink_terracotta, minecraft:gray_terracotta, minecraft:light_gray_terracotta, minecraft:cyan_terracotta, minecraft:purple_terracotta, minecraft:blue_terracotta, minecraft:brown_terracotta, minecraft:green_terracotta, minecraft:red_terracotta, minecraft:black_terracotta], emi:/tag/item/minecraft/trim_templates: [minecraft:ward_armor_trim_smithing_template, minecraft:spire_armor_trim_smithing_template, minecraft:coast_armor_trim_smithing_template, minecraft:eye_armor_trim_smithing_template, minecraft:dune_armor_trim_smithing_template, minecraft:wild_armor_trim_smithing_template, minecraft:rib_armor_trim_smithing_template, minecraft:tide_armor_trim_smithing_template, minecraft:sentry_armor_trim_smithing_template, minecraft:vex_armor_trim_smithing_template, minecraft:snout_armor_trim_smithing_template, minecraft:wayfinder_armor_trim_smithing_template, minecraft:shaper_armor_trim_smithing_template, minecraft:silence_armor_trim_smithing_template, minecraft:raiser_armor_trim_smithing_template, minecraft:host_armor_trim_smithing_template], emi:/tag/item/minecraft/redstone_ores: [minecraft:redstone_ore, minecraft:deepslate_redstone_ore], emi:/tag/item/minecraft/oak_logs: [minecraft:oak_log, minecraft:oak_wood, minecraft:stripped_oak_log, minecraft:stripped_oak_wood], emi:/tag/item/minecraft/lectern_books: [minecraft:written_book, minecraft:writable_book], emi:/tag/item/c/raw_ores: [minecraft:raw_iron, minecraft:raw_copper, minecraft:raw_gold], emi:/tag/item/minecraft/mangrove_logs: [minecraft:mangrove_log, minecraft:mangrove_wood, minecraft:stripped_mangrove_log, minecraft:stripped_mangrove_wood], emi:/tag/item/c/uncolored_sandstone_stairs: [minecraft:sandstone_stairs, minecraft:smooth_sandstone_stairs], emi:/tag/item/c/bows: [minecraft:crossbow, minecraft:bow], emi:/tag/item/minecraft/fence_gates: [minecraft:acacia_fence_gate, minecraft:birch_fence_gate, minecraft:dark_oak_fence_gate, minecraft:jungle_fence_gate, minecraft:oak_fence_gate, minecraft:spruce_fence_gate, minecraft:crimson_fence_gate, minecraft:warped_fence_gate, minecraft:mangrove_fence_gate, minecraft:bamboo_fence_gate, minecraft:cherry_fence_gate], emi:/tag/item/minecraft/planks: [minecraft:oak_planks, minecraft:spruce_planks, minecraft:birch_planks, minecraft:jungle_planks, minecraft:acacia_planks, minecraft:dark_oak_planks, minecraft:crimson_planks, minecraft:warped_planks, minecraft:mangrove_planks, minecraft:bamboo_planks, minecraft:cherry_planks], emi:/tag/item/minecraft/acacia_logs: [minecraft:acacia_log, minecraft:acacia_wood, minecraft:stripped_acacia_log, minecraft:stripped_acacia_wood], emi:/tag/item/minecraft/compasses: [minecraft:compass, minecraft:recovery_compass], emi:/tag/item/minecraft/beds: [minecraft:red_bed, minecraft:black_bed, minecraft:blue_bed, minecraft:brown_bed, minecraft:cyan_bed, minecraft:gray_bed, minecraft:green_bed, minecraft:light_blue_bed, minecraft:light_gray_bed, minecraft:lime_bed, minecraft:magenta_bed, minecraft:orange_bed, minecraft:pink_bed, minecraft:purple_bed, minecraft:white_bed, minecraft:yellow_bed], emi:/tag/item/minecraft/piglin_loved: [minecraft:gold_ore, minecraft:nether_gold_ore, minecraft:deepslate_gold_ore, minecraft:gold_block, minecraft:gilded_blackstone, minecraft:light_weighted_pressure_plate, minecraft:gold_ingot, minecraft:bell, minecraft:clock, minecraft:golden_carrot, minecraft:glistering_melon_slice, minecraft:golden_apple, minecraft:enchanted_golden_apple, minecraft:golden_helmet, minecraft:golden_chestplate, minecraft:golden_leggings, minecraft:golden_boots, minecraft:golden_horse_armor, minecraft:golden_sword, minecraft:golden_pickaxe, minecraft:golden_shovel, minecraft:golden_axe, minecraft:golden_hoe, minecraft:raw_gold, minecraft:raw_gold_block], emi:/tag/item/c/uncolored_sandstone_blocks: [minecraft:sandstone, minecraft:chiseled_sandstone, minecraft:cut_sandstone, minecraft:smooth_sandstone], emi:/tag/item/minecraft/crimson_stems: [minecraft:crimson_stem, minecraft:stripped_crimson_stem, minecraft:crimson_hyphae, minecraft:stripped_crimson_hyphae], emi:/tag/item/c/uncolored_sandstone_slabs: [minecraft:sandstone_slab, minecraft:cut_sandstone_slab, minecraft:smooth_sandstone_slab], emi:/tag/item/minecraft/signs: [minecraft:oak_sign, minecraft:spruce_sign, minecraft:birch_sign, minecraft:acacia_sign, minecraft:jungle_sign, minecraft:dark_oak_sign, minecraft:crimson_sign, minecraft:warped_sign, minecraft:mangrove_sign, minecraft:bamboo_sign, minecraft:cherry_sign], emi:/tag/item/minecraft/sand: [minecraft:sand, minecraft:red_sand, minecraft:suspicious_sand], emi:/tag/item/minecraft/small_flowers: [minecraft:dandelion, minecraft:poppy, minecraft:blue_orchid, minecraft:allium, minecraft:azure_bluet, minecraft:red_tulip, minecraft:orange_tulip, minecraft:white_tulip, minecraft:pink_tulip, minecraft:oxeye_daisy, minecraft:cornflower, minecraft:lily_of_the_valley, minecraft:wither_rose, minecraft:torchflower], emi:/tag/item/minecraft/beacon_payment_items: [minecraft:netherite_ingot, minecraft:emerald, minecraft:diamond, minecraft:gold_ingot, minecraft:iron_ingot], emi:/tag/item/c/nuggets: [minecraft:gold_nugget, minecraft:iron_nugget], emi:/tag/item/minecraft/soul_fire_base_blocks: [minecraft:soul_sand, minecraft:soul_soil], emi:/tag/item/minecraft/spruce_logs: [minecraft:spruce_log, minecraft:spruce_wood, minecraft:stripped_spruce_log, minecraft:stripped_spruce_wood], emi:/tag/item/minecraft/stairs: [minecraft:oak_stairs, minecraft:spruce_stairs, minecraft:birch_stairs, minecraft:jungle_stairs, minecraft:acacia_stairs, minecraft:dark_oak_stairs, minecraft:crimson_stairs, minecraft:warped_stairs, minecraft:mangrove_stairs, minecraft:bamboo_stairs, minecraft:cherry_stairs, minecraft:bamboo_mosaic_stairs, minecraft:cobblestone_stairs, minecraft:sandstone_stairs, minecraft:nether_brick_stairs, minecraft:stone_brick_stairs, minecraft:brick_stairs, minecraft:purpur_stairs, minecraft:quartz_stairs, minecraft:red_sandstone_stairs, minecraft:prismarine_brick_stairs, minecraft:prismarine_stairs, minecraft:dark_prismarine_stairs, minecraft:polished_granite_stairs, minecraft:smooth_red_sandstone_stairs, minecraft:mossy_stone_brick_stairs, minecraft:polished_diorite_stairs, minecraft:mossy_cobblestone_stairs, minecraft:end_stone_brick_stairs, minecraft:stone_stairs, minecraft:smooth_sandstone_stairs, minecraft:smooth_quartz_stairs, minecraft:granite_stairs, minecraft:andesite_stairs, minecraft:red_nether_brick_stairs, minecraft:polished_andesite_stairs, minecraft:diorite_stairs, minecraft:blackstone_stairs, minecraft:polished_blackstone_brick_stairs, minecraft:polished_blackstone_stairs, minecraft:cobbled_deepslate_stairs, minecraft:polished_deepslate_stairs, minecraft:deepslate_tile_stairs, minecraft:deepslate_brick_stairs, minecraft:oxidized_cut_copper_stairs, minecraft:weathered_cut_copper_stairs, minecraft:exposed_cut_copper_stairs, minecraft:cut_copper_stairs, minecraft:waxed_weathered_cut_copper_stairs, minecraft:waxed_exposed_cut_copper_stairs, minecraft:waxed_cut_copper_stairs, minecraft:waxed_oxidized_cut_copper_stairs, minecraft:mud_brick_stairs], emi:/tag/item/minecraft/candles: [minecraft:candle, minecraft:white_candle, minecraft:orange_candle, minecraft:magenta_candle, minecraft:light_blue_candle, minecraft:yellow_candle, minecraft:lime_candle, minecraft:pink_candle, minecraft:gray_candle, minecraft:light_gray_candle, minecraft:cyan_candle, minecraft:purple_candle, minecraft:blue_candle, minecraft:brown_candle, minecraft:green_candle, minecraft:red_candle, minecraft:black_candle], emi:/tag/item/minecraft/stone_bricks: [minecraft:stone_bricks, minecraft:mossy_stone_bricks, minecraft:cracked_stone_bricks, minecraft:chiseled_stone_bricks], emi:/tag/item/minecraft/tall_flowers: [minecraft:sunflower, minecraft:lilac, minecraft:peony, minecraft:rose_bush, minecraft:pitcher_plant], emi:/tag/item/c/red_sandstone_blocks: [minecraft:red_sandstone, minecraft:chiseled_red_sandstone, minecraft:cut_red_sandstone, minecraft:smooth_red_sandstone], emi:/tag/item/minecraft/emerald_ores: [minecraft:emerald_ore, minecraft:deepslate_emerald_ore], emi:/tag/item/minecraft/chest_boats: [minecraft:oak_chest_boat, minecraft:spruce_chest_boat, minecraft:birch_chest_boat, minecraft:jungle_chest_boat, minecraft:acacia_chest_boat, minecraft:dark_oak_chest_boat, minecraft:mangrove_chest_boat, minecraft:bamboo_chest_raft, minecraft:cherry_chest_boat], emi:/tag/item/c/dusts: [minecraft:glowstone_dust, minecraft:redstone], emi:/tag/item/minecraft/non_flammable_wood: [minecraft:warped_stem, minecraft:stripped_warped_stem, minecraft:warped_hyphae, minecraft:stripped_warped_hyphae, minecraft:crimson_stem, minecraft:stripped_crimson_stem, minecraft:crimson_hyphae, minecraft:stripped_crimson_hyphae, minecraft:crimson_planks, minecraft:warped_planks, minecraft:crimson_slab, minecraft:warped_slab, minecraft:crimson_pressure_plate, minecraft:warped_pressure_plate, minecraft:crimson_fence, minecraft:warped_fence, minecraft:crimson_trapdoor, minecraft:warped_trapdoor, minecraft:crimson_fence_gate, minecraft:warped_fence_gate, minecraft:crimson_stairs, minecraft:warped_stairs, minecraft:crimson_button, minecraft:warped_button, minecraft:crimson_door, minecraft:warped_door, minecraft:crimson_sign, minecraft:warped_sign, minecraft:warped_hanging_sign, minecraft:crimson_hanging_sign], emi:/tag/item/minecraft/trapdoors: [minecraft:acacia_trapdoor, minecraft:birch_trapdoor, minecraft:dark_oak_trapdoor, minecraft:jungle_trapdoor, minecraft:oak_trapdoor, minecraft:spruce_trapdoor, minecraft:crimson_trapdoor, minecraft:warped_trapdoor, minecraft:mangrove_trapdoor, minecraft:bamboo_trapdoor, minecraft:cherry_trapdoor, minecraft:iron_trapdoor], emi:/tag/item/minecraft/villager_plantable_seeds: [minecraft:wheat_seeds, minecraft:potato, minecraft:carrot, minecraft:beetroot_seeds, minecraft:torchflower_seeds, minecraft:pitcher_pod], emi:/tag/item/minecraft/wooden_fences: [minecraft:oak_fence, minecraft:acacia_fence, minecraft:dark_oak_fence, minecraft:spruce_fence, minecraft:birch_fence, minecraft:jungle_fence, minecraft:crimson_fence, minecraft:warped_fence, minecraft:mangrove_fence, minecraft:bamboo_fence, minecraft:cherry_fence], emi:/tag/item/minecraft/wooden_trapdoors: [minecraft:acacia_trapdoor, minecraft:birch_trapdoor, minecraft:dark_oak_trapdoor, minecraft:jungle_trapdoor, minecraft:oak_trapdoor, minecraft:spruce_trapdoor, minecraft:crimson_trapdoor, minecraft:warped_trapdoor, minecraft:mangrove_trapdoor, minecraft:bamboo_trapdoor, minecraft:cherry_trapdoor], emi:/tag/item/c/sandstone_stairs: [minecraft:sandstone_stairs, minecraft:smooth_sandstone_stairs, minecraft:red_sandstone_stairs, minecraft:smooth_red_sandstone_stairs], emi:/tag/item/minecraft/wooden_slabs: [minecraft:oak_slab, minecraft:spruce_slab, minecraft:birch_slab, minecraft:jungle_slab, minecraft:acacia_slab, minecraft:dark_oak_slab, minecraft:crimson_slab, minecraft:warped_slab, minecraft:mangrove_slab, minecraft:bamboo_slab, minecraft:cherry_slab], emi:/tag/item/minecraft/wool_carpets: [minecraft:white_carpet, minecraft:orange_carpet, minecraft:magenta_carpet, minecraft:light_blue_carpet, minecraft:yellow_carpet, minecraft:lime_carpet, minecraft:pink_carpet, minecraft:gray_carpet, minecraft:light_gray_carpet, minecraft:cyan_carpet, minecraft:purple_carpet, minecraft:blue_carpet, minecraft:brown_carpet, minecraft:green_carpet, minecraft:red_carpet, minecraft:black_carpet], emi:/tag/item/minecraft/iron_ores: [minecraft:iron_ore, minecraft:deepslate_iron_ore], emi:/tag/item/c/red_sandstone_stairs: [minecraft:red_sandstone_stairs, minecraft:smooth_red_sandstone_stairs], emi:/tag/item/c/foods: [minecraft:apple, minecraft:mushroom_stew, minecraft:bread, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:golden_apple, minecraft:enchanted_golden_apple, minecraft:cod, minecraft:salmon, minecraft:tropical_fish, minecraft:pufferfish, minecraft:cooked_cod, minecraft:cooked_salmon, minecraft:cookie, minecraft:melon_slice, minecraft:dried_kelp, minecraft:beef, minecraft:cooked_beef, minecraft:chicken, minecraft:cooked_chicken, minecraft:rotten_flesh, minecraft:spider_eye, minecraft:carrot, minecraft:potato, minecraft:baked_potato, minecraft:poisonous_potato, minecraft:golden_carrot, minecraft:pumpkin_pie, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rabbit_stew, minecraft:mutton, minecraft:cooked_mutton, minecraft:chorus_fruit, minecraft:beetroot, minecraft:beetroot_soup, minecraft:suspicious_stew, minecraft:sweet_berries, minecraft:glow_berries, minecraft:honey_bottle], emi:/tag/item/minecraft/wooden_buttons: [minecraft:oak_button, minecraft:spruce_button, minecraft:birch_button, minecraft:jungle_button, minecraft:acacia_button, minecraft:dark_oak_button, minecraft:crimson_button, minecraft:warped_button, minecraft:mangrove_button, minecraft:bamboo_button, minecraft:cherry_button], emi:/tag/item/c/glass_panes: [minecraft:glass_pane, minecraft:gray_stained_glass_pane, minecraft:black_stained_glass_pane, minecraft:orange_stained_glass_pane, minecraft:blue_stained_glass_pane, minecraft:brown_stained_glass_pane, minecraft:cyan_stained_glass_pane, minecraft:green_stained_glass_pane, minecraft:light_blue_stained_glass_pane, minecraft:light_gray_stained_glass_pane, minecraft:lime_stained_glass_pane, minecraft:magenta_stained_glass_pane, minecraft:pink_stained_glass_pane, minecraft:purple_stained_glass_pane, minecraft:red_stained_glass_pane, minecraft:white_stained_glass_pane, minecraft:yellow_stained_glass_pane], emi:/tag/item/minecraft/decorated_pot_sherds: [minecraft:angler_pottery_sherd, minecraft:archer_pottery_sherd, minecraft:arms_up_pottery_sherd, minecraft:blade_pottery_sherd, minecraft:brewer_pottery_sherd, minecraft:burn_pottery_sherd, minecraft:danger_pottery_sherd, minecraft:explorer_pottery_sherd, minecraft:friend_pottery_sherd, minecraft:heart_pottery_sherd, minecraft:heartbreak_pottery_sherd, minecraft:howl_pottery_sherd, minecraft:miner_pottery_sherd, minecraft:mourner_pottery_sherd, minecraft:plenty_pottery_sherd, minecraft:prize_pottery_sherd, minecraft:sheaf_pottery_sherd, minecraft:shelter_pottery_sherd, minecraft:skull_pottery_sherd, minecraft:snort_pottery_sherd], emi:/tag/item/minecraft/decorated_pot_ingredients: [minecraft:brick, minecraft:angler_pottery_sherd, minecraft:archer_pottery_sherd, minecraft:arms_up_pottery_sherd, minecraft:blade_pottery_sherd, minecraft:brewer_pottery_sherd, minecraft:burn_pottery_sherd, minecraft:danger_pottery_sherd, minecraft:explorer_pottery_sherd, minecraft:friend_pottery_sherd, minecraft:heart_pottery_sherd, minecraft:heartbreak_pottery_sherd, minecraft:howl_pottery_sherd, minecraft:miner_pottery_sherd, minecraft:mourner_pottery_sherd, minecraft:plenty_pottery_sherd, minecraft:prize_pottery_sherd, minecraft:sheaf_pottery_sherd, minecraft:shelter_pottery_sherd, minecraft:skull_pottery_sherd, minecraft:snort_pottery_sherd], emi:/tag/item/minecraft/buttons: [minecraft:oak_button, minecraft:spruce_button, minecraft:birch_button, minecraft:jungle_button, minecraft:acacia_button, minecraft:dark_oak_button, minecraft:crimson_button, minecraft:warped_button, minecraft:mangrove_button, minecraft:bamboo_button, minecraft:cherry_button, minecraft:stone_button, minecraft:polished_blackstone_button], emi:/tag/item/minecraft/anvil: [minecraft:anvil, minecraft:chipped_anvil, minecraft:damaged_anvil], emi:/tag/item/minecraft/coals: [minecraft:coal, minecraft:charcoal], emi:/tag/item/c/sandstone_blocks: [minecraft:sandstone, minecraft:chiseled_sandstone, minecraft:cut_sandstone, minecraft:smooth_sandstone, minecraft:red_sandstone, minecraft:chiseled_red_sandstone, minecraft:cut_red_sandstone, minecraft:smooth_red_sandstone], emi:/tag/item/minecraft/fishes: [minecraft:cod, minecraft:cooked_cod, minecraft:salmon, minecraft:cooked_salmon, minecraft:pufferfish, minecraft:tropical_fish], emi:/tag/item/minecraft/flowers: [minecraft:dandelion, minecraft:poppy, minecraft:blue_orchid, minecraft:allium, minecraft:azure_bluet, minecraft:red_tulip, minecraft:orange_tulip, minecraft:white_tulip, minecraft:pink_tulip, minecraft:oxeye_daisy, minecraft:cornflower, minecraft:lily_of_the_valley, minecraft:wither_rose, minecraft:torchflower, minecraft:sunflower, minecraft:lilac, minecraft:peony, minecraft:rose_bush, minecraft:pitcher_plant, minecraft:flowering_azalea_leaves, minecraft:flowering_azalea, minecraft:mangrove_propagule, minecraft:cherry_leaves, minecraft:pink_petals], emi:/tag/item/minecraft/fox_food: [minecraft:sweet_berries, minecraft:glow_berries], emi:/tag/item/minecraft/lapis_ores: [minecraft:lapis_ore, minecraft:deepslate_lapis_ore], emi:/tag/item/minecraft/trim_materials: [minecraft:iron_ingot, minecraft:copper_ingot, minecraft:gold_ingot, minecraft:lapis_lazuli, minecraft:emerald, minecraft:diamond, minecraft:netherite_ingot, minecraft:redstone, minecraft:quartz, minecraft:amethyst_shard], emi:/tag/item/minecraft/stone_buttons: [minecraft:stone_button, minecraft:polished_blackstone_button], emi:/tag/item/minecraft/trimmable_armor: [minecraft:netherite_helmet, minecraft:netherite_chestplate, minecraft:netherite_leggings, minecraft:netherite_boots, minecraft:diamond_helmet, minecraft:diamond_chestplate, minecraft:diamond_leggings, minecraft:diamond_boots, minecraft:golden_helmet, minecraft:golden_chestplate, minecraft:golden_leggings, minecraft:golden_boots, minecraft:iron_helmet, minecraft:iron_chestplate, minecraft:iron_leggings, minecraft:iron_boots, minecraft:chainmail_helmet, minecraft:chainmail_chestplate, minecraft:chainmail_leggings, minecraft:chainmail_boots, minecraft:leather_helmet, minecraft:leather_chestplate, minecraft:leather_leggings, minecraft:leather_boots, minecraft:turtle_helmet], emi:/tag/item/minecraft/wooden_stairs: [minecraft:oak_stairs, minecraft:spruce_stairs, minecraft:birch_stairs, minecraft:jungle_stairs, minecraft:acacia_stairs, minecraft:dark_oak_stairs, minecraft:crimson_stairs, minecraft:warped_stairs, minecraft:mangrove_stairs, minecraft:bamboo_stairs, minecraft:cherry_stairs], emi:/tag/item/minecraft/wool: [minecraft:white_wool, minecraft:orange_wool, minecraft:magenta_wool, minecraft:light_blue_wool, minecraft:yellow_wool, minecraft:lime_wool, minecraft:pink_wool, minecraft:gray_wool, minecraft:light_gray_wool, minecraft:cyan_wool, minecraft:purple_wool, minecraft:blue_wool, minecraft:brown_wool, minecraft:green_wool, minecraft:red_wool, minecraft:black_wool], emi:/tag/item/minecraft/wart_blocks: [minecraft:nether_wart_block, minecraft:warped_wart_block], emi:/tag/item/c/dyes: [minecraft:black_dye, minecraft:blue_dye, minecraft:brown_dye, minecraft:green_dye, minecraft:red_dye, minecraft:white_dye, minecraft:yellow_dye, minecraft:light_gray_dye, minecraft:light_blue_dye, minecraft:lime_dye, minecraft:magenta_dye, minecraft:orange_dye, minecraft:pink_dye, minecraft:cyan_dye, minecraft:gray_dye, minecraft:purple_dye], emi:/tag/item/minecraft/banners: [minecraft:white_banner, minecraft:orange_banner, minecraft:magenta_banner, minecraft:light_blue_banner, minecraft:yellow_banner, minecraft:lime_banner, minecraft:pink_banner, minecraft:gray_banner, minecraft:light_gray_banner, minecraft:cyan_banner, minecraft:purple_banner, minecraft:blue_banner, minecraft:brown_banner, minecraft:green_banner, minecraft:red_banner, minecraft:black_banner], emi:/tag/item/minecraft/piglin_repellents: [minecraft:soul_torch, minecraft:soul_lantern, minecraft:soul_campfire], emi:/tag/item/minecraft/walls: [minecraft:cobblestone_wall, minecraft:mossy_cobblestone_wall, minecraft:brick_wall, minecraft:prismarine_wall, minecraft:red_sandstone_wall, minecraft:mossy_stone_brick_wall, minecraft:granite_wall, minecraft:stone_brick_wall, minecraft:nether_brick_wall, minecraft:andesite_wall, minecraft:red_nether_brick_wall, minecraft:sandstone_wall, minecraft:end_stone_brick_wall, minecraft:diorite_wall, minecraft:blackstone_wall, minecraft:polished_blackstone_brick_wall, minecraft:polished_blackstone_wall, minecraft:cobbled_deepslate_wall, minecraft:polished_deepslate_wall, minecraft:deepslate_tile_wall, minecraft:deepslate_brick_wall, minecraft:mud_brick_wall], emi:/tag/item/minecraft/music_discs: [minecraft:music_disc_13, minecraft:music_disc_cat, minecraft:music_disc_blocks, minecraft:music_disc_chirp, minecraft:music_disc_far, minecraft:music_disc_mall, minecraft:music_disc_mellohi, minecraft:music_disc_stal, minecraft:music_disc_strad, minecraft:music_disc_ward, minecraft:music_disc_11, minecraft:music_disc_wait, minecraft:music_disc_pigstep, minecraft:music_disc_otherside, minecraft:music_disc_5, minecraft:music_disc_relic], emi:/tag/item/minecraft/dark_oak_logs: [minecraft:dark_oak_log, minecraft:dark_oak_wood, minecraft:stripped_dark_oak_log, minecraft:stripped_dark_oak_wood], emi:/tag/item/minecraft/rails: [minecraft:rail, minecraft:powered_rail, minecraft:detector_rail, minecraft:activator_rail], emi:/tag/item/minecraft/coal_ores: [minecraft:coal_ore, minecraft:deepslate_coal_ore], emi:/tag/item/minecraft/hanging_signs: [minecraft:oak_hanging_sign, minecraft:spruce_hanging_sign, minecraft:birch_hanging_sign, minecraft:acacia_hanging_sign, minecraft:cherry_hanging_sign, minecraft:jungle_hanging_sign, minecraft:dark_oak_hanging_sign, minecraft:crimson_hanging_sign, minecraft:warped_hanging_sign, minecraft:mangrove_hanging_sign, minecraft:bamboo_hanging_sign], emi:/tag/item/minecraft/wooden_pressure_plates: [minecraft:oak_pressure_plate, minecraft:spruce_pressure_plate, minecraft:birch_pressure_plate, minecraft:jungle_pressure_plate, minecraft:acacia_pressure_plate, minecraft:dark_oak_pressure_plate, minecraft:crimson_pressure_plate, minecraft:warped_pressure_plate, minecraft:mangrove_pressure_plate, minecraft:bamboo_pressure_plate, minecraft:cherry_pressure_plate], emi:/tag/item/c/chests: [minecraft:chest, minecraft:ender_chest, minecraft:trapped_chest], emi:/tag/item/minecraft/doors: [minecraft:oak_door, minecraft:spruce_door, minecraft:birch_door, minecraft:jungle_door, minecraft:acacia_door, minecraft:dark_oak_door, minecraft:crimson_door, minecraft:warped_door, minecraft:mangrove_door, minecraft:bamboo_door, minecraft:cherry_door, minecraft:iron_door], emi:/tag/item/minecraft/smelts_to_glass: [minecraft:sand, minecraft:red_sand], emi:/tag/item/minecraft/freeze_immune_wearables: [minecraft:leather_boots, minecraft:leather_leggings, minecraft:leather_chestplate, minecraft:leather_helmet, minecraft:leather_horse_armor], emi:/tag/item/c/ingots: [minecraft:copper_ingot, minecraft:gold_ingot, minecraft:iron_ingot, minecraft:netherite_ingot], emi:/tag/item/minecraft/fences: [minecraft:oak_fence, minecraft:acacia_fence, minecraft:dark_oak_fence, minecraft:spruce_fence, minecraft:birch_fence, minecraft:jungle_fence, minecraft:crimson_fence, minecraft:warped_fence, minecraft:mangrove_fence, minecraft:bamboo_fence, minecraft:cherry_fence, minecraft:nether_brick_fence], emi:/tag/item/minecraft/warped_stems: [minecraft:warped_stem, minecraft:stripped_warped_stem, minecraft:warped_hyphae, minecraft:stripped_warped_hyphae], emi:/tag/item/minecraft/birch_logs: [minecraft:birch_log, minecraft:birch_wood, minecraft:stripped_birch_log, minecraft:stripped_birch_wood], emi:/tag/item/c/shulker_boxes: [minecraft:shulker_box, minecraft:blue_shulker_box, minecraft:brown_shulker_box, minecraft:cyan_shulker_box, minecraft:gray_shulker_box, minecraft:green_shulker_box, minecraft:light_blue_shulker_box, minecraft:light_gray_shulker_box, minecraft:lime_shulker_box, minecraft:magenta_shulker_box, minecraft:orange_shulker_box, minecraft:pink_shulker_box, minecraft:purple_shulker_box, minecraft:red_shulker_box, minecraft:white_shulker_box, minecraft:yellow_shulker_box, minecraft:black_shulker_box], emi:/tag/item/minecraft/bookshelf_books: [minecraft:book, minecraft:written_book, minecraft:enchanted_book, minecraft:writable_book, minecraft:knowledge_book], emi:/tag/item/c/entity_water_buckets: [minecraft:axolotl_bucket, minecraft:cod_bucket, minecraft:pufferfish_bucket, minecraft:tropical_fish_bucket, minecraft:salmon_bucket, minecraft:tadpole_bucket], emi:/tag/item/minecraft/cherry_logs: [minecraft:cherry_log, minecraft:cherry_wood, minecraft:stripped_cherry_log, minecraft:stripped_cherry_wood], emi:/tag/item/c/buds: [minecraft:small_amethyst_bud, minecraft:medium_amethyst_bud, minecraft:large_amethyst_bud], emi:/tag/item/minecraft/noteblock_top_instruments: [minecraft:zombie_head, minecraft:skeleton_skull, minecraft:creeper_head, minecraft:dragon_head, minecraft:wither_skeleton_skull, minecraft:piglin_head, minecraft:player_head], emi:/tag/item/minecraft/wooden_doors: [minecraft:oak_door, minecraft:spruce_door, minecraft:birch_door, minecraft:jungle_door, minecraft:acacia_door, minecraft:dark_oak_door, minecraft:crimson_door, minecraft:warped_door, minecraft:mangrove_door, minecraft:bamboo_door, minecraft:cherry_door], emi:/tag/item/c/gems: [minecraft:diamond, minecraft:emerald, minecraft:amethyst_shard, minecraft:lapis_lazuli], emi:/tag/item/minecraft/copper_ores: [minecraft:copper_ore, minecraft:deepslate_copper_ore], emi:/tag/item/minecraft/dirt: [minecraft:dirt, minecraft:grass_block, minecraft:podzol, minecraft:coarse_dirt, minecraft:mycelium, minecraft:rooted_dirt, minecraft:moss_block, minecraft:mud, minecraft:muddy_mangrove_roots], emi:/tag/item/minecraft/boats: [minecraft:oak_boat, minecraft:spruce_boat, minecraft:birch_boat, minecraft:jungle_boat, minecraft:acacia_boat, minecraft:dark_oak_boat, minecraft:mangrove_boat, minecraft:bamboo_raft, minecraft:cherry_boat, minecraft:oak_chest_boat, minecraft:spruce_chest_boat, minecraft:birch_chest_boat, minecraft:jungle_chest_boat, minecraft:acacia_chest_boat, minecraft:dark_oak_chest_boat, minecraft:mangrove_chest_boat, minecraft:bamboo_chest_raft, minecraft:cherry_chest_boat], emi:/tag/item/minecraft/creeper_igniters: [minecraft:flint_and_steel, minecraft:fire_charge], emi:/tag/item/c/ores: [minecraft:redstone_ore, minecraft:deepslate_redstone_ore, minecraft:copper_ore, minecraft:deepslate_copper_ore, minecraft:gold_ore, minecraft:nether_gold_ore, minecraft:deepslate_gold_ore, minecraft:iron_ore, minecraft:deepslate_iron_ore, minecraft:coal_ore, minecraft:deepslate_coal_ore, minecraft:emerald_ore, minecraft:deepslate_emerald_ore, minecraft:lapis_ore, minecraft:deepslate_lapis_ore, minecraft:diamond_ore, minecraft:deepslate_diamond_ore, minecraft:nether_quartz_ore]}
+all tags {emi:/tag/item/c/potions: [minecraft:lingering_potion, minecraft:splash_potion, minecraft:potion], emi:/tag/item/minecraft/spruce_logs: [minecraft:spruce_log, minecraft:spruce_wood, minecraft:stripped_spruce_log, minecraft:stripped_spruce_wood], emi:/tag/item/minecraft/iron_ores: [minecraft:iron_ore, minecraft:deepslate_iron_ore], emi:/tag/item/minecraft/diamond_ores: [minecraft:diamond_ore, minecraft:deepslate_diamond_ore], emi:/tag/item/c/raw_ores: [minecraft:raw_iron, minecraft:raw_copper, minecraft:raw_gold], emi:/tag/item/minecraft/crimson_stems: [minecraft:crimson_stem, minecraft:stripped_crimson_stem, minecraft:crimson_hyphae, minecraft:stripped_crimson_hyphae], emi:/tag/item/minecraft/leaves: [minecraft:jungle_leaves, minecraft:oak_leaves, minecraft:spruce_leaves, minecraft:dark_oak_leaves, minecraft:acacia_leaves, minecraft:birch_leaves, minecraft:azalea_leaves, minecraft:flowering_azalea_leaves, minecraft:mangrove_leaves, minecraft:cherry_leaves], emi:/tag/item/minecraft/doors: [minecraft:oak_door, minecraft:spruce_door, minecraft:birch_door, minecraft:jungle_door, minecraft:acacia_door, minecraft:dark_oak_door, minecraft:crimson_door, minecraft:warped_door, minecraft:mangrove_door, minecraft:bamboo_door, minecraft:cherry_door, minecraft:iron_door], emi:/tag/item/minecraft/fences: [minecraft:oak_fence, minecraft:acacia_fence, minecraft:dark_oak_fence, minecraft:spruce_fence, minecraft:birch_fence, minecraft:jungle_fence, minecraft:crimson_fence, minecraft:warped_fence, minecraft:mangrove_fence, minecraft:bamboo_fence, minecraft:cherry_fence, minecraft:nether_brick_fence], emi:/tag/item/minecraft/buttons: [minecraft:oak_button, minecraft:spruce_button, minecraft:birch_button, minecraft:jungle_button, minecraft:acacia_button, minecraft:dark_oak_button, minecraft:crimson_button, minecraft:warped_button, minecraft:mangrove_button, minecraft:bamboo_button, minecraft:cherry_button, minecraft:stone_button, minecraft:polished_blackstone_button], emi:/tag/item/minecraft/redstone_ores: [minecraft:redstone_ore, minecraft:deepslate_redstone_ore], emi:/tag/item/minecraft/dark_oak_logs: [minecraft:dark_oak_log, minecraft:dark_oak_wood, minecraft:stripped_dark_oak_log, minecraft:stripped_dark_oak_wood], emi:/tag/item/minecraft/creeper_drop_music_discs: [minecraft:music_disc_13, minecraft:music_disc_cat, minecraft:music_disc_blocks, minecraft:music_disc_chirp, minecraft:music_disc_far, minecraft:music_disc_mall, minecraft:music_disc_mellohi, minecraft:music_disc_stal, minecraft:music_disc_strad, minecraft:music_disc_ward, minecraft:music_disc_11, minecraft:music_disc_wait], emi:/tag/item/minecraft/smelts_to_glass: [minecraft:sand, minecraft:red_sand], emi:/tag/item/c/ores: [minecraft:redstone_ore, minecraft:deepslate_redstone_ore, minecraft:copper_ore, minecraft:deepslate_copper_ore, minecraft:gold_ore, minecraft:nether_gold_ore, minecraft:deepslate_gold_ore, minecraft:iron_ore, minecraft:deepslate_iron_ore, minecraft:coal_ore, minecraft:deepslate_coal_ore, minecraft:emerald_ore, minecraft:deepslate_emerald_ore, minecraft:lapis_ore, minecraft:deepslate_lapis_ore, minecraft:diamond_ore, minecraft:deepslate_diamond_ore, minecraft:nether_quartz_ore], emi:/tag/item/minecraft/wool: [minecraft:white_wool, minecraft:orange_wool, minecraft:magenta_wool, minecraft:light_blue_wool, minecraft:yellow_wool, minecraft:lime_wool, minecraft:pink_wool, minecraft:gray_wool, minecraft:light_gray_wool, minecraft:cyan_wool, minecraft:purple_wool, minecraft:blue_wool, minecraft:brown_wool, minecraft:green_wool, minecraft:red_wool, minecraft:black_wool], emi:/tag/item/minecraft/cherry_logs: [minecraft:cherry_log, minecraft:cherry_wood, minecraft:stripped_cherry_log, minecraft:stripped_cherry_wood], emi:/tag/item/minecraft/coal_ores: [minecraft:coal_ore, minecraft:deepslate_coal_ore], emi:/tag/item/minecraft/logs: [minecraft:dark_oak_log, minecraft:dark_oak_wood, minecraft:stripped_dark_oak_log, minecraft:stripped_dark_oak_wood, minecraft:oak_log, minecraft:oak_wood, minecraft:stripped_oak_log, minecraft:stripped_oak_wood, minecraft:acacia_log, minecraft:acacia_wood, minecraft:stripped_acacia_log, minecraft:stripped_acacia_wood, minecraft:birch_log, minecraft:birch_wood, minecraft:stripped_birch_log, minecraft:stripped_birch_wood, minecraft:jungle_log, minecraft:jungle_wood, minecraft:stripped_jungle_log, minecraft:stripped_jungle_wood, minecraft:spruce_log, minecraft:spruce_wood, minecraft:stripped_spruce_log, minecraft:stripped_spruce_wood, minecraft:mangrove_log, minecraft:mangrove_wood, minecraft:stripped_mangrove_log, minecraft:stripped_mangrove_wood, minecraft:cherry_log, minecraft:cherry_wood, minecraft:stripped_cherry_log, minecraft:stripped_cherry_wood, minecraft:crimson_stem, minecraft:stripped_crimson_stem, minecraft:crimson_hyphae, minecraft:stripped_crimson_hyphae, minecraft:warped_stem, minecraft:stripped_warped_stem, minecraft:warped_hyphae, minecraft:stripped_warped_hyphae], emi:/tag/item/c/villager_job_sites: [minecraft:barrel, minecraft:blast_furnace, minecraft:brewing_stand, minecraft:cartography_table, minecraft:cauldron, minecraft:composter, minecraft:fletching_table, minecraft:grindstone, minecraft:lectern, minecraft:loom, minecraft:smithing_table, minecraft:smoker, minecraft:stonecutter], emi:/tag/item/minecraft/anvil: [minecraft:anvil, minecraft:chipped_anvil, minecraft:damaged_anvil], emi:/tag/item/minecraft/music_discs: [minecraft:music_disc_13, minecraft:music_disc_cat, minecraft:music_disc_blocks, minecraft:music_disc_chirp, minecraft:music_disc_far, minecraft:music_disc_mall, minecraft:music_disc_mellohi, minecraft:music_disc_stal, minecraft:music_disc_strad, minecraft:music_disc_ward, minecraft:music_disc_11, minecraft:music_disc_wait, minecraft:music_disc_pigstep, minecraft:music_disc_otherside, minecraft:music_disc_5, minecraft:music_disc_relic], emi:/tag/item/minecraft/piglin_repellents: [minecraft:soul_torch, minecraft:soul_lantern, minecraft:soul_campfire], emi:/tag/item/minecraft/signs: [minecraft:oak_sign, minecraft:spruce_sign, minecraft:birch_sign, minecraft:acacia_sign, minecraft:jungle_sign, minecraft:dark_oak_sign, minecraft:crimson_sign, minecraft:warped_sign, minecraft:mangrove_sign, minecraft:bamboo_sign, minecraft:cherry_sign], emi:/tag/item/minecraft/trapdoors: [minecraft:acacia_trapdoor, minecraft:birch_trapdoor, minecraft:dark_oak_trapdoor, minecraft:jungle_trapdoor, minecraft:oak_trapdoor, minecraft:spruce_trapdoor, minecraft:crimson_trapdoor, minecraft:warped_trapdoor, minecraft:mangrove_trapdoor, minecraft:bamboo_trapdoor, minecraft:cherry_trapdoor, minecraft:iron_trapdoor], emi:/tag/item/minecraft/trim_templates: [minecraft:ward_armor_trim_smithing_template, minecraft:spire_armor_trim_smithing_template, minecraft:coast_armor_trim_smithing_template, minecraft:eye_armor_trim_smithing_template, minecraft:dune_armor_trim_smithing_template, minecraft:wild_armor_trim_smithing_template, minecraft:rib_armor_trim_smithing_template, minecraft:tide_armor_trim_smithing_template, minecraft:sentry_armor_trim_smithing_template, minecraft:vex_armor_trim_smithing_template, minecraft:snout_armor_trim_smithing_template, minecraft:wayfinder_armor_trim_smithing_template, minecraft:shaper_armor_trim_smithing_template, minecraft:silence_armor_trim_smithing_template, minecraft:raiser_armor_trim_smithing_template, minecraft:host_armor_trim_smithing_template], emi:/tag/item/minecraft/wooden_fences: [minecraft:oak_fence, minecraft:acacia_fence, minecraft:dark_oak_fence, minecraft:spruce_fence, minecraft:birch_fence, minecraft:jungle_fence, minecraft:crimson_fence, minecraft:warped_fence, minecraft:mangrove_fence, minecraft:bamboo_fence, minecraft:cherry_fence], emi:/tag/item/minecraft/birch_logs: [minecraft:birch_log, minecraft:birch_wood, minecraft:stripped_birch_log, minecraft:stripped_birch_wood], emi:/tag/item/minecraft/wooden_pressure_plates: [minecraft:oak_pressure_plate, minecraft:spruce_pressure_plate, minecraft:birch_pressure_plate, minecraft:jungle_pressure_plate, minecraft:acacia_pressure_plate, minecraft:dark_oak_pressure_plate, minecraft:crimson_pressure_plate, minecraft:warped_pressure_plate, minecraft:mangrove_pressure_plate, minecraft:bamboo_pressure_plate, minecraft:cherry_pressure_plate], emi:/tag/item/minecraft/wooden_slabs: [minecraft:oak_slab, minecraft:spruce_slab, minecraft:birch_slab, minecraft:jungle_slab, minecraft:acacia_slab, minecraft:dark_oak_slab, minecraft:crimson_slab, minecraft:warped_slab, minecraft:mangrove_slab, minecraft:bamboo_slab, minecraft:cherry_slab], emi:/tag/item/minecraft/beds: [minecraft:red_bed, minecraft:black_bed, minecraft:blue_bed, minecraft:brown_bed, minecraft:cyan_bed, minecraft:gray_bed, minecraft:green_bed, minecraft:light_blue_bed, minecraft:light_gray_bed, minecraft:lime_bed, minecraft:magenta_bed, minecraft:orange_bed, minecraft:pink_bed, minecraft:purple_bed, minecraft:white_bed, minecraft:yellow_bed], emi:/tag/item/minecraft/walls: [minecraft:cobblestone_wall, minecraft:mossy_cobblestone_wall, minecraft:brick_wall, minecraft:prismarine_wall, minecraft:red_sandstone_wall, minecraft:mossy_stone_brick_wall, minecraft:granite_wall, minecraft:stone_brick_wall, minecraft:nether_brick_wall, minecraft:andesite_wall, minecraft:red_nether_brick_wall, minecraft:sandstone_wall, minecraft:end_stone_brick_wall, minecraft:diorite_wall, minecraft:blackstone_wall, minecraft:polished_blackstone_brick_wall, minecraft:polished_blackstone_wall, minecraft:cobbled_deepslate_wall, minecraft:polished_deepslate_wall, minecraft:deepslate_tile_wall, minecraft:deepslate_brick_wall, minecraft:mud_brick_wall], emi:/tag/item/c/chests: [minecraft:chest, minecraft:ender_chest, minecraft:trapped_chest], emi:/tag/item/c/glass_blocks: [minecraft:glass, minecraft:gray_stained_glass, minecraft:black_stained_glass, minecraft:orange_stained_glass, minecraft:blue_stained_glass, minecraft:brown_stained_glass, minecraft:cyan_stained_glass, minecraft:green_stained_glass, minecraft:light_blue_stained_glass, minecraft:light_gray_stained_glass, minecraft:lime_stained_glass, minecraft:magenta_stained_glass, minecraft:pink_stained_glass, minecraft:purple_stained_glass, minecraft:red_stained_glass, minecraft:tinted_glass, minecraft:white_stained_glass, minecraft:yellow_stained_glass], emi:/tag/item/c/foods: [minecraft:apple, minecraft:mushroom_stew, minecraft:bread, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:golden_apple, minecraft:enchanted_golden_apple, minecraft:cod, minecraft:salmon, minecraft:tropical_fish, minecraft:pufferfish, minecraft:cooked_cod, minecraft:cooked_salmon, minecraft:cookie, minecraft:melon_slice, minecraft:dried_kelp, minecraft:beef, minecraft:cooked_beef, minecraft:chicken, minecraft:cooked_chicken, minecraft:rotten_flesh, minecraft:spider_eye, minecraft:carrot, minecraft:potato, minecraft:baked_potato, minecraft:poisonous_potato, minecraft:golden_carrot, minecraft:pumpkin_pie, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rabbit_stew, minecraft:mutton, minecraft:cooked_mutton, minecraft:chorus_fruit, minecraft:beetroot, minecraft:beetroot_soup, minecraft:suspicious_stew, minecraft:sweet_berries, minecraft:glow_berries, minecraft:honey_bottle], emi:/tag/item/minecraft/coals: [minecraft:coal, minecraft:charcoal], emi:/tag/item/minecraft/decorated_pot_sherds: [minecraft:angler_pottery_sherd, minecraft:archer_pottery_sherd, minecraft:arms_up_pottery_sherd, minecraft:blade_pottery_sherd, minecraft:brewer_pottery_sherd, minecraft:burn_pottery_sherd, minecraft:danger_pottery_sherd, minecraft:explorer_pottery_sherd, minecraft:friend_pottery_sherd, minecraft:heart_pottery_sherd, minecraft:heartbreak_pottery_sherd, minecraft:howl_pottery_sherd, minecraft:miner_pottery_sherd, minecraft:mourner_pottery_sherd, minecraft:plenty_pottery_sherd, minecraft:prize_pottery_sherd, minecraft:sheaf_pottery_sherd, minecraft:shelter_pottery_sherd, minecraft:skull_pottery_sherd, minecraft:snort_pottery_sherd], emi:/tag/item/minecraft/hanging_signs: [minecraft:oak_hanging_sign, minecraft:spruce_hanging_sign, minecraft:birch_hanging_sign, minecraft:acacia_hanging_sign, minecraft:cherry_hanging_sign, minecraft:jungle_hanging_sign, minecraft:dark_oak_hanging_sign, minecraft:crimson_hanging_sign, minecraft:warped_hanging_sign, minecraft:mangrove_hanging_sign, minecraft:bamboo_hanging_sign], emi:/tag/item/minecraft/planks: [minecraft:oak_planks, minecraft:spruce_planks, minecraft:birch_planks, minecraft:jungle_planks, minecraft:acacia_planks, minecraft:dark_oak_planks, minecraft:crimson_planks, minecraft:warped_planks, minecraft:mangrove_planks, minecraft:bamboo_planks, minecraft:cherry_planks], emi:/tag/item/minecraft/jungle_logs: [minecraft:jungle_log, minecraft:jungle_wood, minecraft:stripped_jungle_log, minecraft:stripped_jungle_wood], emi:/tag/item/minecraft/chest_boats: [minecraft:oak_chest_boat, minecraft:spruce_chest_boat, minecraft:birch_chest_boat, minecraft:jungle_chest_boat, minecraft:acacia_chest_boat, minecraft:dark_oak_chest_boat, minecraft:mangrove_chest_boat, minecraft:bamboo_chest_raft, minecraft:cherry_chest_boat], emi:/tag/item/c/glass_panes: [minecraft:glass_pane, minecraft:gray_stained_glass_pane, minecraft:black_stained_glass_pane, minecraft:orange_stained_glass_pane, minecraft:blue_stained_glass_pane, minecraft:brown_stained_glass_pane, minecraft:cyan_stained_glass_pane, minecraft:green_stained_glass_pane, minecraft:light_blue_stained_glass_pane, minecraft:light_gray_stained_glass_pane, minecraft:lime_stained_glass_pane, minecraft:magenta_stained_glass_pane, minecraft:pink_stained_glass_pane, minecraft:purple_stained_glass_pane, minecraft:red_stained_glass_pane, minecraft:white_stained_glass_pane, minecraft:yellow_stained_glass_pane], emi:/tag/item/minecraft/fox_food: [minecraft:sweet_berries, minecraft:glow_berries], emi:/tag/item/minecraft/villager_plantable_seeds: [minecraft:wheat_seeds, minecraft:potato, minecraft:carrot, minecraft:beetroot_seeds, minecraft:torchflower_seeds, minecraft:pitcher_pod], emi:/tag/item/minecraft/arrows: [minecraft:arrow, minecraft:tipped_arrow, minecraft:spectral_arrow], emi:/tag/item/minecraft/flowers: [minecraft:dandelion, minecraft:poppy, minecraft:blue_orchid, minecraft:allium, minecraft:azure_bluet, minecraft:red_tulip, minecraft:orange_tulip, minecraft:white_tulip, minecraft:pink_tulip, minecraft:oxeye_daisy, minecraft:cornflower, minecraft:lily_of_the_valley, minecraft:wither_rose, minecraft:torchflower, minecraft:sunflower, minecraft:lilac, minecraft:peony, minecraft:rose_bush, minecraft:pitcher_plant, minecraft:flowering_azalea_leaves, minecraft:flowering_azalea, minecraft:mangrove_propagule, minecraft:cherry_leaves, minecraft:pink_petals], emi:/tag/item/minecraft/piglin_food: [minecraft:porkchop, minecraft:cooked_porkchop], emi:/tag/item/c/ingots: [minecraft:copper_ingot, minecraft:gold_ingot, minecraft:iron_ingot, minecraft:netherite_ingot], emi:/tag/item/minecraft/bamboo_blocks: [minecraft:bamboo_block, minecraft:stripped_bamboo_block], emi:/tag/item/minecraft/bookshelf_books: [minecraft:book, minecraft:written_book, minecraft:enchanted_book, minecraft:writable_book, minecraft:knowledge_book], emi:/tag/item/minecraft/gold_ores: [minecraft:gold_ore, minecraft:nether_gold_ore, minecraft:deepslate_gold_ore], emi:/tag/item/minecraft/acacia_logs: [minecraft:acacia_log, minecraft:acacia_wood, minecraft:stripped_acacia_log, minecraft:stripped_acacia_wood], emi:/tag/item/minecraft/banners: [minecraft:white_banner, minecraft:orange_banner, minecraft:magenta_banner, minecraft:light_blue_banner, minecraft:yellow_banner, minecraft:lime_banner, minecraft:pink_banner, minecraft:gray_banner, minecraft:light_gray_banner, minecraft:cyan_banner, minecraft:purple_banner, minecraft:blue_banner, minecraft:brown_banner, minecraft:green_banner, minecraft:red_banner, minecraft:black_banner], emi:/tag/item/minecraft/rails: [minecraft:rail, minecraft:powered_rail, minecraft:detector_rail, minecraft:activator_rail], emi:/tag/item/c/sandstone_stairs: [minecraft:sandstone_stairs, minecraft:smooth_sandstone_stairs, minecraft:red_sandstone_stairs, minecraft:smooth_red_sandstone_stairs], emi:/tag/item/c/gems: [minecraft:diamond, minecraft:emerald, minecraft:amethyst_shard, minecraft:lapis_lazuli], emi:/tag/item/minecraft/boats: [minecraft:oak_boat, minecraft:spruce_boat, minecraft:birch_boat, minecraft:jungle_boat, minecraft:acacia_boat, minecraft:dark_oak_boat, minecraft:mangrove_boat, minecraft:bamboo_raft, minecraft:cherry_boat, minecraft:oak_chest_boat, minecraft:spruce_chest_boat, minecraft:birch_chest_boat, minecraft:jungle_chest_boat, minecraft:acacia_chest_boat, minecraft:dark_oak_chest_boat, minecraft:mangrove_chest_boat, minecraft:bamboo_chest_raft, minecraft:cherry_chest_boat], emi:/tag/item/minecraft/mangrove_logs: [minecraft:mangrove_log, minecraft:mangrove_wood, minecraft:stripped_mangrove_log, minecraft:stripped_mangrove_wood], emi:/tag/item/c/uncolored_sandstone_blocks: [minecraft:sandstone, minecraft:chiseled_sandstone, minecraft:cut_sandstone, minecraft:smooth_sandstone], emi:/tag/item/minecraft/stairs: [minecraft:oak_stairs, minecraft:spruce_stairs, minecraft:birch_stairs, minecraft:jungle_stairs, minecraft:acacia_stairs, minecraft:dark_oak_stairs, minecraft:crimson_stairs, minecraft:warped_stairs, minecraft:mangrove_stairs, minecraft:bamboo_stairs, minecraft:cherry_stairs, minecraft:bamboo_mosaic_stairs, minecraft:cobblestone_stairs, minecraft:sandstone_stairs, minecraft:nether_brick_stairs, minecraft:stone_brick_stairs, minecraft:brick_stairs, minecraft:purpur_stairs, minecraft:quartz_stairs, minecraft:red_sandstone_stairs, minecraft:prismarine_brick_stairs, minecraft:prismarine_stairs, minecraft:dark_prismarine_stairs, minecraft:polished_granite_stairs, minecraft:smooth_red_sandstone_stairs, minecraft:mossy_stone_brick_stairs, minecraft:polished_diorite_stairs, minecraft:mossy_cobblestone_stairs, minecraft:end_stone_brick_stairs, minecraft:stone_stairs, minecraft:smooth_sandstone_stairs, minecraft:smooth_quartz_stairs, minecraft:granite_stairs, minecraft:andesite_stairs, minecraft:red_nether_brick_stairs, minecraft:polished_andesite_stairs, minecraft:diorite_stairs, minecraft:blackstone_stairs, minecraft:polished_blackstone_brick_stairs, minecraft:polished_blackstone_stairs, minecraft:cobbled_deepslate_stairs, minecraft:polished_deepslate_stairs, minecraft:deepslate_tile_stairs, minecraft:deepslate_brick_stairs, minecraft:oxidized_cut_copper_stairs, minecraft:weathered_cut_copper_stairs, minecraft:exposed_cut_copper_stairs, minecraft:cut_copper_stairs, minecraft:waxed_weathered_cut_copper_stairs, minecraft:waxed_exposed_cut_copper_stairs, minecraft:waxed_cut_copper_stairs, minecraft:waxed_oxidized_cut_copper_stairs, minecraft:mud_brick_stairs], emi:/tag/item/c/uncolored_sandstone_stairs: [minecraft:sandstone_stairs, minecraft:smooth_sandstone_stairs], emi:/tag/item/minecraft/trimmable_armor: [minecraft:netherite_helmet, minecraft:netherite_chestplate, minecraft:netherite_leggings, minecraft:netherite_boots, minecraft:diamond_helmet, minecraft:diamond_chestplate, minecraft:diamond_leggings, minecraft:diamond_boots, minecraft:golden_helmet, minecraft:golden_chestplate, minecraft:golden_leggings, minecraft:golden_boots, minecraft:iron_helmet, minecraft:iron_chestplate, minecraft:iron_leggings, minecraft:iron_boots, minecraft:chainmail_helmet, minecraft:chainmail_chestplate, minecraft:chainmail_leggings, minecraft:chainmail_boots, minecraft:leather_helmet, minecraft:leather_chestplate, minecraft:leather_leggings, minecraft:leather_boots, minecraft:turtle_helmet], emi:/tag/item/minecraft/trim_materials: [minecraft:iron_ingot, minecraft:copper_ingot, minecraft:gold_ingot, minecraft:lapis_lazuli, minecraft:emerald, minecraft:diamond, minecraft:netherite_ingot, minecraft:redstone, minecraft:quartz, minecraft:amethyst_shard], emi:/tag/item/minecraft/tall_flowers: [minecraft:sunflower, minecraft:lilac, minecraft:peony, minecraft:rose_bush, minecraft:pitcher_plant], emi:/tag/item/minecraft/sand: [minecraft:sand, minecraft:red_sand, minecraft:suspicious_sand], emi:/tag/item/minecraft/wart_blocks: [minecraft:nether_wart_block, minecraft:warped_wart_block], emi:/tag/item/minecraft/wooden_doors: [minecraft:oak_door, minecraft:spruce_door, minecraft:birch_door, minecraft:jungle_door, minecraft:acacia_door, minecraft:dark_oak_door, minecraft:crimson_door, minecraft:warped_door, minecraft:mangrove_door, minecraft:bamboo_door, minecraft:cherry_door], emi:/tag/item/minecraft/wooden_trapdoors: [minecraft:acacia_trapdoor, minecraft:birch_trapdoor, minecraft:dark_oak_trapdoor, minecraft:jungle_trapdoor, minecraft:oak_trapdoor, minecraft:spruce_trapdoor, minecraft:crimson_trapdoor, minecraft:warped_trapdoor, minecraft:mangrove_trapdoor, minecraft:bamboo_trapdoor, minecraft:cherry_trapdoor], emi:/tag/item/minecraft/slabs: [minecraft:oak_slab, minecraft:spruce_slab, minecraft:birch_slab, minecraft:jungle_slab, minecraft:acacia_slab, minecraft:dark_oak_slab, minecraft:crimson_slab, minecraft:warped_slab, minecraft:mangrove_slab, minecraft:bamboo_slab, minecraft:cherry_slab, minecraft:bamboo_mosaic_slab, minecraft:stone_slab, minecraft:smooth_stone_slab, minecraft:stone_brick_slab, minecraft:sandstone_slab, minecraft:purpur_slab, minecraft:quartz_slab, minecraft:red_sandstone_slab, minecraft:brick_slab, minecraft:cobblestone_slab, minecraft:nether_brick_slab, minecraft:petrified_oak_slab, minecraft:prismarine_slab, minecraft:prismarine_brick_slab, minecraft:dark_prismarine_slab, minecraft:polished_granite_slab, minecraft:smooth_red_sandstone_slab, minecraft:mossy_stone_brick_slab, minecraft:polished_diorite_slab, minecraft:mossy_cobblestone_slab, minecraft:end_stone_brick_slab, minecraft:smooth_sandstone_slab, minecraft:smooth_quartz_slab, minecraft:granite_slab, minecraft:andesite_slab, minecraft:red_nether_brick_slab, minecraft:polished_andesite_slab, minecraft:diorite_slab, minecraft:cut_sandstone_slab, minecraft:cut_red_sandstone_slab, minecraft:blackstone_slab, minecraft:polished_blackstone_brick_slab, minecraft:polished_blackstone_slab, minecraft:cobbled_deepslate_slab, minecraft:polished_deepslate_slab, minecraft:deepslate_tile_slab, minecraft:deepslate_brick_slab, minecraft:waxed_weathered_cut_copper_slab, minecraft:waxed_exposed_cut_copper_slab, minecraft:waxed_cut_copper_slab, minecraft:oxidized_cut_copper_slab, minecraft:weathered_cut_copper_slab, minecraft:exposed_cut_copper_slab, minecraft:cut_copper_slab, minecraft:waxed_oxidized_cut_copper_slab, minecraft:mud_brick_slab], emi:/tag/item/c/bows: [minecraft:crossbow, minecraft:bow], emi:/tag/item/minecraft/beacon_payment_items: [minecraft:netherite_ingot, minecraft:emerald, minecraft:diamond, minecraft:gold_ingot, minecraft:iron_ingot], emi:/tag/item/c/nuggets: [minecraft:gold_nugget, minecraft:iron_nugget], emi:/tag/item/minecraft/stone_tool_materials: [minecraft:cobblestone, minecraft:blackstone, minecraft:cobbled_deepslate], emi:/tag/item/minecraft/lapis_ores: [minecraft:lapis_ore, minecraft:deepslate_lapis_ore], emi:/tag/item/c/red_sandstone_stairs: [minecraft:red_sandstone_stairs, minecraft:smooth_red_sandstone_stairs], emi:/tag/item/minecraft/emerald_ores: [minecraft:emerald_ore, minecraft:deepslate_emerald_ore], emi:/tag/item/minecraft/candles: [minecraft:candle, minecraft:white_candle, minecraft:orange_candle, minecraft:magenta_candle, minecraft:light_blue_candle, minecraft:yellow_candle, minecraft:lime_candle, minecraft:pink_candle, minecraft:gray_candle, minecraft:light_gray_candle, minecraft:cyan_candle, minecraft:purple_candle, minecraft:blue_candle, minecraft:brown_candle, minecraft:green_candle, minecraft:red_candle, minecraft:black_candle], emi:/tag/item/minecraft/noteblock_top_instruments: [minecraft:zombie_head, minecraft:skeleton_skull, minecraft:creeper_head, minecraft:dragon_head, minecraft:wither_skeleton_skull, minecraft:piglin_head, minecraft:player_head], emi:/tag/item/minecraft/wool_carpets: [minecraft:white_carpet, minecraft:orange_carpet, minecraft:magenta_carpet, minecraft:light_blue_carpet, minecraft:yellow_carpet, minecraft:lime_carpet, minecraft:pink_carpet, minecraft:gray_carpet, minecraft:light_gray_carpet, minecraft:cyan_carpet, minecraft:purple_carpet, minecraft:blue_carpet, minecraft:brown_carpet, minecraft:green_carpet, minecraft:red_carpet, minecraft:black_carpet], emi:/tag/item/minecraft/soul_fire_base_blocks: [minecraft:soul_sand, minecraft:soul_soil], emi:/tag/item/c/dusts: [minecraft:glowstone_dust, minecraft:redstone], emi:/tag/item/c/dyes: [minecraft:black_dye, minecraft:blue_dye, minecraft:brown_dye, minecraft:green_dye, minecraft:red_dye, minecraft:white_dye, minecraft:yellow_dye, minecraft:light_gray_dye, minecraft:light_blue_dye, minecraft:lime_dye, minecraft:magenta_dye, minecraft:orange_dye, minecraft:pink_dye, minecraft:cyan_dye, minecraft:gray_dye, minecraft:purple_dye], emi:/tag/item/c/uncolored_sandstone_slabs: [minecraft:sandstone_slab, minecraft:cut_sandstone_slab, minecraft:smooth_sandstone_slab], emi:/tag/item/minecraft/saplings: [minecraft:oak_sapling, minecraft:spruce_sapling, minecraft:birch_sapling, minecraft:jungle_sapling, minecraft:acacia_sapling, minecraft:dark_oak_sapling, minecraft:azalea, minecraft:flowering_azalea, minecraft:mangrove_propagule, minecraft:cherry_sapling], emi:/tag/item/minecraft/creeper_igniters: [minecraft:flint_and_steel, minecraft:fire_charge], emi:/tag/item/c/entity_water_buckets: [minecraft:axolotl_bucket, minecraft:cod_bucket, minecraft:pufferfish_bucket, minecraft:tropical_fish_bucket, minecraft:salmon_bucket, minecraft:tadpole_bucket], emi:/tag/item/c/buds: [minecraft:small_amethyst_bud, minecraft:medium_amethyst_bud, minecraft:large_amethyst_bud], emi:/tag/item/c/red_sandstone_blocks: [minecraft:red_sandstone, minecraft:chiseled_red_sandstone, minecraft:cut_red_sandstone, minecraft:smooth_red_sandstone], emi:/tag/item/c/sandstone_blocks: [minecraft:sandstone, minecraft:chiseled_sandstone, minecraft:cut_sandstone, minecraft:smooth_sandstone, minecraft:red_sandstone, minecraft:chiseled_red_sandstone, minecraft:cut_red_sandstone, minecraft:smooth_red_sandstone], emi:/tag/item/c/sandstone_slabs: [minecraft:sandstone_slab, minecraft:cut_sandstone_slab, minecraft:smooth_sandstone_slab, minecraft:red_sandstone_slab, minecraft:cut_red_sandstone_slab, minecraft:smooth_red_sandstone_slab], emi:/tag/item/c/red_sandstone_slabs: [minecraft:red_sandstone_slab, minecraft:cut_red_sandstone_slab, minecraft:smooth_red_sandstone_slab], emi:/tag/item/minecraft/dirt: [minecraft:dirt, minecraft:grass_block, minecraft:podzol, minecraft:coarse_dirt, minecraft:mycelium, minecraft:rooted_dirt, minecraft:moss_block, minecraft:mud, minecraft:muddy_mangrove_roots], emi:/tag/item/minecraft/fishes: [minecraft:cod, minecraft:cooked_cod, minecraft:salmon, minecraft:cooked_salmon, minecraft:pufferfish, minecraft:tropical_fish], emi:/tag/item/minecraft/freeze_immune_wearables: [minecraft:leather_boots, minecraft:leather_leggings, minecraft:leather_chestplate, minecraft:leather_helmet, minecraft:leather_horse_armor], emi:/tag/item/minecraft/oak_logs: [minecraft:oak_log, minecraft:oak_wood, minecraft:stripped_oak_log, minecraft:stripped_oak_wood], emi:/tag/item/minecraft/decorated_pot_ingredients: [minecraft:brick, minecraft:angler_pottery_sherd, minecraft:archer_pottery_sherd, minecraft:arms_up_pottery_sherd, minecraft:blade_pottery_sherd, minecraft:brewer_pottery_sherd, minecraft:burn_pottery_sherd, minecraft:danger_pottery_sherd, minecraft:explorer_pottery_sherd, minecraft:friend_pottery_sherd, minecraft:heart_pottery_sherd, minecraft:heartbreak_pottery_sherd, minecraft:howl_pottery_sherd, minecraft:miner_pottery_sherd, minecraft:mourner_pottery_sherd, minecraft:plenty_pottery_sherd, minecraft:prize_pottery_sherd, minecraft:sheaf_pottery_sherd, minecraft:shelter_pottery_sherd, minecraft:skull_pottery_sherd, minecraft:snort_pottery_sherd], emi:/tag/item/minecraft/small_flowers: [minecraft:dandelion, minecraft:poppy, minecraft:blue_orchid, minecraft:allium, minecraft:azure_bluet, minecraft:red_tulip, minecraft:orange_tulip, minecraft:white_tulip, minecraft:pink_tulip, minecraft:oxeye_daisy, minecraft:cornflower, minecraft:lily_of_the_valley, minecraft:wither_rose, minecraft:torchflower], emi:/tag/item/minecraft/copper_ores: [minecraft:copper_ore, minecraft:deepslate_copper_ore], emi:/tag/item/minecraft/logs_that_burn: [minecraft:dark_oak_log, minecraft:dark_oak_wood, minecraft:stripped_dark_oak_log, minecraft:stripped_dark_oak_wood, minecraft:oak_log, minecraft:oak_wood, minecraft:stripped_oak_log, minecraft:stripped_oak_wood, minecraft:acacia_log, minecraft:acacia_wood, minecraft:stripped_acacia_log, minecraft:stripped_acacia_wood, minecraft:birch_log, minecraft:birch_wood, minecraft:stripped_birch_log, minecraft:stripped_birch_wood, minecraft:jungle_log, minecraft:jungle_wood, minecraft:stripped_jungle_log, minecraft:stripped_jungle_wood, minecraft:spruce_log, minecraft:spruce_wood, minecraft:stripped_spruce_log, minecraft:stripped_spruce_wood, minecraft:mangrove_log, minecraft:mangrove_wood, minecraft:stripped_mangrove_log, minecraft:stripped_mangrove_wood, minecraft:cherry_log, minecraft:cherry_wood, minecraft:stripped_cherry_log, minecraft:stripped_cherry_wood], emi:/tag/item/minecraft/non_flammable_wood: [minecraft:warped_stem, minecraft:stripped_warped_stem, minecraft:warped_hyphae, minecraft:stripped_warped_hyphae, minecraft:crimson_stem, minecraft:stripped_crimson_stem, minecraft:crimson_hyphae, minecraft:stripped_crimson_hyphae, minecraft:crimson_planks, minecraft:warped_planks, minecraft:crimson_slab, minecraft:warped_slab, minecraft:crimson_pressure_plate, minecraft:warped_pressure_plate, minecraft:crimson_fence, minecraft:warped_fence, minecraft:crimson_trapdoor, minecraft:warped_trapdoor, minecraft:crimson_fence_gate, minecraft:warped_fence_gate, minecraft:crimson_stairs, minecraft:warped_stairs, minecraft:crimson_button, minecraft:warped_button, minecraft:crimson_door, minecraft:warped_door, minecraft:crimson_sign, minecraft:warped_sign, minecraft:warped_hanging_sign, minecraft:crimson_hanging_sign], emi:/tag/item/c/shulker_boxes: [minecraft:shulker_box, minecraft:blue_shulker_box, minecraft:brown_shulker_box, minecraft:cyan_shulker_box, minecraft:gray_shulker_box, minecraft:green_shulker_box, minecraft:light_blue_shulker_box, minecraft:light_gray_shulker_box, minecraft:lime_shulker_box, minecraft:magenta_shulker_box, minecraft:orange_shulker_box, minecraft:pink_shulker_box, minecraft:purple_shulker_box, minecraft:red_shulker_box, minecraft:white_shulker_box, minecraft:yellow_shulker_box, minecraft:black_shulker_box], emi:/tag/item/minecraft/compasses: [minecraft:compass, minecraft:recovery_compass], emi:/tag/item/minecraft/fence_gates: [minecraft:acacia_fence_gate, minecraft:birch_fence_gate, minecraft:dark_oak_fence_gate, minecraft:jungle_fence_gate, minecraft:oak_fence_gate, minecraft:spruce_fence_gate, minecraft:crimson_fence_gate, minecraft:warped_fence_gate, minecraft:mangrove_fence_gate, minecraft:bamboo_fence_gate, minecraft:cherry_fence_gate], emi:/tag/item/minecraft/lectern_books: [minecraft:written_book, minecraft:writable_book], emi:/tag/item/minecraft/piglin_loved: [minecraft:gold_ore, minecraft:nether_gold_ore, minecraft:deepslate_gold_ore, minecraft:gold_block, minecraft:gilded_blackstone, minecraft:light_weighted_pressure_plate, minecraft:gold_ingot, minecraft:bell, minecraft:clock, minecraft:golden_carrot, minecraft:glistering_melon_slice, minecraft:golden_apple, minecraft:enchanted_golden_apple, minecraft:golden_helmet, minecraft:golden_chestplate, minecraft:golden_leggings, minecraft:golden_boots, minecraft:golden_horse_armor, minecraft:golden_sword, minecraft:golden_pickaxe, minecraft:golden_shovel, minecraft:golden_axe, minecraft:golden_hoe, minecraft:raw_gold, minecraft:raw_gold_block], emi:/tag/item/minecraft/stone_bricks: [minecraft:stone_bricks, minecraft:mossy_stone_bricks, minecraft:cracked_stone_bricks, minecraft:chiseled_stone_bricks], emi:/tag/item/minecraft/stone_buttons: [minecraft:stone_button, minecraft:polished_blackstone_button], emi:/tag/item/minecraft/warped_stems: [minecraft:warped_stem, minecraft:stripped_warped_stem, minecraft:warped_hyphae, minecraft:stripped_warped_hyphae], emi:/tag/item/minecraft/wooden_buttons: [minecraft:oak_button, minecraft:spruce_button, minecraft:birch_button, minecraft:jungle_button, minecraft:acacia_button, minecraft:dark_oak_button, minecraft:crimson_button, minecraft:warped_button, minecraft:mangrove_button, minecraft:bamboo_button, minecraft:cherry_button], emi:/tag/item/minecraft/terracotta: [minecraft:terracotta, minecraft:white_terracotta, minecraft:orange_terracotta, minecraft:magenta_terracotta, minecraft:light_blue_terracotta, minecraft:yellow_terracotta, minecraft:lime_terracotta, minecraft:pink_terracotta, minecraft:gray_terracotta, minecraft:light_gray_terracotta, minecraft:cyan_terracotta, minecraft:purple_terracotta, minecraft:blue_terracotta, minecraft:brown_terracotta, minecraft:green_terracotta, minecraft:red_terracotta, minecraft:black_terracotta], emi:/tag/item/minecraft/wooden_stairs: [minecraft:oak_stairs, minecraft:spruce_stairs, minecraft:birch_stairs, minecraft:jungle_stairs, minecraft:acacia_stairs, minecraft:dark_oak_stairs, minecraft:crimson_stairs, minecraft:warped_stairs, minecraft:mangrove_stairs, minecraft:bamboo_stairs, minecraft:cherry_stairs]}
 Meta Loop: started
 Recipe Loop: Started
-Recipe Loop: derived 41 values
+Recipe Loop: derived 55 values
 Recipe Loop: Started
-Recipe Loop: derived 41 values
+Recipe Loop: derived 58 values
 Recipe Loop: Started
-Recipe Loop: derived 3 values
+Recipe Loop: derived 10 values
 Recipe Loop: Started
 Recipe Loop: derived 0 values
 Tag Spreading: loop started
@@ -82,10 +82,8 @@ new tag
 trying tag lookup EMC for minecraft:amethyst_block
 trying tag lookup EMC for minecraft:amethyst_shard
 new tag
-new tag
-pulling some EMC from minecraft:iron_ingot
+pulling some EMC from minecraft:diamond
 gave minecraft:amethyst_shard a EMC value via tags
-trying tag lookup EMC for minecraft:ancient_debris
 trying tag lookup EMC for minecraft:andesite
 trying tag lookup EMC for minecraft:andesite_slab
 new tag
@@ -541,6 +539,18 @@ gave minecraft:cartography_table a EMC value via tags
 trying tag lookup EMC for minecraft:carved_pumpkin
 trying tag lookup EMC for minecraft:chainmail_boots
 new tag
+pulling some EMC from minecraft:netherite_helmet
+pulling some EMC from minecraft:netherite_chestplate
+pulling some EMC from minecraft:netherite_leggings
+pulling some EMC from minecraft:netherite_boots
+pulling some EMC from minecraft:diamond_helmet
+pulling some EMC from minecraft:diamond_chestplate
+pulling some EMC from minecraft:diamond_leggings
+pulling some EMC from minecraft:diamond_boots
+pulling some EMC from minecraft:golden_helmet
+pulling some EMC from minecraft:golden_chestplate
+pulling some EMC from minecraft:golden_leggings
+pulling some EMC from minecraft:golden_boots
 pulling some EMC from minecraft:iron_helmet
 pulling some EMC from minecraft:iron_chestplate
 pulling some EMC from minecraft:iron_leggings
@@ -548,6 +558,18 @@ pulling some EMC from minecraft:iron_boots
 gave minecraft:chainmail_boots a EMC value via tags
 trying tag lookup EMC for minecraft:chainmail_chestplate
 new tag
+pulling some EMC from minecraft:netherite_helmet
+pulling some EMC from minecraft:netherite_chestplate
+pulling some EMC from minecraft:netherite_leggings
+pulling some EMC from minecraft:netherite_boots
+pulling some EMC from minecraft:diamond_helmet
+pulling some EMC from minecraft:diamond_chestplate
+pulling some EMC from minecraft:diamond_leggings
+pulling some EMC from minecraft:diamond_boots
+pulling some EMC from minecraft:golden_helmet
+pulling some EMC from minecraft:golden_chestplate
+pulling some EMC from minecraft:golden_leggings
+pulling some EMC from minecraft:golden_boots
 pulling some EMC from minecraft:iron_helmet
 pulling some EMC from minecraft:iron_chestplate
 pulling some EMC from minecraft:iron_leggings
@@ -556,6 +578,18 @@ pulling some EMC from minecraft:chainmail_boots
 gave minecraft:chainmail_chestplate a EMC value via tags
 trying tag lookup EMC for minecraft:chainmail_helmet
 new tag
+pulling some EMC from minecraft:netherite_helmet
+pulling some EMC from minecraft:netherite_chestplate
+pulling some EMC from minecraft:netherite_leggings
+pulling some EMC from minecraft:netherite_boots
+pulling some EMC from minecraft:diamond_helmet
+pulling some EMC from minecraft:diamond_chestplate
+pulling some EMC from minecraft:diamond_leggings
+pulling some EMC from minecraft:diamond_boots
+pulling some EMC from minecraft:golden_helmet
+pulling some EMC from minecraft:golden_chestplate
+pulling some EMC from minecraft:golden_leggings
+pulling some EMC from minecraft:golden_boots
 pulling some EMC from minecraft:iron_helmet
 pulling some EMC from minecraft:iron_chestplate
 pulling some EMC from minecraft:iron_leggings
@@ -565,6 +599,18 @@ pulling some EMC from minecraft:chainmail_boots
 gave minecraft:chainmail_helmet a EMC value via tags
 trying tag lookup EMC for minecraft:chainmail_leggings
 new tag
+pulling some EMC from minecraft:netherite_helmet
+pulling some EMC from minecraft:netherite_chestplate
+pulling some EMC from minecraft:netherite_leggings
+pulling some EMC from minecraft:netherite_boots
+pulling some EMC from minecraft:diamond_helmet
+pulling some EMC from minecraft:diamond_chestplate
+pulling some EMC from minecraft:diamond_leggings
+pulling some EMC from minecraft:diamond_boots
+pulling some EMC from minecraft:golden_helmet
+pulling some EMC from minecraft:golden_chestplate
+pulling some EMC from minecraft:golden_leggings
+pulling some EMC from minecraft:golden_boots
 pulling some EMC from minecraft:iron_helmet
 pulling some EMC from minecraft:iron_chestplate
 pulling some EMC from minecraft:iron_leggings
@@ -703,7 +749,21 @@ trying tag lookup EMC for minecraft:clay
 trying tag lookup EMC for minecraft:clay_ball
 trying tag lookup EMC for minecraft:clock
 new tag
-new tag
+pulling some EMC from minecraft:gold_block
+pulling some EMC from minecraft:light_weighted_pressure_plate
+pulling some EMC from minecraft:gold_ingot
+pulling some EMC from minecraft:golden_helmet
+pulling some EMC from minecraft:golden_chestplate
+pulling some EMC from minecraft:golden_leggings
+pulling some EMC from minecraft:golden_boots
+pulling some EMC from minecraft:golden_sword
+pulling some EMC from minecraft:golden_pickaxe
+pulling some EMC from minecraft:golden_shovel
+pulling some EMC from minecraft:golden_axe
+pulling some EMC from minecraft:golden_hoe
+pulling some EMC from minecraft:raw_gold
+pulling some EMC from minecraft:raw_gold_block
+gave minecraft:clock a EMC value via tags
 trying tag lookup EMC for minecraft:coal
 new tag
 new tag
@@ -802,7 +862,9 @@ new tag
 trying tag lookup EMC for minecraft:copper_block
 trying tag lookup EMC for minecraft:copper_ingot
 new tag
+pulling some EMC from minecraft:gold_ingot
 pulling some EMC from minecraft:iron_ingot
+pulling some EMC from minecraft:netherite_ingot
 gave minecraft:copper_ingot a EMC value via tags
 trying tag lookup EMC for minecraft:copper_ore
 new tag
@@ -1280,19 +1342,40 @@ trying tag lookup EMC for minecraft:deepslate_gold_ore
 new tag
 new tag
 new tag
-new tag
+pulling some EMC from minecraft:gold_block
+pulling some EMC from minecraft:light_weighted_pressure_plate
+pulling some EMC from minecraft:gold_ingot
+pulling some EMC from minecraft:clock
+pulling some EMC from minecraft:golden_helmet
+pulling some EMC from minecraft:golden_chestplate
+pulling some EMC from minecraft:golden_leggings
+pulling some EMC from minecraft:golden_boots
+pulling some EMC from minecraft:golden_sword
+pulling some EMC from minecraft:golden_pickaxe
+pulling some EMC from minecraft:golden_shovel
+pulling some EMC from minecraft:golden_axe
+pulling some EMC from minecraft:golden_hoe
+pulling some EMC from minecraft:raw_gold
+pulling some EMC from minecraft:raw_gold_block
+gave minecraft:deepslate_gold_ore a EMC value via tags
 trying tag lookup EMC for minecraft:deepslate_iron_ore
 new tag
 new tag
-new tag
+pulling some EMC from minecraft:deepslate_gold_ore
+gave minecraft:deepslate_iron_ore a EMC value via tags
 trying tag lookup EMC for minecraft:deepslate_lapis_ore
 new tag
 new tag
-new tag
+pulling some EMC from minecraft:deepslate_gold_ore
+pulling some EMC from minecraft:deepslate_iron_ore
+gave minecraft:deepslate_lapis_ore a EMC value via tags
 trying tag lookup EMC for minecraft:deepslate_redstone_ore
 new tag
 new tag
-new tag
+pulling some EMC from minecraft:deepslate_gold_ore
+pulling some EMC from minecraft:deepslate_iron_ore
+pulling some EMC from minecraft:deepslate_lapis_ore
+gave minecraft:deepslate_redstone_ore a EMC value via tags
 trying tag lookup EMC for minecraft:deepslate_tile_slab
 new tag
 pulling some EMC from minecraft:oak_slab
@@ -1354,70 +1437,14 @@ new tag
 pulling some EMC from minecraft:rail
 pulling some EMC from minecraft:activator_rail
 gave minecraft:detector_rail a EMC value via tags
-trying tag lookup EMC for minecraft:diamond
-new tag
-pulling some EMC from minecraft:amethyst_shard
-gave minecraft:diamond a EMC value via tags
-trying tag lookup EMC for minecraft:diamond_axe
-trying tag lookup EMC for minecraft:diamond_block
-trying tag lookup EMC for minecraft:diamond_boots
-new tag
-pulling some EMC from minecraft:iron_helmet
-pulling some EMC from minecraft:iron_chestplate
-pulling some EMC from minecraft:iron_leggings
-pulling some EMC from minecraft:iron_boots
-pulling some EMC from minecraft:chainmail_helmet
-pulling some EMC from minecraft:chainmail_chestplate
-pulling some EMC from minecraft:chainmail_leggings
-pulling some EMC from minecraft:chainmail_boots
-gave minecraft:diamond_boots a EMC value via tags
-trying tag lookup EMC for minecraft:diamond_chestplate
-new tag
-pulling some EMC from minecraft:diamond_boots
-pulling some EMC from minecraft:iron_helmet
-pulling some EMC from minecraft:iron_chestplate
-pulling some EMC from minecraft:iron_leggings
-pulling some EMC from minecraft:iron_boots
-pulling some EMC from minecraft:chainmail_helmet
-pulling some EMC from minecraft:chainmail_chestplate
-pulling some EMC from minecraft:chainmail_leggings
-pulling some EMC from minecraft:chainmail_boots
-gave minecraft:diamond_chestplate a EMC value via tags
-trying tag lookup EMC for minecraft:diamond_helmet
-new tag
-pulling some EMC from minecraft:diamond_chestplate
-pulling some EMC from minecraft:diamond_boots
-pulling some EMC from minecraft:iron_helmet
-pulling some EMC from minecraft:iron_chestplate
-pulling some EMC from minecraft:iron_leggings
-pulling some EMC from minecraft:iron_boots
-pulling some EMC from minecraft:chainmail_helmet
-pulling some EMC from minecraft:chainmail_chestplate
-pulling some EMC from minecraft:chainmail_leggings
-pulling some EMC from minecraft:chainmail_boots
-gave minecraft:diamond_helmet a EMC value via tags
-trying tag lookup EMC for minecraft:diamond_hoe
-trying tag lookup EMC for minecraft:diamond_leggings
-new tag
-pulling some EMC from minecraft:diamond_helmet
-pulling some EMC from minecraft:diamond_chestplate
-pulling some EMC from minecraft:diamond_boots
-pulling some EMC from minecraft:iron_helmet
-pulling some EMC from minecraft:iron_chestplate
-pulling some EMC from minecraft:iron_leggings
-pulling some EMC from minecraft:iron_boots
-pulling some EMC from minecraft:chainmail_helmet
-pulling some EMC from minecraft:chainmail_chestplate
-pulling some EMC from minecraft:chainmail_leggings
-pulling some EMC from minecraft:chainmail_boots
-gave minecraft:diamond_leggings a EMC value via tags
 trying tag lookup EMC for minecraft:diamond_ore
 new tag
 new tag
-new tag
-trying tag lookup EMC for minecraft:diamond_pickaxe
-trying tag lookup EMC for minecraft:diamond_shovel
-trying tag lookup EMC for minecraft:diamond_sword
+pulling some EMC from minecraft:deepslate_redstone_ore
+pulling some EMC from minecraft:deepslate_gold_ore
+pulling some EMC from minecraft:deepslate_iron_ore
+pulling some EMC from minecraft:deepslate_lapis_ore
+gave minecraft:diamond_ore a EMC value via tags
 trying tag lookup EMC for minecraft:diorite
 trying tag lookup EMC for minecraft:diorite_slab
 new tag
@@ -1507,11 +1534,31 @@ trying tag lookup EMC for minecraft:emerald_block
 trying tag lookup EMC for minecraft:emerald_ore
 new tag
 new tag
-new tag
+pulling some EMC from minecraft:deepslate_redstone_ore
+pulling some EMC from minecraft:deepslate_gold_ore
+pulling some EMC from minecraft:deepslate_iron_ore
+pulling some EMC from minecraft:deepslate_lapis_ore
+pulling some EMC from minecraft:diamond_ore
+gave minecraft:emerald_ore a EMC value via tags
 trying tag lookup EMC for minecraft:enchanted_golden_apple
 new tag
-new tag
-new tag
+pulling some EMC from minecraft:deepslate_gold_ore
+pulling some EMC from minecraft:gold_block
+pulling some EMC from minecraft:light_weighted_pressure_plate
+pulling some EMC from minecraft:gold_ingot
+pulling some EMC from minecraft:clock
+pulling some EMC from minecraft:golden_helmet
+pulling some EMC from minecraft:golden_chestplate
+pulling some EMC from minecraft:golden_leggings
+pulling some EMC from minecraft:golden_boots
+pulling some EMC from minecraft:golden_sword
+pulling some EMC from minecraft:golden_pickaxe
+pulling some EMC from minecraft:golden_shovel
+pulling some EMC from minecraft:golden_axe
+pulling some EMC from minecraft:golden_hoe
+pulling some EMC from minecraft:raw_gold
+pulling some EMC from minecraft:raw_gold_block
+gave minecraft:enchanted_golden_apple a EMC value via tags
 trying tag lookup EMC for minecraft:enchanting_table
 trying tag lookup EMC for minecraft:end_crystal
 trying tag lookup EMC for minecraft:end_rod
@@ -1678,157 +1725,103 @@ new tag
 new tag
 trying tag lookup EMC for minecraft:glistering_melon_slice
 new tag
-new tag
+pulling some EMC from minecraft:deepslate_gold_ore
+pulling some EMC from minecraft:gold_block
+pulling some EMC from minecraft:light_weighted_pressure_plate
+pulling some EMC from minecraft:gold_ingot
+pulling some EMC from minecraft:clock
+pulling some EMC from minecraft:enchanted_golden_apple
+pulling some EMC from minecraft:golden_helmet
+pulling some EMC from minecraft:golden_chestplate
+pulling some EMC from minecraft:golden_leggings
+pulling some EMC from minecraft:golden_boots
+pulling some EMC from minecraft:golden_sword
+pulling some EMC from minecraft:golden_pickaxe
+pulling some EMC from minecraft:golden_shovel
+pulling some EMC from minecraft:golden_axe
+pulling some EMC from minecraft:golden_hoe
+pulling some EMC from minecraft:raw_gold
+pulling some EMC from minecraft:raw_gold_block
+gave minecraft:glistering_melon_slice a EMC value via tags
 trying tag lookup EMC for minecraft:glow_ink_sac
 trying tag lookup EMC for minecraft:glow_item_frame
 trying tag lookup EMC for minecraft:glowstone
 trying tag lookup EMC for minecraft:glowstone_dust
 new tag
 new tag
-trying tag lookup EMC for minecraft:gold_block
-new tag
-new tag
-trying tag lookup EMC for minecraft:gold_ingot
-new tag
-pulling some EMC from minecraft:copper_ingot
-pulling some EMC from minecraft:iron_ingot
-gave minecraft:gold_ingot a EMC value via tags
-trying tag lookup EMC for minecraft:gold_nugget
-new tag
-pulling some EMC from minecraft:iron_nugget
-gave minecraft:gold_nugget a EMC value via tags
 trying tag lookup EMC for minecraft:gold_ore
 new tag
-new tag
-new tag
-pulling some EMC from minecraft:gold_ingot
+pulling some EMC from minecraft:deepslate_gold_ore
 gave minecraft:gold_ore a EMC value via tags
 trying tag lookup EMC for minecraft:golden_apple
 new tag
 pulling some EMC from minecraft:gold_ore
+pulling some EMC from minecraft:deepslate_gold_ore
+pulling some EMC from minecraft:gold_block
+pulling some EMC from minecraft:light_weighted_pressure_plate
 pulling some EMC from minecraft:gold_ingot
-gave minecraft:golden_apple a EMC value via tags
-trying tag lookup EMC for minecraft:golden_axe
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_apple
-gave minecraft:golden_axe a EMC value via tags
-trying tag lookup EMC for minecraft:golden_boots
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_axe
-gave minecraft:golden_boots a EMC value via tags
-trying tag lookup EMC for minecraft:golden_carrot
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_axe
-gave minecraft:golden_carrot a EMC value via tags
-trying tag lookup EMC for minecraft:golden_chestplate
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_axe
-gave minecraft:golden_chestplate a EMC value via tags
-trying tag lookup EMC for minecraft:golden_helmet
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_axe
-gave minecraft:golden_helmet a EMC value via tags
-trying tag lookup EMC for minecraft:golden_hoe
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_axe
-gave minecraft:golden_hoe a EMC value via tags
-trying tag lookup EMC for minecraft:golden_horse_armor
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_axe
-pulling some EMC from minecraft:golden_hoe
-gave minecraft:golden_horse_armor a EMC value via tags
-trying tag lookup EMC for minecraft:golden_leggings
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_horse_armor
-pulling some EMC from minecraft:golden_axe
-pulling some EMC from minecraft:golden_hoe
-gave minecraft:golden_leggings a EMC value via tags
-trying tag lookup EMC for minecraft:golden_pickaxe
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:clock
+pulling some EMC from minecraft:glistering_melon_slice
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:golden_helmet
 pulling some EMC from minecraft:golden_chestplate
 pulling some EMC from minecraft:golden_leggings
 pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_horse_armor
-pulling some EMC from minecraft:golden_axe
-pulling some EMC from minecraft:golden_hoe
-gave minecraft:golden_pickaxe a EMC value via tags
-trying tag lookup EMC for minecraft:golden_shovel
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_horse_armor
-pulling some EMC from minecraft:golden_pickaxe
-pulling some EMC from minecraft:golden_axe
-pulling some EMC from minecraft:golden_hoe
-gave minecraft:golden_shovel a EMC value via tags
-trying tag lookup EMC for minecraft:golden_sword
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_horse_armor
+pulling some EMC from minecraft:golden_sword
 pulling some EMC from minecraft:golden_pickaxe
 pulling some EMC from minecraft:golden_shovel
 pulling some EMC from minecraft:golden_axe
 pulling some EMC from minecraft:golden_hoe
-gave minecraft:golden_sword a EMC value via tags
+pulling some EMC from minecraft:raw_gold
+pulling some EMC from minecraft:raw_gold_block
+gave minecraft:golden_apple a EMC value via tags
+trying tag lookup EMC for minecraft:golden_carrot
+new tag
+pulling some EMC from minecraft:gold_ore
+pulling some EMC from minecraft:deepslate_gold_ore
+pulling some EMC from minecraft:gold_block
+pulling some EMC from minecraft:light_weighted_pressure_plate
+pulling some EMC from minecraft:gold_ingot
+pulling some EMC from minecraft:clock
+pulling some EMC from minecraft:glistering_melon_slice
+pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
+pulling some EMC from minecraft:golden_helmet
+pulling some EMC from minecraft:golden_chestplate
+pulling some EMC from minecraft:golden_leggings
+pulling some EMC from minecraft:golden_boots
+pulling some EMC from minecraft:golden_sword
+pulling some EMC from minecraft:golden_pickaxe
+pulling some EMC from minecraft:golden_shovel
+pulling some EMC from minecraft:golden_axe
+pulling some EMC from minecraft:golden_hoe
+pulling some EMC from minecraft:raw_gold
+pulling some EMC from minecraft:raw_gold_block
+gave minecraft:golden_carrot a EMC value via tags
+trying tag lookup EMC for minecraft:golden_horse_armor
+new tag
+pulling some EMC from minecraft:gold_ore
+pulling some EMC from minecraft:deepslate_gold_ore
+pulling some EMC from minecraft:gold_block
+pulling some EMC from minecraft:light_weighted_pressure_plate
+pulling some EMC from minecraft:gold_ingot
+pulling some EMC from minecraft:clock
+pulling some EMC from minecraft:golden_carrot
+pulling some EMC from minecraft:glistering_melon_slice
+pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
+pulling some EMC from minecraft:golden_helmet
+pulling some EMC from minecraft:golden_chestplate
+pulling some EMC from minecraft:golden_leggings
+pulling some EMC from minecraft:golden_boots
+pulling some EMC from minecraft:golden_sword
+pulling some EMC from minecraft:golden_pickaxe
+pulling some EMC from minecraft:golden_shovel
+pulling some EMC from minecraft:golden_axe
+pulling some EMC from minecraft:golden_hoe
+pulling some EMC from minecraft:raw_gold
+pulling some EMC from minecraft:raw_gold_block
+gave minecraft:golden_horse_armor a EMC value via tags
 trying tag lookup EMC for minecraft:granite
 trying tag lookup EMC for minecraft:granite_slab
 new tag
@@ -1968,6 +1961,7 @@ trying tag lookup EMC for minecraft:honey_block
 trying tag lookup EMC for minecraft:honey_bottle
 new tag
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:golden_carrot
 gave minecraft:honey_bottle a EMC value via tags
 trying tag lookup EMC for minecraft:honeycomb
@@ -1980,12 +1974,10 @@ trying tag lookup EMC for minecraft:ink_sac
 trying tag lookup EMC for minecraft:iron_horse_armor
 trying tag lookup EMC for minecraft:iron_ore
 new tag
-new tag
-pulling some EMC from minecraft:gold_ore
+pulling some EMC from minecraft:deepslate_iron_ore
 gave minecraft:iron_ore a EMC value via tags
 trying tag lookup EMC for minecraft:item_frame
 trying tag lookup EMC for minecraft:jack_o_lantern
-trying tag lookup EMC for minecraft:jukebox
 trying tag lookup EMC for minecraft:jungle_boat
 new tag
 pulling some EMC from minecraft:oak_boat
@@ -2144,15 +2136,17 @@ pulling some EMC from minecraft:amethyst_shard
 gave minecraft:lapis_lazuli a EMC value via tags
 trying tag lookup EMC for minecraft:lapis_ore
 new tag
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:iron_ore
+pulling some EMC from minecraft:deepslate_lapis_ore
 gave minecraft:lapis_ore a EMC value via tags
 trying tag lookup EMC for minecraft:lead
 trying tag lookup EMC for minecraft:leather
 trying tag lookup EMC for minecraft:leather_boots
 new tag
 new tag
+pulling some EMC from minecraft:netherite_helmet
+pulling some EMC from minecraft:netherite_chestplate
+pulling some EMC from minecraft:netherite_leggings
+pulling some EMC from minecraft:netherite_boots
 pulling some EMC from minecraft:diamond_helmet
 pulling some EMC from minecraft:diamond_chestplate
 pulling some EMC from minecraft:diamond_leggings
@@ -2269,23 +2263,6 @@ new tag
 trying tag lookup EMC for minecraft:light_gray_wool
 new tag
 new tag
-trying tag lookup EMC for minecraft:light_weighted_pressure_plate
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_horse_armor
-pulling some EMC from minecraft:golden_sword
-pulling some EMC from minecraft:golden_pickaxe
-pulling some EMC from minecraft:golden_shovel
-pulling some EMC from minecraft:golden_axe
-pulling some EMC from minecraft:golden_hoe
-gave minecraft:light_weighted_pressure_plate a EMC value via tags
 trying tag lookup EMC for minecraft:lightning_rod
 trying tag lookup EMC for minecraft:lilac
 new tag
@@ -2330,7 +2307,6 @@ new tag
 trying tag lookup EMC for minecraft:lingering_potion
 new tag
 new tag
-trying tag lookup EMC for minecraft:lodestone
 trying tag lookup EMC for minecraft:loom
 new tag
 pulling some EMC from minecraft:barrel
@@ -2549,6 +2525,7 @@ trying tag lookup EMC for minecraft:melon_seeds
 trying tag lookup EMC for minecraft:melon_slice
 new tag
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:golden_carrot
 pulling some EMC from minecraft:honey_bottle
 gave minecraft:melon_slice a EMC value via tags
@@ -2803,6 +2780,7 @@ new tag
 trying tag lookup EMC for minecraft:mushroom_stew
 new tag
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:melon_slice
 pulling some EMC from minecraft:golden_carrot
 pulling some EMC from minecraft:honey_bottle
@@ -2814,6 +2792,7 @@ trying tag lookup EMC for minecraft:mutton
 new tag
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:melon_slice
 pulling some EMC from minecraft:golden_carrot
 pulling some EMC from minecraft:honey_bottle
@@ -2918,131 +2897,26 @@ trying tag lookup EMC for minecraft:nether_bricks
 trying tag lookup EMC for minecraft:nether_gold_ore
 new tag
 pulling some EMC from minecraft:gold_ore
+pulling some EMC from minecraft:deepslate_gold_ore
 gave minecraft:nether_gold_ore a EMC value via tags
 trying tag lookup EMC for minecraft:nether_quartz_ore
 new tag
+pulling some EMC from minecraft:deepslate_redstone_ore
 pulling some EMC from minecraft:gold_ore
 pulling some EMC from minecraft:nether_gold_ore
+pulling some EMC from minecraft:deepslate_gold_ore
 pulling some EMC from minecraft:iron_ore
+pulling some EMC from minecraft:deepslate_iron_ore
+pulling some EMC from minecraft:emerald_ore
 pulling some EMC from minecraft:lapis_ore
+pulling some EMC from minecraft:deepslate_lapis_ore
+pulling some EMC from minecraft:diamond_ore
 gave minecraft:nether_quartz_ore a EMC value via tags
 trying tag lookup EMC for minecraft:nether_star
 trying tag lookup EMC for minecraft:nether_wart
 trying tag lookup EMC for minecraft:nether_wart_block
 new tag
 new tag
-trying tag lookup EMC for minecraft:netherite_axe
-trying tag lookup EMC for minecraft:netherite_block
-trying tag lookup EMC for minecraft:netherite_boots
-new tag
-pulling some EMC from minecraft:diamond_helmet
-pulling some EMC from minecraft:diamond_chestplate
-pulling some EMC from minecraft:diamond_leggings
-pulling some EMC from minecraft:diamond_boots
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:iron_helmet
-pulling some EMC from minecraft:iron_chestplate
-pulling some EMC from minecraft:iron_leggings
-pulling some EMC from minecraft:iron_boots
-pulling some EMC from minecraft:chainmail_helmet
-pulling some EMC from minecraft:chainmail_chestplate
-pulling some EMC from minecraft:chainmail_leggings
-pulling some EMC from minecraft:chainmail_boots
-pulling some EMC from minecraft:leather_helmet
-pulling some EMC from minecraft:leather_chestplate
-pulling some EMC from minecraft:leather_leggings
-pulling some EMC from minecraft:leather_boots
-gave minecraft:netherite_boots a EMC value via tags
-trying tag lookup EMC for minecraft:netherite_chestplate
-new tag
-pulling some EMC from minecraft:netherite_boots
-pulling some EMC from minecraft:diamond_helmet
-pulling some EMC from minecraft:diamond_chestplate
-pulling some EMC from minecraft:diamond_leggings
-pulling some EMC from minecraft:diamond_boots
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:iron_helmet
-pulling some EMC from minecraft:iron_chestplate
-pulling some EMC from minecraft:iron_leggings
-pulling some EMC from minecraft:iron_boots
-pulling some EMC from minecraft:chainmail_helmet
-pulling some EMC from minecraft:chainmail_chestplate
-pulling some EMC from minecraft:chainmail_leggings
-pulling some EMC from minecraft:chainmail_boots
-pulling some EMC from minecraft:leather_helmet
-pulling some EMC from minecraft:leather_chestplate
-pulling some EMC from minecraft:leather_leggings
-pulling some EMC from minecraft:leather_boots
-gave minecraft:netherite_chestplate a EMC value via tags
-trying tag lookup EMC for minecraft:netherite_helmet
-new tag
-pulling some EMC from minecraft:netherite_chestplate
-pulling some EMC from minecraft:netherite_boots
-pulling some EMC from minecraft:diamond_helmet
-pulling some EMC from minecraft:diamond_chestplate
-pulling some EMC from minecraft:diamond_leggings
-pulling some EMC from minecraft:diamond_boots
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:iron_helmet
-pulling some EMC from minecraft:iron_chestplate
-pulling some EMC from minecraft:iron_leggings
-pulling some EMC from minecraft:iron_boots
-pulling some EMC from minecraft:chainmail_helmet
-pulling some EMC from minecraft:chainmail_chestplate
-pulling some EMC from minecraft:chainmail_leggings
-pulling some EMC from minecraft:chainmail_boots
-pulling some EMC from minecraft:leather_helmet
-pulling some EMC from minecraft:leather_chestplate
-pulling some EMC from minecraft:leather_leggings
-pulling some EMC from minecraft:leather_boots
-gave minecraft:netherite_helmet a EMC value via tags
-trying tag lookup EMC for minecraft:netherite_hoe
-trying tag lookup EMC for minecraft:netherite_ingot
-new tag
-pulling some EMC from minecraft:copper_ingot
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:iron_ingot
-gave minecraft:netherite_ingot a EMC value via tags
-trying tag lookup EMC for minecraft:netherite_leggings
-new tag
-pulling some EMC from minecraft:netherite_helmet
-pulling some EMC from minecraft:netherite_chestplate
-pulling some EMC from minecraft:netherite_boots
-pulling some EMC from minecraft:diamond_helmet
-pulling some EMC from minecraft:diamond_chestplate
-pulling some EMC from minecraft:diamond_leggings
-pulling some EMC from minecraft:diamond_boots
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:iron_helmet
-pulling some EMC from minecraft:iron_chestplate
-pulling some EMC from minecraft:iron_leggings
-pulling some EMC from minecraft:iron_boots
-pulling some EMC from minecraft:chainmail_helmet
-pulling some EMC from minecraft:chainmail_chestplate
-pulling some EMC from minecraft:chainmail_leggings
-pulling some EMC from minecraft:chainmail_boots
-pulling some EMC from minecraft:leather_helmet
-pulling some EMC from minecraft:leather_chestplate
-pulling some EMC from minecraft:leather_leggings
-pulling some EMC from minecraft:leather_boots
-gave minecraft:netherite_leggings a EMC value via tags
-trying tag lookup EMC for minecraft:netherite_pickaxe
-trying tag lookup EMC for minecraft:netherite_scrap
-trying tag lookup EMC for minecraft:netherite_shovel
-trying tag lookup EMC for minecraft:netherite_sword
-trying tag lookup EMC for minecraft:netherite_upgrade_smithing_template
 trying tag lookup EMC for minecraft:netherrack
 trying tag lookup EMC for minecraft:note_block
 trying tag lookup EMC for minecraft:oak_hanging_sign
@@ -3743,6 +3617,7 @@ new tag
 new tag
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:melon_slice
 pulling some EMC from minecraft:golden_carrot
 pulling some EMC from minecraft:mutton
@@ -3754,6 +3629,7 @@ new tag
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:melon_slice
 pulling some EMC from minecraft:golden_carrot
 pulling some EMC from minecraft:mutton
@@ -3963,6 +3839,7 @@ new tag
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:melon_slice
 pulling some EMC from minecraft:potato
 pulling some EMC from minecraft:golden_carrot
@@ -3975,6 +3852,7 @@ new tag
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
 pulling some EMC from minecraft:potato
@@ -4208,6 +4086,7 @@ new tag
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
 pulling some EMC from minecraft:potato
@@ -4223,6 +4102,7 @@ new tag
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
 pulling some EMC from minecraft:potato
@@ -4238,33 +4118,9 @@ new tag
 trying tag lookup EMC for minecraft:raw_copper
 new tag
 pulling some EMC from minecraft:raw_iron
+pulling some EMC from minecraft:raw_gold
 gave minecraft:raw_copper a EMC value via tags
 trying tag lookup EMC for minecraft:raw_copper_block
-trying tag lookup EMC for minecraft:raw_gold
-new tag
-pulling some EMC from minecraft:raw_iron
-pulling some EMC from minecraft:raw_copper
-gave minecraft:raw_gold a EMC value via tags
-trying tag lookup EMC for minecraft:raw_gold_block
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:nether_gold_ore
-pulling some EMC from minecraft:light_weighted_pressure_plate
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_horse_armor
-pulling some EMC from minecraft:golden_sword
-pulling some EMC from minecraft:golden_pickaxe
-pulling some EMC from minecraft:golden_shovel
-pulling some EMC from minecraft:golden_axe
-pulling some EMC from minecraft:golden_hoe
-pulling some EMC from minecraft:raw_gold
-gave minecraft:raw_gold_block a EMC value via tags
 trying tag lookup EMC for minecraft:recovery_compass
 new tag
 new tag
@@ -4515,12 +4371,7 @@ trying tag lookup EMC for minecraft:redstone_block
 trying tag lookup EMC for minecraft:redstone_lamp
 trying tag lookup EMC for minecraft:redstone_ore
 new tag
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:nether_gold_ore
-pulling some EMC from minecraft:iron_ore
-pulling some EMC from minecraft:lapis_ore
-pulling some EMC from minecraft:nether_quartz_ore
+pulling some EMC from minecraft:deepslate_redstone_ore
 gave minecraft:redstone_ore a EMC value via tags
 trying tag lookup EMC for minecraft:redstone_torch
 trying tag lookup EMC for minecraft:repeater
@@ -4765,6 +4616,7 @@ new tag
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
@@ -5102,6 +4954,7 @@ new tag
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
@@ -5970,7 +5823,7 @@ new tag
 trying tag lookup EMC for minecraft:zombie_head
 new tag
 new tag
-Tag Spreading: spread 339 values
+Tag Spreading: spread 324 values
 Tag Spreading: loop started
 trying tag lookup EMC for minecraft:acacia_hanging_sign
 new tag
@@ -5987,13 +5840,13 @@ new tag
 new tag
 new tag
 trying tag lookup EMC for minecraft:amethyst_block
-trying tag lookup EMC for minecraft:ancient_debris
 trying tag lookup EMC for minecraft:andesite
 trying tag lookup EMC for minecraft:apple
 new tag
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
@@ -6020,6 +5873,7 @@ pulling some EMC from minecraft:apple
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
@@ -6057,6 +5911,7 @@ pulling some EMC from minecraft:apple
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
@@ -6078,6 +5933,7 @@ pulling some EMC from minecraft:apple
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
@@ -6099,6 +5955,7 @@ pulling some EMC from minecraft:apple
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
@@ -6214,6 +6071,7 @@ pulling some EMC from minecraft:apple
 pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
@@ -6305,6 +6163,7 @@ pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:bread
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
@@ -6342,6 +6201,7 @@ pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:bread
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
 pulling some EMC from minecraft:melon_slice
@@ -6363,27 +6223,6 @@ pulling some EMC from minecraft:honey_bottle
 gave minecraft:chorus_fruit a EMC value via tags
 trying tag lookup EMC for minecraft:clay
 trying tag lookup EMC for minecraft:clay_ball
-trying tag lookup EMC for minecraft:clock
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:nether_gold_ore
-pulling some EMC from minecraft:light_weighted_pressure_plate
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_horse_armor
-pulling some EMC from minecraft:golden_sword
-pulling some EMC from minecraft:golden_pickaxe
-pulling some EMC from minecraft:golden_shovel
-pulling some EMC from minecraft:golden_axe
-pulling some EMC from minecraft:golden_hoe
-pulling some EMC from minecraft:raw_gold
-pulling some EMC from minecraft:raw_gold_block
-gave minecraft:clock a EMC value via tags
 trying tag lookup EMC for minecraft:coal
 new tag
 new tag
@@ -6392,10 +6231,16 @@ trying tag lookup EMC for minecraft:coal_ore
 new tag
 new tag
 pulling some EMC from minecraft:redstone_ore
+pulling some EMC from minecraft:deepslate_redstone_ore
 pulling some EMC from minecraft:gold_ore
 pulling some EMC from minecraft:nether_gold_ore
+pulling some EMC from minecraft:deepslate_gold_ore
 pulling some EMC from minecraft:iron_ore
+pulling some EMC from minecraft:deepslate_iron_ore
+pulling some EMC from minecraft:emerald_ore
 pulling some EMC from minecraft:lapis_ore
+pulling some EMC from minecraft:deepslate_lapis_ore
+pulling some EMC from minecraft:diamond_ore
 pulling some EMC from minecraft:nether_quartz_ore
 gave minecraft:coal_ore a EMC value via tags
 trying tag lookup EMC for minecraft:coarse_dirt
@@ -6422,6 +6267,7 @@ pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:bread
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:cod
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
@@ -6450,6 +6296,7 @@ pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:bread
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:cod
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
@@ -6485,6 +6332,7 @@ pulling some EMC from minecraft:mushroom_stew
 pulling some EMC from minecraft:bread
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:cod
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
@@ -6521,6 +6369,7 @@ pulling some EMC from minecraft:bread
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:cooked_porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:cod
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
@@ -6561,6 +6410,7 @@ pulling some EMC from minecraft:bread
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:cooked_porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:cod
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
@@ -6593,11 +6443,17 @@ trying tag lookup EMC for minecraft:copper_ore
 new tag
 new tag
 pulling some EMC from minecraft:redstone_ore
+pulling some EMC from minecraft:deepslate_redstone_ore
 pulling some EMC from minecraft:gold_ore
 pulling some EMC from minecraft:nether_gold_ore
+pulling some EMC from minecraft:deepslate_gold_ore
 pulling some EMC from minecraft:iron_ore
+pulling some EMC from minecraft:deepslate_iron_ore
 pulling some EMC from minecraft:coal_ore
+pulling some EMC from minecraft:emerald_ore
 pulling some EMC from minecraft:lapis_ore
+pulling some EMC from minecraft:deepslate_lapis_ore
+pulling some EMC from minecraft:diamond_ore
 pulling some EMC from minecraft:nether_quartz_ore
 gave minecraft:copper_ore a EMC value via tags
 trying tag lookup EMC for minecraft:cornflower
@@ -6676,61 +6532,13 @@ pulling some EMC from minecraft:copper_ore
 gave minecraft:deepslate_copper_ore a EMC value via tags
 trying tag lookup EMC for minecraft:deepslate_diamond_ore
 new tag
-new tag
-pulling some EMC from minecraft:redstone_ore
-pulling some EMC from minecraft:copper_ore
-pulling some EMC from minecraft:deepslate_copper_ore
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:nether_gold_ore
-pulling some EMC from minecraft:iron_ore
-pulling some EMC from minecraft:coal_ore
-pulling some EMC from minecraft:deepslate_coal_ore
-pulling some EMC from minecraft:lapis_ore
-pulling some EMC from minecraft:nether_quartz_ore
+pulling some EMC from minecraft:diamond_ore
 gave minecraft:deepslate_diamond_ore a EMC value via tags
 trying tag lookup EMC for minecraft:deepslate_emerald_ore
 new tag
-new tag
-pulling some EMC from minecraft:redstone_ore
-pulling some EMC from minecraft:copper_ore
-pulling some EMC from minecraft:deepslate_copper_ore
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:nether_gold_ore
-pulling some EMC from minecraft:iron_ore
-pulling some EMC from minecraft:coal_ore
-pulling some EMC from minecraft:deepslate_coal_ore
-pulling some EMC from minecraft:lapis_ore
-pulling some EMC from minecraft:deepslate_diamond_ore
-pulling some EMC from minecraft:nether_quartz_ore
+pulling some EMC from minecraft:emerald_ore
 gave minecraft:deepslate_emerald_ore a EMC value via tags
-trying tag lookup EMC for minecraft:deepslate_gold_ore
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:nether_gold_ore
-gave minecraft:deepslate_gold_ore a EMC value via tags
-trying tag lookup EMC for minecraft:deepslate_iron_ore
-new tag
-pulling some EMC from minecraft:iron_ore
-gave minecraft:deepslate_iron_ore a EMC value via tags
-trying tag lookup EMC for minecraft:deepslate_lapis_ore
-new tag
-pulling some EMC from minecraft:lapis_ore
-gave minecraft:deepslate_lapis_ore a EMC value via tags
-trying tag lookup EMC for minecraft:deepslate_redstone_ore
-new tag
-pulling some EMC from minecraft:redstone_ore
-gave minecraft:deepslate_redstone_ore a EMC value via tags
 trying tag lookup EMC for minecraft:deepslate_tiles
-trying tag lookup EMC for minecraft:diamond_axe
-trying tag lookup EMC for minecraft:diamond_block
-trying tag lookup EMC for minecraft:diamond_hoe
-trying tag lookup EMC for minecraft:diamond_ore
-new tag
-pulling some EMC from minecraft:deepslate_diamond_ore
-gave minecraft:diamond_ore a EMC value via tags
-trying tag lookup EMC for minecraft:diamond_pickaxe
-trying tag lookup EMC for minecraft:diamond_shovel
-trying tag lookup EMC for minecraft:diamond_sword
 trying tag lookup EMC for minecraft:diorite
 trying tag lookup EMC for minecraft:dirt
 new tag
@@ -6749,6 +6557,7 @@ pulling some EMC from minecraft:bread
 pulling some EMC from minecraft:porkchop
 pulling some EMC from minecraft:cooked_porkchop
 pulling some EMC from minecraft:golden_apple
+pulling some EMC from minecraft:enchanted_golden_apple
 pulling some EMC from minecraft:cod
 pulling some EMC from minecraft:salmon
 pulling some EMC from minecraft:pufferfish
@@ -6787,33 +6596,6 @@ trying tag lookup EMC for minecraft:echo_shard
 trying tag lookup EMC for minecraft:egg
 trying tag lookup EMC for minecraft:elytra
 trying tag lookup EMC for minecraft:emerald_block
-trying tag lookup EMC for minecraft:emerald_ore
-new tag
-pulling some EMC from minecraft:deepslate_emerald_ore
-gave minecraft:emerald_ore a EMC value via tags
-trying tag lookup EMC for minecraft:enchanted_golden_apple
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:nether_gold_ore
-pulling some EMC from minecraft:deepslate_gold_ore
-pulling some EMC from minecraft:light_weighted_pressure_plate
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:clock
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_horse_armor
-pulling some EMC from minecraft:golden_sword
-pulling some EMC from minecraft:golden_pickaxe
-pulling some EMC from minecraft:golden_shovel
-pulling some EMC from minecraft:golden_axe
-pulling some EMC from minecraft:golden_hoe
-pulling some EMC from minecraft:raw_gold
-pulling some EMC from minecraft:raw_gold_block
-gave minecraft:enchanted_golden_apple a EMC value via tags
 trying tag lookup EMC for minecraft:enchanting_table
 trying tag lookup EMC for minecraft:end_crystal
 trying tag lookup EMC for minecraft:end_rod
@@ -6849,30 +6631,6 @@ trying tag lookup EMC for minecraft:glass_bottle
 trying tag lookup EMC for minecraft:glass_pane
 new tag
 new tag
-trying tag lookup EMC for minecraft:glistering_melon_slice
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:nether_gold_ore
-pulling some EMC from minecraft:deepslate_gold_ore
-pulling some EMC from minecraft:light_weighted_pressure_plate
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:clock
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:enchanted_golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_horse_armor
-pulling some EMC from minecraft:golden_sword
-pulling some EMC from minecraft:golden_pickaxe
-pulling some EMC from minecraft:golden_shovel
-pulling some EMC from minecraft:golden_axe
-pulling some EMC from minecraft:golden_hoe
-pulling some EMC from minecraft:raw_gold
-pulling some EMC from minecraft:raw_gold_block
-gave minecraft:glistering_melon_slice a EMC value via tags
 trying tag lookup EMC for minecraft:glow_ink_sac
 trying tag lookup EMC for minecraft:glow_item_frame
 trying tag lookup EMC for minecraft:glowstone
@@ -6880,31 +6638,6 @@ trying tag lookup EMC for minecraft:glowstone_dust
 new tag
 pulling some EMC from minecraft:redstone
 gave minecraft:glowstone_dust a EMC value via tags
-trying tag lookup EMC for minecraft:gold_block
-new tag
-pulling some EMC from minecraft:gold_ore
-pulling some EMC from minecraft:nether_gold_ore
-pulling some EMC from minecraft:deepslate_gold_ore
-pulling some EMC from minecraft:light_weighted_pressure_plate
-pulling some EMC from minecraft:gold_ingot
-pulling some EMC from minecraft:clock
-pulling some EMC from minecraft:golden_carrot
-pulling some EMC from minecraft:glistering_melon_slice
-pulling some EMC from minecraft:golden_apple
-pulling some EMC from minecraft:enchanted_golden_apple
-pulling some EMC from minecraft:golden_helmet
-pulling some EMC from minecraft:golden_chestplate
-pulling some EMC from minecraft:golden_leggings
-pulling some EMC from minecraft:golden_boots
-pulling some EMC from minecraft:golden_horse_armor
-pulling some EMC from minecraft:golden_sword
-pulling some EMC from minecraft:golden_pickaxe
-pulling some EMC from minecraft:golden_shovel
-pulling some EMC from minecraft:golden_axe
-pulling some EMC from minecraft:golden_hoe
-pulling some EMC from minecraft:raw_gold
-pulling some EMC from minecraft:raw_gold_block
-gave minecraft:gold_block a EMC value via tags
 trying tag lookup EMC for minecraft:granite
 trying tag lookup EMC for minecraft:gravel
 trying tag lookup EMC for minecraft:gray_banner
@@ -6985,7 +6718,6 @@ trying tag lookup EMC for minecraft:ink_sac
 trying tag lookup EMC for minecraft:iron_horse_armor
 trying tag lookup EMC for minecraft:item_frame
 trying tag lookup EMC for minecraft:jack_o_lantern
-trying tag lookup EMC for minecraft:jukebox
 trying tag lookup EMC for minecraft:kelp
 trying tag lookup EMC for minecraft:lantern
 trying tag lookup EMC for minecraft:lapis_block
@@ -7099,7 +6831,6 @@ new tag
 trying tag lookup EMC for minecraft:lingering_potion
 new tag
 new tag
-trying tag lookup EMC for minecraft:lodestone
 trying tag lookup EMC for minecraft:magenta_banner
 new tag
 new tag
@@ -7163,14 +6894,6 @@ trying tag lookup EMC for minecraft:nether_wart
 trying tag lookup EMC for minecraft:nether_wart_block
 new tag
 new tag
-trying tag lookup EMC for minecraft:netherite_axe
-trying tag lookup EMC for minecraft:netherite_block
-trying tag lookup EMC for minecraft:netherite_hoe
-trying tag lookup EMC for minecraft:netherite_pickaxe
-trying tag lookup EMC for minecraft:netherite_scrap
-trying tag lookup EMC for minecraft:netherite_shovel
-trying tag lookup EMC for minecraft:netherite_sword
-trying tag lookup EMC for minecraft:netherite_upgrade_smithing_template
 trying tag lookup EMC for minecraft:netherrack
 trying tag lookup EMC for minecraft:note_block
 trying tag lookup EMC for minecraft:observer
@@ -7616,14 +7339,13 @@ new tag
 trying tag lookup EMC for minecraft:zombie_head
 new tag
 new tag
-Tag Spreading: spread 40 values
+Tag Spreading: spread 30 values
 Tag Spreading: loop started
 trying tag lookup EMC for minecraft:allium
 new tag
 new tag
 new tag
 trying tag lookup EMC for minecraft:amethyst_block
-trying tag lookup EMC for minecraft:ancient_debris
 trying tag lookup EMC for minecraft:andesite
 trying tag lookup EMC for minecraft:arrow
 new tag
@@ -7869,12 +7591,6 @@ trying tag lookup EMC for minecraft:decorated_pot
 trying tag lookup EMC for minecraft:deepslate
 trying tag lookup EMC for minecraft:deepslate_bricks
 trying tag lookup EMC for minecraft:deepslate_tiles
-trying tag lookup EMC for minecraft:diamond_axe
-trying tag lookup EMC for minecraft:diamond_block
-trying tag lookup EMC for minecraft:diamond_hoe
-trying tag lookup EMC for minecraft:diamond_pickaxe
-trying tag lookup EMC for minecraft:diamond_shovel
-trying tag lookup EMC for minecraft:diamond_sword
 trying tag lookup EMC for minecraft:diorite
 trying tag lookup EMC for minecraft:dirt
 new tag
@@ -8013,7 +7729,6 @@ trying tag lookup EMC for minecraft:ink_sac
 trying tag lookup EMC for minecraft:iron_horse_armor
 trying tag lookup EMC for minecraft:item_frame
 trying tag lookup EMC for minecraft:jack_o_lantern
-trying tag lookup EMC for minecraft:jukebox
 trying tag lookup EMC for minecraft:kelp
 trying tag lookup EMC for minecraft:lantern
 trying tag lookup EMC for minecraft:lapis_block
@@ -8127,7 +7842,6 @@ new tag
 trying tag lookup EMC for minecraft:lingering_potion
 new tag
 new tag
-trying tag lookup EMC for minecraft:lodestone
 trying tag lookup EMC for minecraft:magenta_banner
 new tag
 new tag
@@ -8191,14 +7905,6 @@ trying tag lookup EMC for minecraft:nether_wart
 trying tag lookup EMC for minecraft:nether_wart_block
 new tag
 new tag
-trying tag lookup EMC for minecraft:netherite_axe
-trying tag lookup EMC for minecraft:netherite_block
-trying tag lookup EMC for minecraft:netherite_hoe
-trying tag lookup EMC for minecraft:netherite_pickaxe
-trying tag lookup EMC for minecraft:netherite_scrap
-trying tag lookup EMC for minecraft:netherite_shovel
-trying tag lookup EMC for minecraft:netherite_sword
-trying tag lookup EMC for minecraft:netherite_upgrade_smithing_template
 trying tag lookup EMC for minecraft:netherrack
 trying tag lookup EMC for minecraft:note_block
 trying tag lookup EMC for minecraft:observer
@@ -8645,10 +8351,10 @@ trying tag lookup EMC for minecraft:zombie_head
 new tag
 new tag
 Tag Spreading: spread 0 values
-Meta loop: affected 464 items
+Meta loop: affected 477 items
 Meta Loop: started
 Recipe Loop: Started
-Recipe Loop: derived 63 values
+Recipe Loop: derived 54 values
 Recipe Loop: Started
 Recipe Loop: derived 9 values
 Recipe Loop: Started
@@ -8658,7 +8364,6 @@ trying tag lookup EMC for minecraft:allium
 new tag
 new tag
 new tag
-trying tag lookup EMC for minecraft:ancient_debris
 trying tag lookup EMC for minecraft:arrow
 new tag
 new tag
@@ -9232,13 +8937,6 @@ trying tag lookup EMC for minecraft:nether_wart
 trying tag lookup EMC for minecraft:nether_wart_block
 new tag
 new tag
-trying tag lookup EMC for minecraft:netherite_axe
-trying tag lookup EMC for minecraft:netherite_hoe
-trying tag lookup EMC for minecraft:netherite_pickaxe
-trying tag lookup EMC for minecraft:netherite_scrap
-trying tag lookup EMC for minecraft:netherite_shovel
-trying tag lookup EMC for minecraft:netherite_sword
-trying tag lookup EMC for minecraft:netherite_upgrade_smithing_template
 trying tag lookup EMC for minecraft:netherrack
 trying tag lookup EMC for minecraft:obsidian
 trying tag lookup EMC for minecraft:orange_banner
@@ -9720,7 +9418,6 @@ trying tag lookup EMC for minecraft:allium
 new tag
 new tag
 new tag
-trying tag lookup EMC for minecraft:ancient_debris
 trying tag lookup EMC for minecraft:arrow
 new tag
 new tag
@@ -10196,13 +9893,6 @@ trying tag lookup EMC for minecraft:nether_wart
 trying tag lookup EMC for minecraft:nether_wart_block
 new tag
 new tag
-trying tag lookup EMC for minecraft:netherite_axe
-trying tag lookup EMC for minecraft:netherite_hoe
-trying tag lookup EMC for minecraft:netherite_pickaxe
-trying tag lookup EMC for minecraft:netherite_scrap
-trying tag lookup EMC for minecraft:netherite_shovel
-trying tag lookup EMC for minecraft:netherite_sword
-trying tag lookup EMC for minecraft:netherite_upgrade_smithing_template
 trying tag lookup EMC for minecraft:netherrack
 trying tag lookup EMC for minecraft:obsidian
 trying tag lookup EMC for minecraft:orange_banner
@@ -10587,7 +10277,7 @@ trying tag lookup EMC for minecraft:zombie_head
 new tag
 new tag
 Tag Spreading: spread 0 values
-Meta loop: affected 92 items
+Meta loop: affected 83 items
 Meta Loop: started
 Recipe Loop: Started
 Recipe Loop: derived 0 values
@@ -10596,7 +10286,6 @@ trying tag lookup EMC for minecraft:allium
 new tag
 new tag
 new tag
-trying tag lookup EMC for minecraft:ancient_debris
 trying tag lookup EMC for minecraft:arrow
 new tag
 new tag
@@ -11072,13 +10761,6 @@ trying tag lookup EMC for minecraft:nether_wart
 trying tag lookup EMC for minecraft:nether_wart_block
 new tag
 new tag
-trying tag lookup EMC for minecraft:netherite_axe
-trying tag lookup EMC for minecraft:netherite_hoe
-trying tag lookup EMC for minecraft:netherite_pickaxe
-trying tag lookup EMC for minecraft:netherite_scrap
-trying tag lookup EMC for minecraft:netherite_shovel
-trying tag lookup EMC for minecraft:netherite_sword
-trying tag lookup EMC for minecraft:netherite_upgrade_smithing_template
 trying tag lookup EMC for minecraft:netherrack
 trying tag lookup EMC for minecraft:obsidian
 trying tag lookup EMC for minecraft:orange_banner
@@ -11481,19 +11163,18 @@ gave minecraft:acacia_trapdoor a EMC value of 24
 gave minecraft:acacia_wood a EMC value of 37
 gave minecraft:activator_rail a EMC value of 96
 was unnable to derive EMC for minecraft:allium
-gave minecraft:amethyst_block a EMC value of 1024
-gave minecraft:amethyst_shard a EMC value of 256
-was unnable to derive EMC for minecraft:ancient_debris
-gave minecraft:andesite a EMC value of 129
+gave minecraft:amethyst_block a EMC value of 8192
+gave minecraft:amethyst_shard a EMC value of 2048
+gave minecraft:andesite a EMC value of 3659
 gave minecraft:andesite_slab a EMC value of 1
 gave minecraft:andesite_stairs a EMC value of 5
 gave minecraft:andesite_wall a EMC value of 1
 gave minecraft:anvil a EMC value of 7936
-gave minecraft:apple a EMC value of 256
+gave minecraft:apple a EMC value of 4171
 gave minecraft:armor_stand a EMC value of 24
 was unnable to derive EMC for minecraft:arrow
 was unnable to derive EMC for minecraft:azure_bluet
-gave minecraft:baked_potato a EMC value of 256
+gave minecraft:baked_potato a EMC value of 4171
 was unnable to derive EMC for minecraft:bamboo
 was unnable to derive EMC for minecraft:bamboo_block
 gave minecraft:bamboo_button a EMC value of 8
@@ -11515,10 +11196,10 @@ gave minecraft:bamboo_trapdoor a EMC value of 24
 gave minecraft:barrel a EMC value of 56
 was unnable to derive EMC for minecraft:basalt
 was unnable to derive EMC for minecraft:beacon
-gave minecraft:beef a EMC value of 256
+gave minecraft:beef a EMC value of 4171
 was unnable to derive EMC for minecraft:beehive
-gave minecraft:beetroot a EMC value of 256
-gave minecraft:beetroot_soup a EMC value of 256
+gave minecraft:beetroot a EMC value of 4171
+gave minecraft:beetroot_soup a EMC value of 4171
 gave minecraft:birch_boat a EMC value of 84
 gave minecraft:birch_button a EMC value of 8
 gave minecraft:birch_chest_boat a EMC value of 104
@@ -11539,7 +11220,7 @@ was unnable to derive EMC for minecraft:black_bed
 was unnable to derive EMC for minecraft:black_candle
 was unnable to derive EMC for minecraft:black_carpet
 was unnable to derive EMC for minecraft:black_concrete_powder
-gave minecraft:black_dye a EMC value of 256
+gave minecraft:black_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:black_glazed_terracotta
 was unnable to derive EMC for minecraft:black_shulker_box
 was unnable to derive EMC for minecraft:black_stained_glass
@@ -11558,7 +11239,7 @@ was unnable to derive EMC for minecraft:blue_bed
 was unnable to derive EMC for minecraft:blue_candle
 was unnable to derive EMC for minecraft:blue_carpet
 was unnable to derive EMC for minecraft:blue_concrete_powder
-gave minecraft:blue_dye a EMC value of 256
+gave minecraft:blue_dye a EMC value of 2048
 was unnable to derive EMC for minecraft:blue_glazed_terracotta
 was unnable to derive EMC for minecraft:blue_ice
 was unnable to derive EMC for minecraft:blue_orchid
@@ -11574,7 +11255,7 @@ was unnable to derive EMC for minecraft:book
 was unnable to derive EMC for minecraft:bookshelf
 was unnable to derive EMC for minecraft:bow
 gave minecraft:bowl a EMC value of 6
-gave minecraft:bread a EMC value of 256
+gave minecraft:bread a EMC value of 4171
 gave minecraft:brewing_stand a EMC value of 570
 was unnable to derive EMC for minecraft:brick
 gave minecraft:brick_slab a EMC value of 1
@@ -11586,7 +11267,7 @@ was unnable to derive EMC for minecraft:brown_bed
 was unnable to derive EMC for minecraft:brown_candle
 was unnable to derive EMC for minecraft:brown_carpet
 was unnable to derive EMC for minecraft:brown_concrete_powder
-gave minecraft:brown_dye a EMC value of 256
+gave minecraft:brown_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:brown_glazed_terracotta
 was unnable to derive EMC for minecraft:brown_mushroom
 was unnable to derive EMC for minecraft:brown_shulker_box
@@ -11599,18 +11280,18 @@ gave minecraft:bucket a EMC value of 768
 was unnable to derive EMC for minecraft:cactus
 was unnable to derive EMC for minecraft:cake
 was unnable to derive EMC for minecraft:calibrated_sculk_sensor
-gave minecraft:campfire a EMC value of 379
+gave minecraft:campfire a EMC value of 4294
 was unnable to derive EMC for minecraft:candle
-gave minecraft:carrot a EMC value of 256
+gave minecraft:carrot a EMC value of 4171
 was unnable to derive EMC for minecraft:carrot_on_a_stick
 gave minecraft:cartography_table a EMC value of 570
 was unnable to derive EMC for minecraft:carved_pumpkin
 gave minecraft:cauldron a EMC value of 1792
 gave minecraft:chain a EMC value of 312
-gave minecraft:chainmail_boots a EMC value of 1536
-gave minecraft:chainmail_chestplate a EMC value of 1536
-gave minecraft:chainmail_helmet a EMC value of 1536
-gave minecraft:chainmail_leggings a EMC value of 1536
+gave minecraft:chainmail_boots a EMC value of 18208
+gave minecraft:chainmail_chestplate a EMC value of 18208
+gave minecraft:chainmail_helmet a EMC value of 18208
+gave minecraft:chainmail_leggings a EMC value of 18208
 gave minecraft:charcoal a EMC value of 37
 gave minecraft:cherry_boat a EMC value of 87
 gave minecraft:cherry_button a EMC value of 8
@@ -11629,22 +11310,22 @@ gave minecraft:cherry_trapdoor a EMC value of 24
 gave minecraft:cherry_wood a EMC value of 37
 gave minecraft:chest a EMC value of 64
 gave minecraft:chest_minecart a EMC value of 1344
-gave minecraft:chicken a EMC value of 256
+gave minecraft:chicken a EMC value of 4171
 gave minecraft:chiseled_bookshelf a EMC value of 60
-gave minecraft:chiseled_deepslate a EMC value of 2
+gave minecraft:chiseled_deepslate a EMC value of 1
 gave minecraft:chiseled_nether_bricks a EMC value of 2
 gave minecraft:chiseled_polished_blackstone a EMC value of 2
 gave minecraft:chiseled_quartz_block a EMC value of 2
 gave minecraft:chiseled_red_sandstone a EMC value of 2
 gave minecraft:chiseled_sandstone a EMC value of 2
 gave minecraft:chiseled_stone_bricks a EMC value of 1
-gave minecraft:chorus_fruit a EMC value of 256
+gave minecraft:chorus_fruit a EMC value of 4171
 was unnable to derive EMC for minecraft:clay
 was unnable to derive EMC for minecraft:clay_ball
-gave minecraft:clock a EMC value of 256
-gave minecraft:coal a EMC value of 256
-gave minecraft:coal_block a EMC value of 2304
-gave minecraft:coal_ore a EMC value of 256
+gave minecraft:clock a EMC value of 4171
+gave minecraft:coal a EMC value of 4171
+gave minecraft:coal_block a EMC value of 37539
+gave minecraft:coal_ore a EMC value of 4171
 was unnable to derive EMC for minecraft:coarse_dirt
 was unnable to derive EMC for minecraft:coast_armor_trim_smithing_template
 gave minecraft:cobbled_deepslate a EMC value of 1
@@ -11655,22 +11336,22 @@ gave minecraft:cobblestone_slab a EMC value of 0
 gave minecraft:cobblestone_stairs a EMC value of 1
 gave minecraft:cobblestone_wall a EMC value of 1
 was unnable to derive EMC for minecraft:cocoa_beans
-gave minecraft:cod a EMC value of 256
-gave minecraft:comparator a EMC value of 1039
-gave minecraft:compass a EMC value of 1280
+gave minecraft:cod a EMC value of 4171
+gave minecraft:comparator a EMC value of 29283
+gave minecraft:compass a EMC value of 8341
 gave minecraft:composter a EMC value of 28
 was unnable to derive EMC for minecraft:conduit
-gave minecraft:cooked_beef a EMC value of 256
-gave minecraft:cooked_chicken a EMC value of 256
-gave minecraft:cooked_cod a EMC value of 256
-gave minecraft:cooked_mutton a EMC value of 256
-gave minecraft:cooked_porkchop a EMC value of 256
-gave minecraft:cooked_rabbit a EMC value of 256
-gave minecraft:cooked_salmon a EMC value of 256
-gave minecraft:cookie a EMC value of 256
-gave minecraft:copper_block a EMC value of 2304
-gave minecraft:copper_ingot a EMC value of 256
-gave minecraft:copper_ore a EMC value of 256
+gave minecraft:cooked_beef a EMC value of 4171
+gave minecraft:cooked_chicken a EMC value of 4171
+gave minecraft:cooked_cod a EMC value of 4171
+gave minecraft:cooked_mutton a EMC value of 4171
+gave minecraft:cooked_porkchop a EMC value of 4171
+gave minecraft:cooked_rabbit a EMC value of 4171
+gave minecraft:cooked_salmon a EMC value of 4171
+gave minecraft:cookie a EMC value of 4171
+gave minecraft:copper_block a EMC value of 113274
+gave minecraft:copper_ingot a EMC value of 12586
+gave minecraft:copper_ore a EMC value of 4171
 was unnable to derive EMC for minecraft:cornflower
 gave minecraft:cracked_deepslate_bricks a EMC value of 1
 gave minecraft:cracked_deepslate_tiles a EMC value of 1
@@ -11695,7 +11376,7 @@ gave minecraft:crimson_stem a EMC value of 17
 gave minecraft:crimson_trapdoor a EMC value of 24
 was unnable to derive EMC for minecraft:crossbow
 was unnable to derive EMC for minecraft:crying_obsidian
-gave minecraft:cut_copper a EMC value of 2304
+gave minecraft:cut_copper a EMC value of 28318
 gave minecraft:cut_copper_slab a EMC value of 1
 gave minecraft:cut_copper_stairs a EMC value of 7
 gave minecraft:cut_red_sandstone a EMC value of 2
@@ -11707,7 +11388,7 @@ was unnable to derive EMC for minecraft:cyan_bed
 was unnable to derive EMC for minecraft:cyan_candle
 was unnable to derive EMC for minecraft:cyan_carpet
 was unnable to derive EMC for minecraft:cyan_concrete_powder
-gave minecraft:cyan_dye a EMC value of 256
+gave minecraft:cyan_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:cyan_glazed_terracotta
 was unnable to derive EMC for minecraft:cyan_shulker_box
 was unnable to derive EMC for minecraft:cyan_stained_glass
@@ -11740,32 +11421,31 @@ gave minecraft:deepslate_brick_slab a EMC value of 1
 gave minecraft:deepslate_brick_stairs a EMC value of 7
 gave minecraft:deepslate_brick_wall a EMC value of 1
 gave minecraft:deepslate_bricks a EMC value of 1
-gave minecraft:deepslate_coal_ore a EMC value of 256
-gave minecraft:deepslate_copper_ore a EMC value of 256
-gave minecraft:deepslate_diamond_ore a EMC value of 256
-gave minecraft:deepslate_emerald_ore a EMC value of 256
-gave minecraft:deepslate_gold_ore a EMC value of 256
-gave minecraft:deepslate_iron_ore a EMC value of 256
-gave minecraft:deepslate_lapis_ore a EMC value of 256
-gave minecraft:deepslate_redstone_ore a EMC value of 256
+gave minecraft:deepslate_coal_ore a EMC value of 4171
+gave minecraft:deepslate_copper_ore a EMC value of 4171
+gave minecraft:deepslate_diamond_ore a EMC value of 4171
+gave minecraft:deepslate_emerald_ore a EMC value of 4171
+gave minecraft:deepslate_gold_ore a EMC value of 4171
+gave minecraft:deepslate_iron_ore a EMC value of 4171
+gave minecraft:deepslate_lapis_ore a EMC value of 4171
+gave minecraft:deepslate_redstone_ore a EMC value of 4171
 gave minecraft:deepslate_tile_slab a EMC value of 1
 gave minecraft:deepslate_tile_stairs a EMC value of 7
 gave minecraft:deepslate_tile_wall a EMC value of 1
 gave minecraft:deepslate_tiles a EMC value of 1
 gave minecraft:detector_rail a EMC value of 96
-gave minecraft:diamond a EMC value of 256
-gave minecraft:diamond_axe a EMC value of 776
-gave minecraft:diamond_block a EMC value of 2304
-gave minecraft:diamond_boots a EMC value of 1536
-gave minecraft:diamond_chestplate a EMC value of 1536
-gave minecraft:diamond_helmet a EMC value of 1536
-gave minecraft:diamond_hoe a EMC value of 520
-gave minecraft:diamond_leggings a EMC value of 1536
-gave minecraft:diamond_ore a EMC value of 256
-gave minecraft:diamond_pickaxe a EMC value of 776
-gave minecraft:diamond_shovel a EMC value of 264
-gave minecraft:diamond_sword a EMC value of 516
-gave minecraft:diorite a EMC value of 257
+gave minecraft:diamond_axe a EMC value of 6152
+gave minecraft:diamond_block a EMC value of 18432
+gave minecraft:diamond_boots a EMC value of 8192
+gave minecraft:diamond_chestplate a EMC value of 16384
+gave minecraft:diamond_helmet a EMC value of 10240
+gave minecraft:diamond_hoe a EMC value of 4104
+gave minecraft:diamond_leggings a EMC value of 14336
+gave minecraft:diamond_ore a EMC value of 4171
+gave minecraft:diamond_pickaxe a EMC value of 6152
+gave minecraft:diamond_shovel a EMC value of 2056
+gave minecraft:diamond_sword a EMC value of 4100
+gave minecraft:diorite a EMC value of 7318
 gave minecraft:diorite_slab a EMC value of 1
 gave minecraft:diorite_stairs a EMC value of 7
 gave minecraft:diorite_wall a EMC value of 1
@@ -11774,18 +11454,18 @@ was unnable to derive EMC for minecraft:disc_fragment_5
 was unnable to derive EMC for minecraft:dispenser
 was unnable to derive EMC for minecraft:dragon_breath
 was unnable to derive EMC for minecraft:dragon_head
-gave minecraft:dried_kelp a EMC value of 256
-gave minecraft:dried_kelp_block a EMC value of 2304
+gave minecraft:dried_kelp a EMC value of 4171
+gave minecraft:dried_kelp_block a EMC value of 37539
 was unnable to derive EMC for minecraft:dripstone_block
-gave minecraft:dropper a EMC value of 263
+gave minecraft:dropper a EMC value of 7324
 was unnable to derive EMC for minecraft:dune_armor_trim_smithing_template
 was unnable to derive EMC for minecraft:echo_shard
 was unnable to derive EMC for minecraft:egg
 was unnable to derive EMC for minecraft:elytra
-gave minecraft:emerald a EMC value of 256
-gave minecraft:emerald_block a EMC value of 2304
-gave minecraft:emerald_ore a EMC value of 256
-gave minecraft:enchanted_golden_apple a EMC value of 256
+gave minecraft:emerald a EMC value of 2048
+gave minecraft:emerald_block a EMC value of 18432
+gave minecraft:emerald_ore a EMC value of 4171
+gave minecraft:enchanted_golden_apple a EMC value of 4171
 was unnable to derive EMC for minecraft:enchanting_table
 was unnable to derive EMC for minecraft:end_crystal
 was unnable to derive EMC for minecraft:end_rod
@@ -11820,28 +11500,28 @@ was unnable to derive EMC for minecraft:ghast_tear
 was unnable to derive EMC for minecraft:glass
 was unnable to derive EMC for minecraft:glass_bottle
 was unnable to derive EMC for minecraft:glass_pane
-gave minecraft:glistering_melon_slice a EMC value of 256
+gave minecraft:glistering_melon_slice a EMC value of 4171
 was unnable to derive EMC for minecraft:glow_ink_sac
 was unnable to derive EMC for minecraft:glow_item_frame
-gave minecraft:glowstone a EMC value of 1024
-gave minecraft:glowstone_dust a EMC value of 256
-gave minecraft:gold_block a EMC value of 256
-gave minecraft:gold_ingot a EMC value of 256
-gave minecraft:gold_nugget a EMC value of 28
-gave minecraft:gold_ore a EMC value of 256
-gave minecraft:golden_apple a EMC value of 256
-gave minecraft:golden_axe a EMC value of 256
-gave minecraft:golden_boots a EMC value of 256
-gave minecraft:golden_carrot a EMC value of 256
-gave minecraft:golden_chestplate a EMC value of 256
-gave minecraft:golden_helmet a EMC value of 256
-gave minecraft:golden_hoe a EMC value of 256
-gave minecraft:golden_horse_armor a EMC value of 256
-gave minecraft:golden_leggings a EMC value of 256
-gave minecraft:golden_pickaxe a EMC value of 256
-gave minecraft:golden_shovel a EMC value of 256
-gave minecraft:golden_sword a EMC value of 256
-gave minecraft:granite a EMC value of 513
+gave minecraft:glowstone a EMC value of 29268
+gave minecraft:glowstone_dust a EMC value of 7317
+gave minecraft:gold_block a EMC value of 9216
+gave minecraft:gold_ingot a EMC value of 1024
+gave minecraft:gold_nugget a EMC value of 113
+gave minecraft:gold_ore a EMC value of 4171
+gave minecraft:golden_apple a EMC value of 4171
+gave minecraft:golden_axe a EMC value of 3080
+gave minecraft:golden_boots a EMC value of 4096
+gave minecraft:golden_carrot a EMC value of 4171
+gave minecraft:golden_chestplate a EMC value of 8192
+gave minecraft:golden_helmet a EMC value of 5120
+gave minecraft:golden_hoe a EMC value of 2056
+gave minecraft:golden_horse_armor a EMC value of 4171
+gave minecraft:golden_leggings a EMC value of 7168
+gave minecraft:golden_pickaxe a EMC value of 3080
+gave minecraft:golden_shovel a EMC value of 1032
+gave minecraft:golden_sword a EMC value of 2052
+gave minecraft:granite a EMC value of 14635
 gave minecraft:granite_slab a EMC value of 1
 gave minecraft:granite_stairs a EMC value of 7
 gave minecraft:granite_wall a EMC value of 1
@@ -11851,7 +11531,7 @@ was unnable to derive EMC for minecraft:gray_bed
 was unnable to derive EMC for minecraft:gray_candle
 was unnable to derive EMC for minecraft:gray_carpet
 was unnable to derive EMC for minecraft:gray_concrete_powder
-gave minecraft:gray_dye a EMC value of 256
+gave minecraft:gray_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:gray_glazed_terracotta
 was unnable to derive EMC for minecraft:gray_shulker_box
 was unnable to derive EMC for minecraft:gray_stained_glass
@@ -11863,7 +11543,7 @@ was unnable to derive EMC for minecraft:green_bed
 was unnable to derive EMC for minecraft:green_candle
 was unnable to derive EMC for minecraft:green_carpet
 was unnable to derive EMC for minecraft:green_concrete_powder
-gave minecraft:green_dye a EMC value of 256
+gave minecraft:green_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:green_glazed_terracotta
 was unnable to derive EMC for minecraft:green_shulker_box
 was unnable to derive EMC for minecraft:green_stained_glass
@@ -11875,8 +11555,8 @@ was unnable to derive EMC for minecraft:gunpowder
 was unnable to derive EMC for minecraft:hay_block
 was unnable to derive EMC for minecraft:heart_of_the_sea
 gave minecraft:heavy_weighted_pressure_plate a EMC value of 512
-gave minecraft:honey_block a EMC value of 1024
-gave minecraft:honey_bottle a EMC value of 256
+gave minecraft:honey_block a EMC value of 16684
+gave minecraft:honey_bottle a EMC value of 4171
 was unnable to derive EMC for minecraft:honeycomb
 was unnable to derive EMC for minecraft:honeycomb_block
 gave minecraft:hopper a EMC value of 1344
@@ -11896,14 +11576,14 @@ was unnable to derive EMC for minecraft:iron_horse_armor
 gave minecraft:iron_ingot a EMC value of 256
 gave minecraft:iron_leggings a EMC value of 1792
 gave minecraft:iron_nugget a EMC value of 28
-gave minecraft:iron_ore a EMC value of 256
+gave minecraft:iron_ore a EMC value of 4171
 gave minecraft:iron_pickaxe a EMC value of 776
 gave minecraft:iron_shovel a EMC value of 264
 gave minecraft:iron_sword a EMC value of 516
 gave minecraft:iron_trapdoor a EMC value of 1024
 was unnable to derive EMC for minecraft:item_frame
 was unnable to derive EMC for minecraft:jack_o_lantern
-gave minecraft:jukebox a EMC value of 320
+gave minecraft:jukebox a EMC value of 2112
 gave minecraft:jungle_boat a EMC value of 89
 gave minecraft:jungle_button a EMC value of 8
 gave minecraft:jungle_chest_boat a EMC value of 104
@@ -11921,17 +11601,17 @@ gave minecraft:jungle_trapdoor a EMC value of 24
 gave minecraft:jungle_wood a EMC value of 37
 was unnable to derive EMC for minecraft:kelp
 gave minecraft:ladder a EMC value of 9
-gave minecraft:lantern a EMC value of 289
-gave minecraft:lapis_block a EMC value of 2304
-gave minecraft:lapis_lazuli a EMC value of 256
-gave minecraft:lapis_ore a EMC value of 256
+gave minecraft:lantern a EMC value of 1267
+gave minecraft:lapis_block a EMC value of 18432
+gave minecraft:lapis_lazuli a EMC value of 2048
+gave minecraft:lapis_ore a EMC value of 4171
 was unnable to derive EMC for minecraft:lead
 was unnable to derive EMC for minecraft:leather
-gave minecraft:leather_boots a EMC value of 1216
-gave minecraft:leather_chestplate a EMC value of 1216
-gave minecraft:leather_helmet a EMC value of 1216
-gave minecraft:leather_horse_armor a EMC value of 1216
-gave minecraft:leather_leggings a EMC value of 1216
+gave minecraft:leather_boots a EMC value of 18208
+gave minecraft:leather_chestplate a EMC value of 18208
+gave minecraft:leather_helmet a EMC value of 18208
+gave minecraft:leather_horse_armor a EMC value of 18208
+gave minecraft:leather_leggings a EMC value of 18208
 gave minecraft:lectern a EMC value of 570
 gave minecraft:lever a EMC value of 5
 was unnable to derive EMC for minecraft:light_blue_banner
@@ -11939,7 +11619,7 @@ was unnable to derive EMC for minecraft:light_blue_bed
 was unnable to derive EMC for minecraft:light_blue_candle
 was unnable to derive EMC for minecraft:light_blue_carpet
 was unnable to derive EMC for minecraft:light_blue_concrete_powder
-gave minecraft:light_blue_dye a EMC value of 256
+gave minecraft:light_blue_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:light_blue_glazed_terracotta
 was unnable to derive EMC for minecraft:light_blue_shulker_box
 was unnable to derive EMC for minecraft:light_blue_stained_glass
@@ -11951,15 +11631,15 @@ was unnable to derive EMC for minecraft:light_gray_bed
 was unnable to derive EMC for minecraft:light_gray_candle
 was unnable to derive EMC for minecraft:light_gray_carpet
 was unnable to derive EMC for minecraft:light_gray_concrete_powder
-gave minecraft:light_gray_dye a EMC value of 256
+gave minecraft:light_gray_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:light_gray_glazed_terracotta
 was unnable to derive EMC for minecraft:light_gray_shulker_box
 was unnable to derive EMC for minecraft:light_gray_stained_glass
 was unnable to derive EMC for minecraft:light_gray_stained_glass_pane
 was unnable to derive EMC for minecraft:light_gray_terracotta
 was unnable to derive EMC for minecraft:light_gray_wool
-gave minecraft:light_weighted_pressure_plate a EMC value of 256
-gave minecraft:lightning_rod a EMC value of 768
+gave minecraft:light_weighted_pressure_plate a EMC value of 2048
+gave minecraft:lightning_rod a EMC value of 37758
 was unnable to derive EMC for minecraft:lilac
 was unnable to derive EMC for minecraft:lily_of_the_valley
 was unnable to derive EMC for minecraft:lime_banner
@@ -11967,7 +11647,7 @@ was unnable to derive EMC for minecraft:lime_bed
 was unnable to derive EMC for minecraft:lime_candle
 was unnable to derive EMC for minecraft:lime_carpet
 was unnable to derive EMC for minecraft:lime_concrete_powder
-gave minecraft:lime_dye a EMC value of 256
+gave minecraft:lime_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:lime_glazed_terracotta
 was unnable to derive EMC for minecraft:lime_shulker_box
 was unnable to derive EMC for minecraft:lime_stained_glass
@@ -11975,14 +11655,14 @@ was unnable to derive EMC for minecraft:lime_stained_glass_pane
 was unnable to derive EMC for minecraft:lime_terracotta
 was unnable to derive EMC for minecraft:lime_wool
 was unnable to derive EMC for minecraft:lingering_potion
-gave minecraft:lodestone a EMC value of 264
+gave minecraft:lodestone a EMC value of 36488
 gave minecraft:loom a EMC value of 570
 was unnable to derive EMC for minecraft:magenta_banner
 was unnable to derive EMC for minecraft:magenta_bed
 was unnable to derive EMC for minecraft:magenta_candle
 was unnable to derive EMC for minecraft:magenta_carpet
 was unnable to derive EMC for minecraft:magenta_concrete_powder
-gave minecraft:magenta_dye a EMC value of 256
+gave minecraft:magenta_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:magenta_glazed_terracotta
 was unnable to derive EMC for minecraft:magenta_shulker_box
 was unnable to derive EMC for minecraft:magenta_stained_glass
@@ -12008,9 +11688,9 @@ gave minecraft:mangrove_stairs a EMC value of 12
 gave minecraft:mangrove_trapdoor a EMC value of 24
 gave minecraft:mangrove_wood a EMC value of 37
 was unnable to derive EMC for minecraft:map
-gave minecraft:melon a EMC value of 2304
-gave minecraft:melon_seeds a EMC value of 256
-gave minecraft:melon_slice a EMC value of 256
+gave minecraft:melon a EMC value of 37539
+gave minecraft:melon_seeds a EMC value of 4171
+gave minecraft:melon_slice a EMC value of 4171
 was unnable to derive EMC for minecraft:milk_bucket
 gave minecraft:minecart a EMC value of 1280
 was unnable to derive EMC for minecraft:mojang_banner_pattern
@@ -12030,9 +11710,9 @@ gave minecraft:mud_brick_stairs a EMC value of 7
 gave minecraft:mud_brick_wall a EMC value of 1
 was unnable to derive EMC for minecraft:mud_bricks
 was unnable to derive EMC for minecraft:muddy_mangrove_roots
-gave minecraft:mushroom_stew a EMC value of 256
+gave minecraft:mushroom_stew a EMC value of 4171
 was unnable to derive EMC for minecraft:music_disc_5
-gave minecraft:mutton a EMC value of 256
+gave minecraft:mutton a EMC value of 4171
 was unnable to derive EMC for minecraft:nautilus_shell
 was unnable to derive EMC for minecraft:nether_brick
 gave minecraft:nether_brick_fence a EMC value of 13
@@ -12040,26 +11720,25 @@ gave minecraft:nether_brick_slab a EMC value of 1
 gave minecraft:nether_brick_stairs a EMC value of 7
 gave minecraft:nether_brick_wall a EMC value of 1
 was unnable to derive EMC for minecraft:nether_bricks
-gave minecraft:nether_gold_ore a EMC value of 256
-gave minecraft:nether_quartz_ore a EMC value of 256
+gave minecraft:nether_gold_ore a EMC value of 4171
+gave minecraft:nether_quartz_ore a EMC value of 4171
 was unnable to derive EMC for minecraft:nether_star
 was unnable to derive EMC for minecraft:nether_wart
 was unnable to derive EMC for minecraft:nether_wart_block
-was unnable to derive EMC for minecraft:netherite_axe
-gave minecraft:netherite_block a EMC value of 2304
-gave minecraft:netherite_boots a EMC value of 1216
-gave minecraft:netherite_chestplate a EMC value of 1216
-gave minecraft:netherite_helmet a EMC value of 1216
-was unnable to derive EMC for minecraft:netherite_hoe
-gave minecraft:netherite_ingot a EMC value of 256
-gave minecraft:netherite_leggings a EMC value of 1216
-was unnable to derive EMC for minecraft:netherite_pickaxe
-was unnable to derive EMC for minecraft:netherite_scrap
-was unnable to derive EMC for minecraft:netherite_shovel
-was unnable to derive EMC for minecraft:netherite_sword
-was unnable to derive EMC for minecraft:netherite_upgrade_smithing_template
+gave minecraft:netherite_axe a EMC value of 46728
+gave minecraft:netherite_block a EMC value of 328320
+gave minecraft:netherite_boots a EMC value of 48768
+gave minecraft:netherite_chestplate a EMC value of 56960
+gave minecraft:netherite_helmet a EMC value of 50816
+gave minecraft:netherite_hoe a EMC value of 44680
+gave minecraft:netherite_ingot a EMC value of 36480
+gave minecraft:netherite_leggings a EMC value of 54912
+gave minecraft:netherite_pickaxe a EMC value of 46728
+gave minecraft:netherite_scrap a EMC value of 8096
+gave minecraft:netherite_shovel a EMC value of 42632
+gave minecraft:netherite_sword a EMC value of 44676
 was unnable to derive EMC for minecraft:netherrack
-gave minecraft:note_block a EMC value of 320
+gave minecraft:note_block a EMC value of 7381
 gave minecraft:oak_boat a EMC value of 40
 gave minecraft:oak_button a EMC value of 8
 gave minecraft:oak_chest_boat a EMC value of 104
@@ -12074,14 +11753,14 @@ gave minecraft:oak_slab a EMC value of 4
 gave minecraft:oak_stairs a EMC value of 12
 gave minecraft:oak_trapdoor a EMC value of 24
 gave minecraft:oak_wood a EMC value of 42
-gave minecraft:observer a EMC value of 774
+gave minecraft:observer a EMC value of 21957
 was unnable to derive EMC for minecraft:obsidian
 was unnable to derive EMC for minecraft:orange_banner
 was unnable to derive EMC for minecraft:orange_bed
 was unnable to derive EMC for minecraft:orange_candle
 was unnable to derive EMC for minecraft:orange_carpet
 was unnable to derive EMC for minecraft:orange_concrete_powder
-gave minecraft:orange_dye a EMC value of 256
+gave minecraft:orange_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:orange_glazed_terracotta
 was unnable to derive EMC for minecraft:orange_shulker_box
 was unnable to derive EMC for minecraft:orange_stained_glass
@@ -12105,7 +11784,7 @@ was unnable to derive EMC for minecraft:pink_bed
 was unnable to derive EMC for minecraft:pink_candle
 was unnable to derive EMC for minecraft:pink_carpet
 was unnable to derive EMC for minecraft:pink_concrete_powder
-gave minecraft:pink_dye a EMC value of 256
+gave minecraft:pink_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:pink_glazed_terracotta
 was unnable to derive EMC for minecraft:pink_petals
 was unnable to derive EMC for minecraft:pink_shulker_box
@@ -12114,11 +11793,11 @@ was unnable to derive EMC for minecraft:pink_stained_glass_pane
 was unnable to derive EMC for minecraft:pink_terracotta
 was unnable to derive EMC for minecraft:pink_tulip
 was unnable to derive EMC for minecraft:pink_wool
-gave minecraft:piston a EMC value of 540
+gave minecraft:piston a EMC value of 7601
 was unnable to derive EMC for minecraft:pitcher_plant
 was unnable to derive EMC for minecraft:player_head
 was unnable to derive EMC for minecraft:pointed_dripstone
-gave minecraft:polished_andesite a EMC value of 129
+gave minecraft:polished_andesite a EMC value of 3659
 gave minecraft:polished_andesite_slab a EMC value of 1
 gave minecraft:polished_andesite_stairs a EMC value of 7
 was unnable to derive EMC for minecraft:polished_basalt
@@ -12136,16 +11815,16 @@ gave minecraft:polished_deepslate a EMC value of 1
 gave minecraft:polished_deepslate_slab a EMC value of 1
 gave minecraft:polished_deepslate_stairs a EMC value of 7
 gave minecraft:polished_deepslate_wall a EMC value of 1
-gave minecraft:polished_diorite a EMC value of 257
+gave minecraft:polished_diorite a EMC value of 7318
 gave minecraft:polished_diorite_slab a EMC value of 1
 gave minecraft:polished_diorite_stairs a EMC value of 7
-gave minecraft:polished_granite a EMC value of 513
+gave minecraft:polished_granite a EMC value of 14635
 gave minecraft:polished_granite_slab a EMC value of 1
 gave minecraft:polished_granite_stairs a EMC value of 7
-gave minecraft:popped_chorus_fruit a EMC value of 256
+gave minecraft:popped_chorus_fruit a EMC value of 4171
 was unnable to derive EMC for minecraft:poppy
-gave minecraft:porkchop a EMC value of 256
-gave minecraft:potato a EMC value of 256
+gave minecraft:porkchop a EMC value of 4171
+gave minecraft:potato a EMC value of 4171
 was unnable to derive EMC for minecraft:potion
 gave minecraft:powered_rail a EMC value of 96
 was unnable to derive EMC for minecraft:prismarine
@@ -12157,50 +11836,49 @@ was unnable to derive EMC for minecraft:prismarine_shard
 gave minecraft:prismarine_slab a EMC value of 1
 gave minecraft:prismarine_stairs a EMC value of 7
 gave minecraft:prismarine_wall a EMC value of 1
-gave minecraft:pufferfish a EMC value of 256
+gave minecraft:pufferfish a EMC value of 4171
 was unnable to derive EMC for minecraft:pumpkin
-gave minecraft:pumpkin_pie a EMC value of 256
+gave minecraft:pumpkin_pie a EMC value of 4171
 was unnable to derive EMC for minecraft:pumpkin_seeds
 was unnable to derive EMC for minecraft:purple_banner
 was unnable to derive EMC for minecraft:purple_bed
 was unnable to derive EMC for minecraft:purple_candle
 was unnable to derive EMC for minecraft:purple_carpet
 was unnable to derive EMC for minecraft:purple_concrete_powder
-gave minecraft:purple_dye a EMC value of 256
+gave minecraft:purple_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:purple_glazed_terracotta
 was unnable to derive EMC for minecraft:purple_shulker_box
 was unnable to derive EMC for minecraft:purple_stained_glass
 was unnable to derive EMC for minecraft:purple_stained_glass_pane
 was unnable to derive EMC for minecraft:purple_terracotta
 was unnable to derive EMC for minecraft:purple_wool
-gave minecraft:purpur_block a EMC value of 256
+gave minecraft:purpur_block a EMC value of 4171
 gave minecraft:purpur_pillar a EMC value of 2
 gave minecraft:purpur_slab a EMC value of 1
 gave minecraft:purpur_stairs a EMC value of 7
-gave minecraft:quartz a EMC value of 256
-gave minecraft:quartz_block a EMC value of 1024
-gave minecraft:quartz_bricks a EMC value of 1024
-gave minecraft:quartz_pillar a EMC value of 1024
+gave minecraft:quartz a EMC value of 7317
+gave minecraft:quartz_block a EMC value of 29268
+gave minecraft:quartz_bricks a EMC value of 29268
+gave minecraft:quartz_pillar a EMC value of 29268
 gave minecraft:quartz_slab a EMC value of 1
 gave minecraft:quartz_stairs a EMC value of 7
-gave minecraft:rabbit a EMC value of 256
+gave minecraft:rabbit a EMC value of 4171
 was unnable to derive EMC for minecraft:rabbit_foot
 was unnable to derive EMC for minecraft:rabbit_hide
-gave minecraft:rabbit_stew a EMC value of 256
+gave minecraft:rabbit_stew a EMC value of 4171
 gave minecraft:rail a EMC value of 96
 was unnable to derive EMC for minecraft:raiser_armor_trim_smithing_template
-gave minecraft:raw_copper a EMC value of 256
-gave minecraft:raw_copper_block a EMC value of 2304
-gave minecraft:raw_gold a EMC value of 256
-gave minecraft:raw_gold_block a EMC value of 256
+gave minecraft:raw_copper a EMC value of 640
+gave minecraft:raw_copper_block a EMC value of 5760
+gave minecraft:raw_gold_block a EMC value of 9216
 gave minecraft:raw_iron_block a EMC value of 2304
-gave minecraft:recovery_compass a EMC value of 1280
+gave minecraft:recovery_compass a EMC value of 8341
 was unnable to derive EMC for minecraft:red_banner
 was unnable to derive EMC for minecraft:red_bed
 was unnable to derive EMC for minecraft:red_candle
 was unnable to derive EMC for minecraft:red_carpet
 was unnable to derive EMC for minecraft:red_concrete_powder
-gave minecraft:red_dye a EMC value of 256
+gave minecraft:red_dye a EMC value of 4171
 was unnable to derive EMC for minecraft:red_glazed_terracotta
 was unnable to derive EMC for minecraft:red_mushroom
 gave minecraft:red_nether_brick_slab a EMC value of 1
@@ -12218,16 +11896,16 @@ was unnable to derive EMC for minecraft:red_stained_glass_pane
 was unnable to derive EMC for minecraft:red_terracotta
 was unnable to derive EMC for minecraft:red_tulip
 was unnable to derive EMC for minecraft:red_wool
-gave minecraft:redstone a EMC value of 256
-gave minecraft:redstone_block a EMC value of 2304
-gave minecraft:redstone_lamp a EMC value of 2048
-gave minecraft:redstone_ore a EMC value of 256
-gave minecraft:redstone_torch a EMC value of 260
-gave minecraft:repeater a EMC value of 779
+gave minecraft:redstone a EMC value of 7317
+gave minecraft:redstone_block a EMC value of 65853
+gave minecraft:redstone_lamp a EMC value of 58536
+gave minecraft:redstone_ore a EMC value of 4171
+gave minecraft:redstone_torch a EMC value of 7321
+gave minecraft:repeater a EMC value of 21962
 was unnable to derive EMC for minecraft:respawn_anchor
 was unnable to derive EMC for minecraft:rib_armor_trim_smithing_template
 was unnable to derive EMC for minecraft:rose_bush
-gave minecraft:salmon a EMC value of 256
+gave minecraft:salmon a EMC value of 4171
 was unnable to derive EMC for minecraft:sand
 gave minecraft:sandstone a EMC value of 2
 gave minecraft:sandstone_slab a EMC value of 1
@@ -12252,7 +11930,7 @@ was unnable to derive EMC for minecraft:slime_block
 gave minecraft:smithing_table a EMC value of 544
 gave minecraft:smoker a EMC value of 570
 was unnable to derive EMC for minecraft:smooth_basalt
-gave minecraft:smooth_quartz a EMC value of 1024
+gave minecraft:smooth_quartz a EMC value of 29268
 gave minecraft:smooth_quartz_slab a EMC value of 1
 gave minecraft:smooth_quartz_stairs a EMC value of 7
 gave minecraft:smooth_red_sandstone a EMC value of 2
@@ -12272,7 +11950,7 @@ was unnable to derive EMC for minecraft:soul_lantern
 was unnable to derive EMC for minecraft:soul_sand
 was unnable to derive EMC for minecraft:soul_torch
 was unnable to derive EMC for minecraft:spectral_arrow
-gave minecraft:spider_eye a EMC value of 256
+gave minecraft:spider_eye a EMC value of 4171
 was unnable to derive EMC for minecraft:spire_armor_trim_smithing_template
 was unnable to derive EMC for minecraft:splash_potion
 was unnable to derive EMC for minecraft:sponge
@@ -12291,7 +11969,7 @@ gave minecraft:spruce_slab a EMC value of 4
 gave minecraft:spruce_stairs a EMC value of 12
 gave minecraft:spruce_trapdoor a EMC value of 24
 gave minecraft:spruce_wood a EMC value of 37
-gave minecraft:spyglass a EMC value of 768
+gave minecraft:spyglass a EMC value of 27220
 gave minecraft:stick a EMC value of 4
 was unnable to derive EMC for minecraft:sticky_piston
 gave minecraft:stone a EMC value of 1
@@ -12331,10 +12009,10 @@ gave minecraft:stripped_spruce_log a EMC value of 37
 gave minecraft:stripped_spruce_wood a EMC value of 37
 gave minecraft:stripped_warped_hyphae a EMC value of 15
 gave minecraft:stripped_warped_stem a EMC value of 15
-gave minecraft:sugar a EMC value of 85
+gave minecraft:sugar a EMC value of 1390
 was unnable to derive EMC for minecraft:sugar_cane
 was unnable to derive EMC for minecraft:sunflower
-gave minecraft:suspicious_stew a EMC value of 256
+gave minecraft:suspicious_stew a EMC value of 4171
 was unnable to derive EMC for minecraft:target
 was unnable to derive EMC for minecraft:terracotta
 was unnable to derive EMC for minecraft:tide_armor_trim_smithing_template
@@ -12342,12 +12020,12 @@ was unnable to derive EMC for minecraft:tinted_glass
 was unnable to derive EMC for minecraft:tipped_arrow
 was unnable to derive EMC for minecraft:tnt
 was unnable to derive EMC for minecraft:tnt_minecart
-gave minecraft:torch a EMC value of 65
+gave minecraft:torch a EMC value of 1043
 was unnable to derive EMC for minecraft:torchflower
 gave minecraft:trapped_chest a EMC value of 198
 was unnable to derive EMC for minecraft:trident
 gave minecraft:tripwire_hook a EMC value of 134
-gave minecraft:turtle_helmet a EMC value of 1216
+gave minecraft:turtle_helmet a EMC value of 18208
 was unnable to derive EMC for minecraft:vex_armor_trim_smithing_template
 was unnable to derive EMC for minecraft:vine
 was unnable to derive EMC for minecraft:ward_armor_trim_smithing_template
@@ -12394,7 +12072,7 @@ was unnable to derive EMC for minecraft:white_bed
 was unnable to derive EMC for minecraft:white_candle
 was unnable to derive EMC for minecraft:white_carpet
 was unnable to derive EMC for minecraft:white_concrete_powder
-gave minecraft:white_dye a EMC value of 256
+gave minecraft:white_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:white_glazed_terracotta
 was unnable to derive EMC for minecraft:white_shulker_box
 was unnable to derive EMC for minecraft:white_stained_glass
@@ -12417,7 +12095,7 @@ was unnable to derive EMC for minecraft:yellow_bed
 was unnable to derive EMC for minecraft:yellow_candle
 was unnable to derive EMC for minecraft:yellow_carpet
 was unnable to derive EMC for minecraft:yellow_concrete_powder
-gave minecraft:yellow_dye a EMC value of 256
+gave minecraft:yellow_dye a EMC value of 3109
 was unnable to derive EMC for minecraft:yellow_glazed_terracotta
 was unnable to derive EMC for minecraft:yellow_shulker_box
 was unnable to derive EMC for minecraft:yellow_stained_glass
@@ -12425,5 +12103,5 @@ was unnable to derive EMC for minecraft:yellow_stained_glass_pane
 was unnable to derive EMC for minecraft:yellow_terracotta
 was unnable to derive EMC for minecraft:yellow_wool
 was unnable to derive EMC for minecraft:zombie_head
-out of 961 items 556 recieved EMC values
-please manually give [minecraft:allium, minecraft:ancient_debris, minecraft:arrow, minecraft:azure_bluet, minecraft:bamboo, minecraft:bamboo_block, minecraft:basalt, minecraft:beacon, minecraft:beehive, minecraft:black_banner, minecraft:black_bed, minecraft:black_candle, minecraft:black_carpet, minecraft:black_concrete_powder, minecraft:black_glazed_terracotta, minecraft:black_shulker_box, minecraft:black_stained_glass, minecraft:black_stained_glass_pane, minecraft:black_terracotta, minecraft:black_wool, minecraft:blaze_powder, minecraft:blaze_rod, minecraft:blue_banner, minecraft:blue_bed, minecraft:blue_candle, minecraft:blue_carpet, minecraft:blue_concrete_powder, minecraft:blue_glazed_terracotta, minecraft:blue_ice, minecraft:blue_orchid, minecraft:blue_shulker_box, minecraft:blue_stained_glass, minecraft:blue_stained_glass_pane, minecraft:blue_terracotta, minecraft:blue_wool, minecraft:bone, minecraft:bone_block, minecraft:bone_meal, minecraft:book, minecraft:bookshelf, minecraft:bow, minecraft:brick, minecraft:bricks, minecraft:brown_banner, minecraft:brown_bed, minecraft:brown_candle, minecraft:brown_carpet, minecraft:brown_concrete_powder, minecraft:brown_glazed_terracotta, minecraft:brown_mushroom, minecraft:brown_shulker_box, minecraft:brown_stained_glass, minecraft:brown_stained_glass_pane, minecraft:brown_terracotta, minecraft:brown_wool, minecraft:brush, minecraft:cactus, minecraft:cake, minecraft:calibrated_sculk_sensor, minecraft:candle, minecraft:carrot_on_a_stick, minecraft:carved_pumpkin, minecraft:clay, minecraft:clay_ball, minecraft:coarse_dirt, minecraft:coast_armor_trim_smithing_template, minecraft:cocoa_beans, minecraft:conduit, minecraft:cornflower, minecraft:cracked_nether_bricks, minecraft:creeper_banner_pattern, minecraft:creeper_head, minecraft:crossbow, minecraft:crying_obsidian, minecraft:cyan_banner, minecraft:cyan_bed, minecraft:cyan_candle, minecraft:cyan_carpet, minecraft:cyan_concrete_powder, minecraft:cyan_glazed_terracotta, minecraft:cyan_shulker_box, minecraft:cyan_stained_glass, minecraft:cyan_stained_glass_pane, minecraft:cyan_terracotta, minecraft:cyan_wool, minecraft:dandelion, minecraft:dark_prismarine, minecraft:daylight_detector, minecraft:decorated_pot, minecraft:dirt, minecraft:disc_fragment_5, minecraft:dispenser, minecraft:dragon_breath, minecraft:dragon_head, minecraft:dripstone_block, minecraft:dune_armor_trim_smithing_template, minecraft:echo_shard, minecraft:egg, minecraft:elytra, minecraft:enchanting_table, minecraft:end_crystal, minecraft:end_rod, minecraft:end_stone, minecraft:end_stone_bricks, minecraft:ender_eye, minecraft:ender_pearl, minecraft:exposed_copper, minecraft:exposed_cut_copper, minecraft:eye_armor_trim_smithing_template, minecraft:feather, minecraft:fermented_spider_eye, minecraft:filled_map, minecraft:fire_charge, minecraft:firework_rocket, minecraft:firework_star, minecraft:fishing_rod, minecraft:flint, minecraft:flint_and_steel, minecraft:flower_banner_pattern, minecraft:flower_pot, minecraft:ghast_tear, minecraft:glass, minecraft:glass_bottle, minecraft:glass_pane, minecraft:glow_ink_sac, minecraft:glow_item_frame, minecraft:gravel, minecraft:gray_banner, minecraft:gray_bed, minecraft:gray_candle, minecraft:gray_carpet, minecraft:gray_concrete_powder, minecraft:gray_glazed_terracotta, minecraft:gray_shulker_box, minecraft:gray_stained_glass, minecraft:gray_stained_glass_pane, minecraft:gray_terracotta, minecraft:gray_wool, minecraft:green_banner, minecraft:green_bed, minecraft:green_candle, minecraft:green_carpet, minecraft:green_concrete_powder, minecraft:green_glazed_terracotta, minecraft:green_shulker_box, minecraft:green_stained_glass, minecraft:green_stained_glass_pane, minecraft:green_terracotta, minecraft:green_wool, minecraft:gunpowder, minecraft:hay_block, minecraft:heart_of_the_sea, minecraft:honeycomb, minecraft:honeycomb_block, minecraft:host_armor_trim_smithing_template, minecraft:ice, minecraft:ink_sac, minecraft:iron_horse_armor, minecraft:item_frame, minecraft:jack_o_lantern, minecraft:kelp, minecraft:lead, minecraft:leather, minecraft:light_blue_banner, minecraft:light_blue_bed, minecraft:light_blue_candle, minecraft:light_blue_carpet, minecraft:light_blue_concrete_powder, minecraft:light_blue_glazed_terracotta, minecraft:light_blue_shulker_box, minecraft:light_blue_stained_glass, minecraft:light_blue_stained_glass_pane, minecraft:light_blue_terracotta, minecraft:light_blue_wool, minecraft:light_gray_banner, minecraft:light_gray_bed, minecraft:light_gray_candle, minecraft:light_gray_carpet, minecraft:light_gray_concrete_powder, minecraft:light_gray_glazed_terracotta, minecraft:light_gray_shulker_box, minecraft:light_gray_stained_glass, minecraft:light_gray_stained_glass_pane, minecraft:light_gray_terracotta, minecraft:light_gray_wool, minecraft:lilac, minecraft:lily_of_the_valley, minecraft:lime_banner, minecraft:lime_bed, minecraft:lime_candle, minecraft:lime_carpet, minecraft:lime_concrete_powder, minecraft:lime_glazed_terracotta, minecraft:lime_shulker_box, minecraft:lime_stained_glass, minecraft:lime_stained_glass_pane, minecraft:lime_terracotta, minecraft:lime_wool, minecraft:lingering_potion, minecraft:magenta_banner, minecraft:magenta_bed, minecraft:magenta_candle, minecraft:magenta_carpet, minecraft:magenta_concrete_powder, minecraft:magenta_glazed_terracotta, minecraft:magenta_shulker_box, minecraft:magenta_stained_glass, minecraft:magenta_stained_glass_pane, minecraft:magenta_terracotta, minecraft:magenta_wool, minecraft:magma_block, minecraft:magma_cream, minecraft:mangrove_roots, minecraft:map, minecraft:milk_bucket, minecraft:mojang_banner_pattern, minecraft:moss_block, minecraft:moss_carpet, minecraft:mossy_cobblestone, minecraft:mud, minecraft:mud_bricks, minecraft:muddy_mangrove_roots, minecraft:music_disc_5, minecraft:nautilus_shell, minecraft:nether_brick, minecraft:nether_bricks, minecraft:nether_star, minecraft:nether_wart, minecraft:nether_wart_block, minecraft:netherite_axe, minecraft:netherite_hoe, minecraft:netherite_pickaxe, minecraft:netherite_scrap, minecraft:netherite_shovel, minecraft:netherite_sword, minecraft:netherite_upgrade_smithing_template, minecraft:netherrack, minecraft:obsidian, minecraft:orange_banner, minecraft:orange_bed, minecraft:orange_candle, minecraft:orange_carpet, minecraft:orange_concrete_powder, minecraft:orange_glazed_terracotta, minecraft:orange_shulker_box, minecraft:orange_stained_glass, minecraft:orange_stained_glass_pane, minecraft:orange_terracotta, minecraft:orange_tulip, minecraft:orange_wool, minecraft:oxeye_daisy, minecraft:oxidized_copper, minecraft:oxidized_cut_copper, minecraft:packed_ice, minecraft:packed_mud, minecraft:painting, minecraft:paper, minecraft:peony, minecraft:phantom_membrane, minecraft:pink_banner, minecraft:pink_bed, minecraft:pink_candle, minecraft:pink_carpet, minecraft:pink_concrete_powder, minecraft:pink_glazed_terracotta, minecraft:pink_petals, minecraft:pink_shulker_box, minecraft:pink_stained_glass, minecraft:pink_stained_glass_pane, minecraft:pink_terracotta, minecraft:pink_tulip, minecraft:pink_wool, minecraft:pitcher_plant, minecraft:player_head, minecraft:pointed_dripstone, minecraft:polished_basalt, minecraft:poppy, minecraft:potion, minecraft:prismarine, minecraft:prismarine_bricks, minecraft:prismarine_crystals, minecraft:prismarine_shard, minecraft:pumpkin, minecraft:pumpkin_seeds, minecraft:purple_banner, minecraft:purple_bed, minecraft:purple_candle, minecraft:purple_carpet, minecraft:purple_concrete_powder, minecraft:purple_glazed_terracotta, minecraft:purple_shulker_box, minecraft:purple_stained_glass, minecraft:purple_stained_glass_pane, minecraft:purple_terracotta, minecraft:purple_wool, minecraft:rabbit_foot, minecraft:rabbit_hide, minecraft:raiser_armor_trim_smithing_template, minecraft:red_banner, minecraft:red_bed, minecraft:red_candle, minecraft:red_carpet, minecraft:red_concrete_powder, minecraft:red_glazed_terracotta, minecraft:red_mushroom, minecraft:red_nether_bricks, minecraft:red_sand, minecraft:red_shulker_box, minecraft:red_stained_glass, minecraft:red_stained_glass_pane, minecraft:red_terracotta, minecraft:red_tulip, minecraft:red_wool, minecraft:respawn_anchor, minecraft:rib_armor_trim_smithing_template, minecraft:rose_bush, minecraft:sand, minecraft:scaffolding, minecraft:sculk_sensor, minecraft:scute, minecraft:sea_lantern, minecraft:sea_pickle, minecraft:sentry_armor_trim_smithing_template, minecraft:shaper_armor_trim_smithing_template, minecraft:shulker_box, minecraft:shulker_shell, minecraft:silence_armor_trim_smithing_template, minecraft:skeleton_skull, minecraft:skull_banner_pattern, minecraft:slime_ball, minecraft:slime_block, minecraft:smooth_basalt, minecraft:snout_armor_trim_smithing_template, minecraft:snow, minecraft:snow_block, minecraft:snowball, minecraft:soul_campfire, minecraft:soul_lantern, minecraft:soul_sand, minecraft:soul_torch, minecraft:spectral_arrow, minecraft:spire_armor_trim_smithing_template, minecraft:splash_potion, minecraft:sponge, minecraft:sticky_piston, minecraft:string, minecraft:stripped_bamboo_block, minecraft:sugar_cane, minecraft:sunflower, minecraft:target, minecraft:terracotta, minecraft:tide_armor_trim_smithing_template, minecraft:tinted_glass, minecraft:tipped_arrow, minecraft:tnt, minecraft:tnt_minecart, minecraft:torchflower, minecraft:trident, minecraft:vex_armor_trim_smithing_template, minecraft:vine, minecraft:ward_armor_trim_smithing_template, minecraft:warped_fungus, minecraft:warped_fungus_on_a_stick, minecraft:waxed_copper_block, minecraft:waxed_cut_copper, minecraft:waxed_exposed_copper, minecraft:waxed_exposed_cut_copper, minecraft:waxed_oxidized_copper, minecraft:waxed_oxidized_cut_copper, minecraft:waxed_weathered_copper, minecraft:waxed_weathered_cut_copper, minecraft:wayfinder_armor_trim_smithing_template, minecraft:weathered_copper, minecraft:weathered_cut_copper, minecraft:wet_sponge, minecraft:wheat, minecraft:white_banner, minecraft:white_bed, minecraft:white_candle, minecraft:white_carpet, minecraft:white_concrete_powder, minecraft:white_glazed_terracotta, minecraft:white_shulker_box, minecraft:white_stained_glass, minecraft:white_stained_glass_pane, minecraft:white_terracotta, minecraft:white_tulip, minecraft:white_wool, minecraft:wild_armor_trim_smithing_template, minecraft:wither_rose, minecraft:wither_skeleton_skull, minecraft:writable_book, minecraft:written_book, minecraft:yellow_banner, minecraft:yellow_bed, minecraft:yellow_candle, minecraft:yellow_carpet, minecraft:yellow_concrete_powder, minecraft:yellow_glazed_terracotta, minecraft:yellow_shulker_box, minecraft:yellow_stained_glass, minecraft:yellow_stained_glass_pane, minecraft:yellow_terracotta, minecraft:yellow_wool, minecraft:zombie_head] EMC values
+out of 957 items 560 recieved EMC values
+please manually give [minecraft:allium, minecraft:arrow, minecraft:azure_bluet, minecraft:bamboo, minecraft:bamboo_block, minecraft:basalt, minecraft:beacon, minecraft:beehive, minecraft:black_banner, minecraft:black_bed, minecraft:black_candle, minecraft:black_carpet, minecraft:black_concrete_powder, minecraft:black_glazed_terracotta, minecraft:black_shulker_box, minecraft:black_stained_glass, minecraft:black_stained_glass_pane, minecraft:black_terracotta, minecraft:black_wool, minecraft:blaze_powder, minecraft:blaze_rod, minecraft:blue_banner, minecraft:blue_bed, minecraft:blue_candle, minecraft:blue_carpet, minecraft:blue_concrete_powder, minecraft:blue_glazed_terracotta, minecraft:blue_ice, minecraft:blue_orchid, minecraft:blue_shulker_box, minecraft:blue_stained_glass, minecraft:blue_stained_glass_pane, minecraft:blue_terracotta, minecraft:blue_wool, minecraft:bone, minecraft:bone_block, minecraft:bone_meal, minecraft:book, minecraft:bookshelf, minecraft:bow, minecraft:brick, minecraft:bricks, minecraft:brown_banner, minecraft:brown_bed, minecraft:brown_candle, minecraft:brown_carpet, minecraft:brown_concrete_powder, minecraft:brown_glazed_terracotta, minecraft:brown_mushroom, minecraft:brown_shulker_box, minecraft:brown_stained_glass, minecraft:brown_stained_glass_pane, minecraft:brown_terracotta, minecraft:brown_wool, minecraft:brush, minecraft:cactus, minecraft:cake, minecraft:calibrated_sculk_sensor, minecraft:candle, minecraft:carrot_on_a_stick, minecraft:carved_pumpkin, minecraft:clay, minecraft:clay_ball, minecraft:coarse_dirt, minecraft:coast_armor_trim_smithing_template, minecraft:cocoa_beans, minecraft:conduit, minecraft:cornflower, minecraft:cracked_nether_bricks, minecraft:creeper_banner_pattern, minecraft:creeper_head, minecraft:crossbow, minecraft:crying_obsidian, minecraft:cyan_banner, minecraft:cyan_bed, minecraft:cyan_candle, minecraft:cyan_carpet, minecraft:cyan_concrete_powder, minecraft:cyan_glazed_terracotta, minecraft:cyan_shulker_box, minecraft:cyan_stained_glass, minecraft:cyan_stained_glass_pane, minecraft:cyan_terracotta, minecraft:cyan_wool, minecraft:dandelion, minecraft:dark_prismarine, minecraft:daylight_detector, minecraft:decorated_pot, minecraft:dirt, minecraft:disc_fragment_5, minecraft:dispenser, minecraft:dragon_breath, minecraft:dragon_head, minecraft:dripstone_block, minecraft:dune_armor_trim_smithing_template, minecraft:echo_shard, minecraft:egg, minecraft:elytra, minecraft:enchanting_table, minecraft:end_crystal, minecraft:end_rod, minecraft:end_stone, minecraft:end_stone_bricks, minecraft:ender_eye, minecraft:ender_pearl, minecraft:exposed_copper, minecraft:exposed_cut_copper, minecraft:eye_armor_trim_smithing_template, minecraft:feather, minecraft:fermented_spider_eye, minecraft:filled_map, minecraft:fire_charge, minecraft:firework_rocket, minecraft:firework_star, minecraft:fishing_rod, minecraft:flint, minecraft:flint_and_steel, minecraft:flower_banner_pattern, minecraft:flower_pot, minecraft:ghast_tear, minecraft:glass, minecraft:glass_bottle, minecraft:glass_pane, minecraft:glow_ink_sac, minecraft:glow_item_frame, minecraft:gravel, minecraft:gray_banner, minecraft:gray_bed, minecraft:gray_candle, minecraft:gray_carpet, minecraft:gray_concrete_powder, minecraft:gray_glazed_terracotta, minecraft:gray_shulker_box, minecraft:gray_stained_glass, minecraft:gray_stained_glass_pane, minecraft:gray_terracotta, minecraft:gray_wool, minecraft:green_banner, minecraft:green_bed, minecraft:green_candle, minecraft:green_carpet, minecraft:green_concrete_powder, minecraft:green_glazed_terracotta, minecraft:green_shulker_box, minecraft:green_stained_glass, minecraft:green_stained_glass_pane, minecraft:green_terracotta, minecraft:green_wool, minecraft:gunpowder, minecraft:hay_block, minecraft:heart_of_the_sea, minecraft:honeycomb, minecraft:honeycomb_block, minecraft:host_armor_trim_smithing_template, minecraft:ice, minecraft:ink_sac, minecraft:iron_horse_armor, minecraft:item_frame, minecraft:jack_o_lantern, minecraft:kelp, minecraft:lead, minecraft:leather, minecraft:light_blue_banner, minecraft:light_blue_bed, minecraft:light_blue_candle, minecraft:light_blue_carpet, minecraft:light_blue_concrete_powder, minecraft:light_blue_glazed_terracotta, minecraft:light_blue_shulker_box, minecraft:light_blue_stained_glass, minecraft:light_blue_stained_glass_pane, minecraft:light_blue_terracotta, minecraft:light_blue_wool, minecraft:light_gray_banner, minecraft:light_gray_bed, minecraft:light_gray_candle, minecraft:light_gray_carpet, minecraft:light_gray_concrete_powder, minecraft:light_gray_glazed_terracotta, minecraft:light_gray_shulker_box, minecraft:light_gray_stained_glass, minecraft:light_gray_stained_glass_pane, minecraft:light_gray_terracotta, minecraft:light_gray_wool, minecraft:lilac, minecraft:lily_of_the_valley, minecraft:lime_banner, minecraft:lime_bed, minecraft:lime_candle, minecraft:lime_carpet, minecraft:lime_concrete_powder, minecraft:lime_glazed_terracotta, minecraft:lime_shulker_box, minecraft:lime_stained_glass, minecraft:lime_stained_glass_pane, minecraft:lime_terracotta, minecraft:lime_wool, minecraft:lingering_potion, minecraft:magenta_banner, minecraft:magenta_bed, minecraft:magenta_candle, minecraft:magenta_carpet, minecraft:magenta_concrete_powder, minecraft:magenta_glazed_terracotta, minecraft:magenta_shulker_box, minecraft:magenta_stained_glass, minecraft:magenta_stained_glass_pane, minecraft:magenta_terracotta, minecraft:magenta_wool, minecraft:magma_block, minecraft:magma_cream, minecraft:mangrove_roots, minecraft:map, minecraft:milk_bucket, minecraft:mojang_banner_pattern, minecraft:moss_block, minecraft:moss_carpet, minecraft:mossy_cobblestone, minecraft:mud, minecraft:mud_bricks, minecraft:muddy_mangrove_roots, minecraft:music_disc_5, minecraft:nautilus_shell, minecraft:nether_brick, minecraft:nether_bricks, minecraft:nether_star, minecraft:nether_wart, minecraft:nether_wart_block, minecraft:netherrack, minecraft:obsidian, minecraft:orange_banner, minecraft:orange_bed, minecraft:orange_candle, minecraft:orange_carpet, minecraft:orange_concrete_powder, minecraft:orange_glazed_terracotta, minecraft:orange_shulker_box, minecraft:orange_stained_glass, minecraft:orange_stained_glass_pane, minecraft:orange_terracotta, minecraft:orange_tulip, minecraft:orange_wool, minecraft:oxeye_daisy, minecraft:oxidized_copper, minecraft:oxidized_cut_copper, minecraft:packed_ice, minecraft:packed_mud, minecraft:painting, minecraft:paper, minecraft:peony, minecraft:phantom_membrane, minecraft:pink_banner, minecraft:pink_bed, minecraft:pink_candle, minecraft:pink_carpet, minecraft:pink_concrete_powder, minecraft:pink_glazed_terracotta, minecraft:pink_petals, minecraft:pink_shulker_box, minecraft:pink_stained_glass, minecraft:pink_stained_glass_pane, minecraft:pink_terracotta, minecraft:pink_tulip, minecraft:pink_wool, minecraft:pitcher_plant, minecraft:player_head, minecraft:pointed_dripstone, minecraft:polished_basalt, minecraft:poppy, minecraft:potion, minecraft:prismarine, minecraft:prismarine_bricks, minecraft:prismarine_crystals, minecraft:prismarine_shard, minecraft:pumpkin, minecraft:pumpkin_seeds, minecraft:purple_banner, minecraft:purple_bed, minecraft:purple_candle, minecraft:purple_carpet, minecraft:purple_concrete_powder, minecraft:purple_glazed_terracotta, minecraft:purple_shulker_box, minecraft:purple_stained_glass, minecraft:purple_stained_glass_pane, minecraft:purple_terracotta, minecraft:purple_wool, minecraft:rabbit_foot, minecraft:rabbit_hide, minecraft:raiser_armor_trim_smithing_template, minecraft:red_banner, minecraft:red_bed, minecraft:red_candle, minecraft:red_carpet, minecraft:red_concrete_powder, minecraft:red_glazed_terracotta, minecraft:red_mushroom, minecraft:red_nether_bricks, minecraft:red_sand, minecraft:red_shulker_box, minecraft:red_stained_glass, minecraft:red_stained_glass_pane, minecraft:red_terracotta, minecraft:red_tulip, minecraft:red_wool, minecraft:respawn_anchor, minecraft:rib_armor_trim_smithing_template, minecraft:rose_bush, minecraft:sand, minecraft:scaffolding, minecraft:sculk_sensor, minecraft:scute, minecraft:sea_lantern, minecraft:sea_pickle, minecraft:sentry_armor_trim_smithing_template, minecraft:shaper_armor_trim_smithing_template, minecraft:shulker_box, minecraft:shulker_shell, minecraft:silence_armor_trim_smithing_template, minecraft:skeleton_skull, minecraft:skull_banner_pattern, minecraft:slime_ball, minecraft:slime_block, minecraft:smooth_basalt, minecraft:snout_armor_trim_smithing_template, minecraft:snow, minecraft:snow_block, minecraft:snowball, minecraft:soul_campfire, minecraft:soul_lantern, minecraft:soul_sand, minecraft:soul_torch, minecraft:spectral_arrow, minecraft:spire_armor_trim_smithing_template, minecraft:splash_potion, minecraft:sponge, minecraft:sticky_piston, minecraft:string, minecraft:stripped_bamboo_block, minecraft:sugar_cane, minecraft:sunflower, minecraft:target, minecraft:terracotta, minecraft:tide_armor_trim_smithing_template, minecraft:tinted_glass, minecraft:tipped_arrow, minecraft:tnt, minecraft:tnt_minecart, minecraft:torchflower, minecraft:trident, minecraft:vex_armor_trim_smithing_template, minecraft:vine, minecraft:ward_armor_trim_smithing_template, minecraft:warped_fungus, minecraft:warped_fungus_on_a_stick, minecraft:waxed_copper_block, minecraft:waxed_cut_copper, minecraft:waxed_exposed_copper, minecraft:waxed_exposed_cut_copper, minecraft:waxed_oxidized_copper, minecraft:waxed_oxidized_cut_copper, minecraft:waxed_weathered_copper, minecraft:waxed_weathered_cut_copper, minecraft:wayfinder_armor_trim_smithing_template, minecraft:weathered_copper, minecraft:weathered_cut_copper, minecraft:wet_sponge, minecraft:wheat, minecraft:white_banner, minecraft:white_bed, minecraft:white_candle, minecraft:white_carpet, minecraft:white_concrete_powder, minecraft:white_glazed_terracotta, minecraft:white_shulker_box, minecraft:white_stained_glass, minecraft:white_stained_glass_pane, minecraft:white_terracotta, minecraft:white_tulip, minecraft:white_wool, minecraft:wild_armor_trim_smithing_template, minecraft:wither_rose, minecraft:wither_skeleton_skull, minecraft:writable_book, minecraft:written_book, minecraft:yellow_banner, minecraft:yellow_bed, minecraft:yellow_candle, minecraft:yellow_carpet, minecraft:yellow_concrete_powder, minecraft:yellow_glazed_terracotta, minecraft:yellow_shulker_box, minecraft:yellow_stained_glass, minecraft:yellow_stained_glass_pane, minecraft:yellow_terracotta, minecraft:yellow_wool, minecraft:zombie_head] EMC values

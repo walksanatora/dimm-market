@@ -1,5 +1,9 @@
 {
   "minecraft:oak_log": 32,
   "minecraft:cobblestone": 1,
-  "minecraft:raw_iron": 256
+  "minecraft:raw_iron": 256,
+  "minecraft:raw_gold": 1024,
+  "minecraft:diamond": 2048,
+  "minecraft:netherite_upgrade_smithing_template": 4096,
+  "minecraft:ancient_debris": 8096
 }
