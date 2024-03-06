@@ -2,7 +2,6 @@ package net.walksanator.dimm
 
 import dev.emi.emi.api.recipe.EmiRecipe
 import dev.emi.emi.api.stack.ListEmiIngredient
-import dev.emi.emi.api.stack.TagEmiIngredient
 import net.minecraft.util.Identifier
 
 class JsonRecipe(val id: Identifier, val type: Identifier, val input: List<JsonIngredient>, val output: List<JsonIngredient>) {
@@ -34,3 +33,4 @@ class JsonRecipe(val id: Identifier, val type: Identifier, val input: List<JsonI
 }
 
 class JsonIngredient(val id: Identifier, val ammount: Long, val chance: Float)
+class EmcValue(val emc: Int, val from_tag: Boolean)
